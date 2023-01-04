@@ -1,0 +1,506 @@
+,Station ID,Station Name,Location,Domain
+0,5962,Electrono Solutions - Embedded Systems / IoT(Bangalore),Bangalore,Electronics
+1,4680,"Access Livelihoods Consulting India, Ltd. - Social Sector(Hyderabad)",Hyderabad,Finance and Mgmt
+2,5886,Adani Power-Chemical (Biogas design)(Tirora),Tirora,Mechanical
+3,5885,Adani Power-Chemical (Lube oil quality)(Tirora),Tirora,Mechanical
+4,5884,Adani Power-Civil(Tirora),Tirora,Mechanical
+5,5883,Adani Power-Computer science(Tirora),Tirora,Mechanical
+6,5882,Adani Power-Electronics(Tirora),Tirora,Mechanical
+7,5881,Adani Power-Mechanical(Tirora),Tirora,Mechanical
+8,5904,Adarsh Control & Automation Pvt. Ltd- Industrial Automation(Bangalore),Bangalore,Electronics
+9,678,Aditya Birla Insulators(Halol),Halol,Electronics
+10,5759,Aditya Birla Science & Technology-Chemical(Mumbai),Mumbai,Chemical
+11,5862,Aditya Cement Works-Chemical(Shambupura),Shambupura,Cement
+12,5861,Aditya Cement Works-Civil(Shambupura),Shambupura,Cement
+13,5863,Aditya Cement Works-Mechanical(Shambupura),Shambupura,Cement
+14,5864,AECOM Infrastructure-Civil(Mumbai),Mumbai,Infrastructure
+15,5502,Afour tech -Mobile App development(Pune),Pune,IT
+16,5503,Agile connect - Cloud Appplication Dev(Mumbai),Mumbai,IT
+17,5905,Agile Connects Private Ltd - Embedded Systems/IoI(Mumbai),Mumbai,Computer Science
+18,5498,Agile connects- Market survey(Mumbai),Mumbai,Finance and Mgmt
+19,5504,Agnext tech- AL/ML(Sahibzada Ajit Singh Nagar),Sahibzada Ajit Singh Nagar,IT
+20,5505,Agnext tech-Computer Vision(Sahibzada Ajit Singh Nagar),Sahibzada Ajit Singh Nagar,IT
+21,5506,Agnext tech-Software Development(Sahibzada Ajit Singh Nagar),Sahibzada Ajit Singh Nagar,IT
+22,5499,Aizant Global Analytics- Software development(Hyderabad ),Hyderabad,Health Care
+23,5500,Alankaar India- Digital Marketing(Gurgaon),Gurgaon,Finance and Mgmt
+24,4787,Aliens Developers Pvt. Ltd(Hyderabad ),Hyderabad,Infrastructure
+25,5501,"Alma connect - customer relationship management,New delhi(New delhi)",New delhi,Finance and Mgmt
+26,5513,Almaconnect- General Management(New delhi),New delhi,Finance and Mgmt
+27,5459,Americana Foods - Digital Analytics(UAE),UAE,Finance and Mgmt
+28,5460,Americana Foods - Retail Modelling(UAE),UAE,Finance and Mgmt
+29,5494,Americana Foods-Actionable KPI Design & communication(UAE),UAE,Finance and Mgmt
+30,5879,Amritha Tool Crafts-Computer science(Hyderabad ),Hyderabad,Mechanical
+31,5880,Amritha Tool Crafts-Mechanical(Hyderabad ),Hyderabad,Mechanical
+32,5765,Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil(Visakhapatnam ),Visakhapatnam,Finance and Mgmt
+33,5766,Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil(Sri kalahasthi),Sri kalahasthi,Finance and Mgmt
+34,5767,Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil(Bapatla ( Near Amaravti) ),Bapatla ( Near Amaravti),Finance and Mgmt
+35,3133,APS Lifetech(Pune),Pune,Health Care
+36,5507,Arbunize Digital Media Pvt. Ltd - Information Extraction/NLP(Delhi),Delhi,IT
+37,5516,Arbunize digital media- Alternate career prediction(Delhi),Delhi,IT
+38,5508,Arcon Tech- Machine Learning(Mumbai),Mumbai,IT
+39,5906,Army Base Workshop - App/AR/VR(Pitoragarh),Pitoragarh,Mechanical
+40,5907,Army Base Workshop - Electrical Power Systems(Pitoragarh),Pitoragarh,Mechanical
+41,5908,Army Base Workshop - Industrial Automation & Control(Pitoragarh),Pitoragarh,Mechanical
+42,5909,Army Base Workshop - Machine Learning(Pitoragarh),Pitoragarh,Mechanical
+43,5602,Arocom IT - Machine Learning(Gandhinagar ),Gandhinagar,IT
+44,5517,Asanify Technologies- Business development(Kolkata),Kolkata,IT
+45,5519,Asanify Technologies- Social media marketing(Kolkata),Kolkata,IT
+46,5859,Awarpur Cement Works-Chemical(Chandrapur),Chandrapur,Cement
+47,5858,Awarpur Cement Works-Civil(Chandrapur),Chandrapur,Cement
+48,5857,Awarpur Cement Works-Electrical & Electronics(Chandrapur),Chandrapur,Cement
+49,5860,Awarpur Cement Works-Mechanical(Chandrapur),Chandrapur,Cement
+50,5856,Baga Cement Works-Chemical(Solan),Solan,Cement
+51,5854,Baga Cement Works-Civil(Solan),Solan,Cement
+52,5853,Baga Cement Works-Electrical & Electronics(Solan),Solan,Cement
+53,5855,Baga Cement Works-Mechanical(Solan),Solan,Cement
+54,5851,Balaji Cement Works-Chemical(Budawada),Budawada,Cement
+55,5850,Balaji Cement Works-Civil(Budawada),Budawada,Cement
+56,5849,Balaji Cement Works-Electrical & Electronics(Budawada),Budawada,Cement
+57,5852,Balaji Cement Works-Mechanical(Budawada),Budawada,Cement
+58,5847,Bela Cement Works-Electrical & Electronics(Jaypee Puram Bela- MP),Jaypee Puram Bela- MP,Cement
+59,5848,Bela Cement Works-Mechanical(Jaypee Puram Bela- MP),Jaypee Puram Bela- MP,Cement
+60,5520,Belief Systems - General Management(Chennai),Chennai,Finance and Mgmt
+61,5524,Beunlu - Graphic Designing(Gurgaon),Gurgaon,Finance and Mgmt
+62,5522,Beunlu - Sales and Marketing(Gurgaon),Gurgaon,Finance and Mgmt
+63,5954,BeUnlu Private Limited - App/AR/VR(Gurgaon),Gurgaon,Finance and Mgmt
+64,5526,Beunlu- Video editing(Gurgaon),Gurgaon,Finance and Mgmt
+65,4180,Bharat Electronics Limited(Bangalore),Bangalore,IT
+66,5911,Bhaskaracharya Institute For Space Applications And Geoinformatic - Embedded Systems/IoT(Gandhinagar ),Gandhinagar,Electronics
+67,5509,Big Scale tech- Mobile and Web Developemet(Surat ),Surat,IT
+68,5511,Bintix Waste Research Private Limited - Tech-Software Development(Hyderabad ),Hyderabad,IT
+69,5533,Bintix Waste Research Private Limited-Data Analytics(Hyderabad ),Hyderabad,Finance and Mgmt
+70,5757,Birla Polyfibers-Chemical(Harihar),Harihar,Chemical
+71,5758,Birla Polyfibers-Mechanical(Harihar),Harihar,Chemical
+72,5844,Birla White Cement - Civil(Jodhpur),Jodhpur,Cement
+73,5845,Birla White Cement-Chemical(Jodhpur),Jodhpur,Cement
+74,5846,Birla White Cement-Mechanical(Jodhpur),Jodhpur,Cement
+75,5512,BISAG-Software Development(Gandhinagar ),Gandhinagar,Electronics
+76,5803,Blue star Limited-Mechanical (Air conditining and commercial refrigeration)(Ogli),Ogli,Mechanical
+77,5912,Caliber Interconnect Solutions Pvt Ltd-Industrial Automation & Control(Coimbatore),Coimbatore,Electronics
+78,5791,Carborundum universal Limited-Mechanical(Chennai),Chennai,Mechanical
+79,3587,Cateina Technologies Pvt. Ltd.(Mumbai),Mumbai,IT
+80,4692,CCS STRATEGY SOLUTION - FLEXSIM(New delhi),New delhi,Mechanical
+81,5514,CDAC- Web Deveopment(Pune),Pune,IT
+82,5955,CEERI Pilani - App/AR/VR(Pilani),Pilani,Electronics
+83,5914,CEERI Pilani - Embedded Systems/IoT(Pilani),Pilani,Electronics
+84,5934,CEERI Pilani - Industrial Automation and Control (Pilani),Pilani,Electronics
+85,5928,CEERI Pilani - Machine Learning/DSP/AI(Pilani),Pilani,Electronics
+86,5929,CEERI Pilani - VLSI Design/Circuit Design(Pilani),Pilani,Electronics
+87,5374,Celebal Technologies Pvt Ltd (Jaipur),Jaipur,Computer Science
+88,5773,Central Leather Research Institute-Chemical (Unit process & operation)(Chennai),Chennai,Govt Research Lab
+89,5772,Central Leather Research Institute-Chemical(Energy Management)(Chennai),Chennai,Govt Research Lab
+90,5771,Central Leather Research Institute-Electronics(Chennai),Chennai,Govt Research Lab
+91,5774,Central Leather Research Institute-Mechanical(Chennai),Chennai,Govt Research Lab
+92,5937,Central Scientific Instruments Organization - Industrial Automation & Control(Chennai),Chennai,Electronics
+93,4148,Centre for Development of Advanced computing (C-DAC)(Pune),Pune,Computer Science
+94,1409,Centre for Development of Telemetics (CDot)(New delhi),New delhi,Computer Science
+95,3653,Centre for Railway Information Systems(New delhi),New delhi,Computer Science
+96,5755,Century Rayon-Chemical(Mumbai),Mumbai,Chemical
+97,5754,Century Rayon-Electrical & Electronics(Mumbai),Mumbai,Chemical
+98,5756,Century Rayon-Mechanical(Mumbai),Mumbai,Chemical
+99,5737,Chemical & Mineral Industries Pvt Limited-Chemical (Unit process & operation)(Jodhpur),Jodhpur,Chemical
+100,5738,Chemical & Mineral Industries Pvt Limited-Mechanical (Quick lime process)(Jodhpur),Jodhpur,Chemical
+101,5736,Chemical & Mineral Industries Pvt Limited-Mechanical (Vertical lime kiln)(Jodhpur),Jodhpur,Chemical
+102,5735,Chemical & Mineral Industries Pvt Limited-Mechanical(Calcite grinding)(Jodhpur),Jodhpur,Chemical
+103,5753,Chemsys Process Engineering Pvt Limited-Chemical (Unit process & operation)(Pune),Pune,Chemical
+104,5751,Chemsys Process Engineering Pvt Limited_Chemical (Process improvement & utility calculations)(Pune),Pune,Chemical
+105,5752,Chemsys Process Engineering Pvt Limited_Chemical (Process modeling & simulation)(Pune),Pune,Chemical
+106,5970,Coditation Systems Pvt Ltd - Machine Learning(Pune),Pune,IT
+107,5969,Coditation Systems Pvt Ltd - Software Development(Pune),Pune,IT
+108,5527,Coffee Beans- AI(Bengaluru ),Bengaluru,IT
+109,5528,Computer Ware - Others(Wireless Hotspot Management)(New delhi),New delhi,IT
+110,5529,Computer Ware -Others(ReportGeneration)(New delhi),New delhi,IT
+111,3731,Concept Infracon Pvt. Limited(Gurgaon),Gurgaon,Infrastructure
+112,5652,Contenterra Software Private Limited - Software Development(Hyderabad ),Hyderabad,IT
+113,5651,Contenterra Software Private Limited-Analytics/IOT(Hyderabad ),Hyderabad,IT
+114,5695,Convergent Technologies (Sequoia Fitness and Sports Technology Pvt Ltd) -Mobile App Development/Data Analytics(Gurgaon),Gurgaon,IT
+115,5530,Core Compete pvt ltd- others ( data Engineering -ETLL)(Hyderabad ),Hyderabad,IT
+116,5531,coreCompetepvt ltd- Web app development(Hyderabad ),Hyderabad,IT
+117,5694,COUTURE AI- Machine Learning/Deep Learning(Bangalore),Bangalore,IT
+118,5536,CrossBar-Content Creation(Gurgaon),Gurgaon,Finance and Mgmt
+119,5540,CrossBar-Data Analytics(Gurgaon),Gurgaon,Finance and Mgmt
+120,5541,CrossBar-DigitalMarketing(Gurgaon),Gurgaon,Finance and Mgmt
+121,5542,CrossBar-Marketing(Gurgaon),Gurgaon,Finance and Mgmt
+122,3589,CSIR-Institute of Genomics & Integrative Biology(New delhi),New delhi,Health Care
+123,5935,CSIR-National Aerospace Laboratories - Machine Learning/DSP/AI(Pilani),Pilani,Electronics
+124,5936,CSIR-National Aerospace Laboratories - VLSI Design/Circuit Design(Bengaluru ),Bengaluru,Electronics
+125,5980,Cuemath- Business development(Bangalore),Bangalore,IT
+126,5843,Dalla Cement Works-Chemical(Dalla),Dalla,Cement
+127,5544,Data M Intelligence-Marketing Research(Hyderabad ),Hyderabad,Finance and Mgmt
+128,5546,Department of Posts- Financial inclusion(Hyderabad ),Hyderabad,Finance and Mgmt
+129,5867,Development Consultants Pvt Ltd-Civil(Mumbai),Mumbai,Infrastructure
+130,5869,Development Consultants Pvt Ltd-Mechanical (CEMA Std)(Mumbai),Mumbai,Infrastructure
+131,5868,Development Consultants Pvt Ltd-Mechanical (IS 11592)(Mumbai),Mumbai,Infrastructure
+132,5532,Dinero - Full stack Mobile app development(Hyderabad ),Hyderabad,IT
+133,5547,Dinero AI- Marketing(Hyderabad ),Hyderabad,IT
+134,5776,"Divgi TorqTransfer Systems Pvt. Ltd- Manufacturing(Bhosari, Pune )","Bhosari, Pune",Mechanical
+135,5777,"Divgi TorqTransfer Systems Pvt. Ltd-Manufacturing(Shivare,Pune)","Shivare,Pune",Mechanical
+136,5967,DomTech Robotics & Automation-Mechanical(Nashik),Nashik,Mechanical
+137,5977,Domtech Robotics and Automation - Electrical Power Systems(Nashik),Nashik,Electronics
+138,5978,Domtech Robotics and Automation - Embedded Systems/IoT(Nashik),Nashik,Electronics
+139,5979,Domtech Robotics and Automation - VLSI design/Circuit Design(Nashik),Nashik,Electronics
+140,5789,Dr.Reddy-Chemical(Hyderabad ),Hyderabad,Health Care
+141,5788,Dr.Reddy-Pharmaceutical(Hyderabad ),Hyderabad,Health Care
+142,5930,Dynamic Elecpower (P) Ltd - Electrical Power Systems(Bhilwara),Bhilwara,Electronics
+143,5931,Dynamic Elecpower (P) Ltd - Industrial Control & Automation(Bhilwara),Bhilwara,Electronics
+144,5648,E connect - Non Development Projects(Udaipur),Udaipur,IT
+145,5932,E-Connect Solutions Pvt. Ltd - Embedded Systems/IoT(Udaipur),Udaipur,Electronics
+146,5421,Edutech Learning Solutions Pvt. Ltd. (Vadodara ),Vadodara,Electronics
+147,5933,"EFY Group,New Delhi - Embedded Systems / IoT(New delhi)",New delhi,Electronics
+148,5943,Electronics Corporation of India Limited - VLSI Design/Circuit Design(Hyderabad ),Hyderabad,Electronics
+149,5961,Electrono Solutions - App/AR/VR (Bangalore),Bangalore,Electronics
+150,4721,Electrono Solutions - Electrical Power Systems (Bangalore),Bangalore,Electronics
+151,4722,Electrono Solutions - Industrial Control & Automation(Bangalore),Bangalore,Electronics
+152,4724,Elixar Systems - APP Development(New delhi),New delhi,Computer Science
+153,5900,Engineers India Limited-Chemical(Gurugram ),Gurugram,Mechanical
+154,5901,Engineers India Limited-Mechanical(Gurugram ),Gurugram,Mechanical
+155,5420,EUPHEUS LEARNING(New Delhi),New Delhi,Computer Science
+156,5550,Ewar Games- Market analysis(Bangalore),Bangalore,IT
+157,5644,Expound Technivo Pvt Ltd Tech-Software Development(Mumbai),Mumbai,IT
+158,5551,Expound Technivo- Strategy and BD(Mumbai),Mumbai,IT
+159,4405,Futures First Info Services Pvt. Ltd.- Content Development(Gurgaon),Gurgaon,Finance and Mgmt
+160,5899,Gates India Pvt Ltd-Chemical(Chandigarh),Chandigarh,Mechanical
+161,5898,Gates India Pvt Ltd-Mechanical/Manufacturing(Chandigarh),Chandigarh,Mechanical
+162,4785,Give India - Social Sector(New Delhi),New Delhi,Finance and Mgmt
+163,5557,GMR Varalakshmi- General Management(Hyderabad ),Hyderabad,Finance and Mgmt
+164,5534,Goavega-Data Analytics (ML)(Bangalore),Bangalore,IT
+165,5733,Grasim Industries Limited-Chemical (Unit process & operation)(Nagda),Nagda,Chemical
+166,5734,Grasim Industries Limited-Mechanical (Energy Management)(Nagda),Nagda,Chemical
+167,5732,Grasim Industries Limited-Mechanical (Safety and Enviornment)(Nagda),Nagda,Chemical
+168,5515,Greendeck Cliff.ai-Data Integration(Indore ),Indore,IT
+169,5518,Greendeck Cliff.ai-Data Quality Insurance(Indore ),Indore,IT
+170,5521,Greendeck Cliff.ai-Deep Learning(Indore ),Indore,IT
+171,5523,Greendeck Cliff.ai-Full Stack Development(Indore ),Indore,IT
+172,5525,Greendeck Cliff.ai-Machine Learning(Indore ),Indore,IT
+173,5558,Greendeck- content writing(Indore ),Indore,IT
+174,5842,Gujarat Cement-Chemical(Kovaya),Kovaya,Cement
+175,5840,Gujarat Cement-Civil(Kovaya),Kovaya,Cement
+176,5841,Gujarat Cement-Mechanical(Kovaya),Kovaya,Cement
+177,5537,Habbit - Data Analytics(Bangalore),Bangalore,IT
+178,5538,Habbit - Product Management(Bangalore),Bangalore,IT
+179,5539,Habbit - Web Development(Bangalore),Bangalore,IT
+180,5559,Habbit- Business development(Bangalore),Bangalore,IT
+181,5560,Habbit- company valuation(Bangalore),Bangalore,IT
+182,5561,Habbit- content writing(Bangalore),Bangalore,IT
+183,5563,Habbit- market research(Bangalore),Bangalore,IT
+184,5564,Habbit- video production(Bangalore),Bangalore,IT
+185,2666,Happiest Minds Technologies(Bangalore),Bangalore,IT
+186,5638,Helix Techin Info Systems Pvt.Ltd - Data Analytics(Goa),Goa,IT
+187,5637,Helix Techin Info Systems Pvt.Ltd - Machine Learning/NLP(Goa),Goa,IT
+188,5565,"Helpage India, Goa-Data Analytics(Goa)",Goa,Finance and Mgmt
+189,5635,Heraizen Technologies Pvt. Ltd - Web Development(Bangalore),Bangalore,IT
+190,4687,"Hertztech Solutions Pvt Ltd., - AI/ML(Chennai)",Chennai,Mechanical
+191,5801,Hertztech Solutions Pvt Ltd.-Manufacturing(Chennai),Chennai,Mechanical
+192,5634,Hexacorp - Cloud Services(Chennai),Chennai,IT
+193,5633,Hexacorp - Full Stack Development(Chennai),Chennai,IT
+194,5632,Hexacorp - Product Engineering(Chennai),Chennai,IT
+195,5545,Hexagon Capability Center India Pvt. Ltd - Machine Learning(Hyderabad ),Hyderabad,IT
+196,5897,Hexanika-Mechanical(Pune),Pune,Mechanical
+197,5866,Hindustan Colas-Civil(Mumbai),Mumbai,Infrastructure
+198,5838,Hirmi Cement Works-Chemical(Simga),Simga,Cement
+199,5839,Hirmi Cement Works-Civil(Simga),Simga,Cement
+200,5748,Hirmi Cement Works-Mechanical(Simga),Simga,Cement
+201,5631,Homi Bhabha Centre For Science Education - IoT - Web Development(Mumbai),Mumbai,IT
+202,5586,Hyphen Supply Chain Solutions Pvt Ltd - Application Development(Noida),Noida,IT
+203,5443,Hyphen Supply Chain Solutions Pvt Ltd - Coding(Noida),Noida,Computer Science
+204,5442,Hyphen Supply Chain Solutions Pvt Ltd - Financial analysis(Noida),Noida,Finance and Mgmt
+205,5441,Hyphen Supply Chain Solutions Pvt Ltd - Social Media(Noida),Noida,Finance and Mgmt
+206,5573,"I Care Foundation,Mexico-Fundraising(Mexico)",Mexico,Finance and Mgmt
+207,5575,"I Care Foundation,Mexico-Marketing(Mexico)",Mexico,Finance and Mgmt
+208,5577,"I Care Foundation,Mexico-Marketing for Products with cause(Mexico)",Mexico,Finance and Mgmt
+209,5579,"I Care Foundation,Mexico-Sustainability Projects(Mexico)",Mexico,Finance and Mgmt
+210,4284,i-exceed technology solutions private limited(Bangalore),Bangalore,IT
+211,5582,"Icare Foundation NONTECHI Care Foundation,Mexico - Social and environmental analysis(Mexico)",Mexico,Finance and Mgmt
+212,5580,Icare Foundation- Digital initatives(Mexico),Mexico,Finance and Mgmt
+213,5583,Icare Foundation- Project tracker(Mexico),Mexico,Finance and Mgmt
+214,5630,IDS Infotech Ltd - Data Science(Mohali ),Mohali,IT
+215,4339,IMARC Services Pvt. Ltd. - IT(Noida),Noida,Finance and Mgmt
+216,5588,IMARC Services-Market Reasearch(Noida),Noida,Finance and Mgmt
+217,4259,Incozen Therapeutics Pvt. Ltd.(Hyderabad),Hyderabad,Health Care
+218,4539,India Buys - IT(Hyderabad),Hyderabad,Finance and Mgmt
+219,5589,India Buys-Marketing(Hyderabad ),Hyderabad,Finance and Mgmt
+220,2671,Indian Council for Research on International Economic Relations - Electric Mobility Work Program(New delhi),New delhi,Finance and Mgmt
+221,5458,Indian Council for Research on International Economic Relations - Price forecasting of agricultural commodities(New Delhi),New Delhi,Finance and Mgmt
+222,5590,Indian Council for Research on International Economic Relations- Climate change(New delhi),New delhi,Finance and Mgmt
+223,5746,Indian Institute of Petroleum-Chemical (Enviornment Engg)(Dehradun),Dehradun,Chemical
+224,5747,Indian Institute of Petroleum-Chemical (Unit process & operation)(Dehradun),Dehradun,Chemical
+225,5745,Indian Institute of Petroleum-Mechanical (Energy Management)(Dehradun),Dehradun,Chemical
+226,3639,Indian Institute of Public Administration - Secondary Research(New delhi),New delhi,Finance and Mgmt
+227,5944,Indian Institute Of Remote Sensing - Machine Learning/DSP/AI(Dehradun),Dehradun,Computer Science
+228,5799,Indian Oil Corporation Limited-Chemical(New delhi),New delhi,Mechanical
+229,5800,Indian Oil Corporation Limited-Mechanical(New delhi),New delhi,Mechanical
+230,5434,Indian Red Cross Society(Hyderabad),Hyderabad,Finance and Mgmt
+231,4520,Indian Red Cross Society - Operations- General Management(Vijayawada),Vijayawada,Finance and Mgmt
+232,5945,Indian Red Cross Society Blood Bank - App/AR/VR(New delhi),New delhi,Finance and Mgmt
+233,59,Indian Red Cross Society Blood Bank - Social Sector(New delhi),New delhi,Finance and Mgmt
+234,5481,Indian Society for Education and Environment (Chennai),Chennai,Electronics
+235,5989,Indira Gandhi Centre for Atomic Research (IGCAR)(Kalpakkam),Kalpakkam,Govt Research Lab
+236,5587,Ineuron Intelligence - Artificial Intelligence(Bangalore),Bangalore,IT
+237,5990,Instrumentation Solution - Civil(Gurgaon),Gurgaon,Infrastructure
+238,5629,Integra Design-Online - Application Migration(New delhi),New delhi,IT
+239,5628,Integra Design-Online - Real Time Analytics(New delhi),New delhi,IT
+240,5865,Intercontinental Consultants & Technocrats Pvt. Ltd.(ICT)-Civil(Mumbai),Mumbai,Infrastructure
+241,5593,IRCS Delhi General Management(New delhi),New delhi,Finance and Mgmt
+242,5596,IRCS Delhi wireframe design(New delhi),New delhi,Finance and Mgmt
+243,5598,IRCS Hyderabad General Management(Hyderabad ),Hyderabad,Finance and Mgmt
+244,5983,ISEE- Literature Research(Chennai),Chennai,Electronics
+245,5627,IT Department - Government of Rajasthan - Internet of Things(Jaipur),Jaipur,IT
+246,5626,IT Department - Government of Rajasthan - Mobile Application Development(Jaipur),Jaipur,IT
+247,5625,IT Department - Government of Rajasthan - Web Development(Jaipur),Jaipur,IT
+248,5779,Jsw Energy-Chemical(Vijayanagar ),Vijayanagar,Mechanical
+249,5778,Jsw Energy-Mechanical(Vijayanagar ),Vijayanagar,Mechanical
+250,5781,JSW Steel-Chemical(Vijayanagar ),Vijayanagar,Steel
+251,5780,JSW Steel-Mechanical(Vijayanagar ),Vijayanagar,Steel
+252,5874,KEC International Ltd-Civil(Jaipur),Jaipur,Infrastructure
+253,4255,Kerala Infrastructure and Technogy for Education(Trivandrum),Trivandrum,Others
+254,5951,Kizora Software Pvt. Ltd - App/AR/VR(Nagpur),Nagpur,Electronics
+255,5878,Knowzies Technology Solutions-Mechanical(Pune),Pune,Mechanical
+256,5624,Kotak Education Foundation Tech - Web Development(Mumbai),Mumbai,IT
+257,5604,Kotak education- content writing(Mumbai),Mumbai,Finance and Mgmt
+258,5605,Kotak education- dashboard development(Mumbai),Mumbai,Finance and Mgmt
+259,5639,Kotak Education- infographics and video based content(Mumbai),Mumbai,Finance and Mgmt
+260,5640,Kotak education- performance monitoring & evaluation(Mumbai),Mumbai,Finance and Mgmt
+261,5641,Kotak education- Portfolio analysis(Mumbai),Mumbai,Finance and Mgmt
+262,5623,L & T Infotech - Business Intelligence(Mumbai),Mumbai,IT
+263,5622,L & T Infotech - Data Analytics(Mumbai),Mumbai,IT
+264,5621,L & T Infotech - Machine Learning(Mumbai),Mumbai,IT
+265,5620,L & T Infotech - Others(Mumbai),Mumbai,IT
+266,5619,L & T Infotech - Research(Mumbai),Mumbai,IT
+267,5618,L & T Infotech - Web Development(Mumbai),Mumbai,IT
+268,5643,L&T Infotech- Academy and training(Mumbai),Mumbai,IT
+269,5646,L&T Infotech- Business Development(Mumbai),Mumbai,IT
+270,5647,L&T Infotech- Presales(Mumbai),Mumbai,IT
+271,5649,L&T Infotech- Research and study on IIOT(Mumbai),Mumbai,IT
+272,5650,Lakshyam NGO-General Management(Delhi),Delhi,Finance and Mgmt
+273,5656,Learning Mate Solution-Data Analytics on Higehr education(Mumbai),Mumbai,Finance and Mgmt
+274,5653,Learning Mate- Content Architecture(Mumbai),Mumbai,Finance and Mgmt
+275,5654,Learning Mate- Data Insights for higher education(Mumbai),Mumbai,Finance and Mgmt
+276,5655,Learning Mate- Data Insights on K-12(Mumbai),Mumbai,Finance and Mgmt
+277,5942,LightSpeed AI Labs Pvt Ltd - Industrial Automation & Control(Hyderabad ),Hyderabad,Computer Science
+278,5941,LightSpeed AI Labs Pvt Ltd - Machine Learning/DSP/AI(Hyderabad ),Hyderabad,Computer Science
+279,5940,LOGIQ LABS Pvt Ltd - Machine Learning/DSP/AI(Bangalore),Bangalore,Computer Science
+280,5566,LogiQLabs-Data analytics(Bangalore),Bangalore,IT
+281,5410,Love Without Boundaries Foundation- General Management(Kolkata),Kolkata,Finance and Mgmt
+282,5939,Madras Mindworks Pvt Ltd - App/AR/VR(Chennai),Chennai,Computer Science
+283,5761,Madras Mindworks Pvt Ltd -Electronics(Chennai),Chennai,Electronics
+284,5896,Madras Mindworks Pvt Ltd -Mechanical(Chennai),Chennai,Mechanical
+285,5567,MagTapp Technologies- Web development(Mumbai),Mumbai,IT
+286,5657,Magtapp- content development(Mumbai),Mumbai,IT
+287,5658,Magtapp- Digital marketing(Mumbai),Mumbai,IT
+288,5895,Maker&apos;s Asylum-Mechanical(Goa),Goa,Mechanical
+289,5659,Makera- Sales & Marketing(Mapusa ),Mapusa,Mechanical
+290,5660,Malhar Industries- CRM and HR Automation(Nagpur),Nagpur,Mechanical
+291,5836,Manikgarh Cement-Chemical(Chandrapur),Chandrapur,Cement
+292,5744,Manikgarh cement-Electrical & Electronics(Chandrapur),Chandrapur,Cement
+293,5837,Manikgarh Cement-Mechanical(Chandrapur),Chandrapur,Cement
+294,5661,MapmyIndia- Marketing(Bangalore),Bangalore,IT
+295,5568,Mazo solutions- Analytics(Chennai),Chennai,IT
+296,5663,Medcords- Business Analysis(Pune),Pune,Finance and Mgmt
+297,5664,Medcords- content writing(Pune),Pune,Finance and Mgmt
+298,5665,Medcords- Digital marketing(Pune),Pune,Finance and Mgmt
+299,5666,Medcords- Graphic designing(Pune),Pune,Finance and Mgmt
+300,5667,Medcords- Quality Analysis(Pune),Pune,Finance and Mgmt
+301,5668,Medcords- Research in finance(Pune),Pune,Finance and Mgmt
+302,5938,Medsupervision Pvt. Ltd - App/AR/VR(Faridabad),Faridabad,Computer Science
+303,5669,Medsupervision- Digital marketing(Faridabad),Faridabad,IT
+304,5569,Medsupervision-Mobile Appl Development(Faridabad),Faridabad,IT
+305,5923,MELSS - Industrial Automation & Control(Chennai),Chennai,Electronics
+306,5671,Million Sparks Foundation -social media Marketing(Noida),Noida,Finance and Mgmt
+307,5670,Million Sparks Foundation content creation(Noida),Noida,Finance and Mgmt
+308,5672,MSys Technologies- General Management(Chennai),Chennai,Finance and Mgmt
+309,5976,MTAB Engineers Pvt Ltd - Industrial Automation and Control (Tiruvallur),Tiruvallur,Electronics
+310,5775,MTAB Engineers Pvt Ltd- Manufacturing(Tiruvallur),Tiruvallur,Mechanical
+311,5617,Multigraphics - Artificial Intelligence(New delhi),New delhi,IT
+312,5616,Multigraphics - ERP(New delhi),New delhi,IT
+313,5673,Multigraphics Group- Digital marketing(New delhi),New delhi,IT
+314,5674,Multigraphics Group- Market Research(New delhi),New delhi,IT
+315,5675,Multigraphics Group- Project management(New delhi),New delhi,IT
+316,5676,Multigraphics Group- Student behavioral analysis(New delhi),New delhi,IT
+317,5742,Nandi Group ( Sujala Pipe Pvt. Ltd )-Chemical(Nandyal),Nandyal,Chemical
+318,5741,Nandi Group ( Sujala Pipe Pvt. Ltd )-Civil(Nandyal),Nandyal,Chemical
+319,5739,Nandi Group ( Sujala Pipe Pvt. Ltd )-Electronics & Instrumentation(Nandyal),Nandyal,Chemical
+320,5740,Nandi Group ( Sujala Pipe Pvt. Ltd )-Manufacturing(Nandyal),Nandyal,Chemical
+321,5834,Nathdwara Cement Works-Chemical(Sirohi),Sirohi,Cement
+322,5833,Nathdwara Cement Works-Electrical & Electronics(Sirohi),Sirohi,Cement
+323,5835,Nathdwara Cement Works-Mechanical(Sirohi),Sirohi,Cement
+324,5570,"National Centre For Polar And Ocean Research- Data Analytics, Machine Learning(Goa)",Goa,IT
+325,5770,National Chemical Laboratory-Chemical (Bioinformatics)(Pune),Pune,Govt Research Lab
+326,5769,National Chemical Laboratory-Chemical (Process modeling)(Pune),Pune,Govt Research Lab
+327,5768,National Chemical Laboratory-Computer science(Pune),Pune,Govt Research Lab
+328,2804,National Informatics Center (NIC)(Hyderabad),Hyderabad,Computer Science
+329,5922,National Institute of Oceanography - Industrial Automation & Control(Goa),Goa,Computer Science
+330,5921,National Institute of Oceanography -Embedded Systems/IoT(Goa),Goa,Computer Science
+331,5920,National Institute of Oceanography -Machine Learning/DSP/AI(Goa),Goa,Computer Science
+332,5764,National Institute of Rural Development & Panchayati Raj - Civil Engineerin(Hyderabad ),Hyderabad,Finance and Mgmt
+333,3710,National Institute of Rural Development & Panchayati Raj - IT(Hyderabad),Hyderabad,Finance and Mgmt
+334,5872,NCCBM-Chemical(Ballabgarh),Ballabgarh,Infrastructure
+335,5871,NCCBM-Civil(Ballabgarh),Ballabgarh,Infrastructure
+336,5870,NCCBM-EEE/E&I/E&C(Ballabgarh),Ballabgarh,Infrastructure
+337,5873,NCCBM-Mechanical(Ballabgarh),Ballabgarh,Infrastructure
+338,5572,Needl.ai- Data Analytics(Bangalore),Bangalore,IT
+339,5615,NIC- Mobile App development(Hyderabad ),Hyderabad,IT
+340,5677,NIC- Public Distribution System Operations(Hyderabad ),Hyderabad,IT
+341,5614,NIC-Web development(Hyderabad ),Hyderabad,IT
+342,5919,Nihon Communication Solutions Pvt. Ltd - Embebdded Systems/IoT(Bangalore),Bangalore,Electronics
+343,5790,Nippon Paint-Mechanical(Chennai),Chennai,Mechanical
+344,5678,NIRDPM- Analytics and IT Management(Hyderabad ),Hyderabad,Finance and Mgmt
+345,5679,NIRDPM- Civil(Hyderabad ),Hyderabad,Finance and Mgmt
+346,4208,NIVEA India Pvt.Ltd.-Operations Management(Bangalore),Bangalore,Finance and Mgmt
+347,5613,North Eastern Space - Compiler Design/Geo Processing/Machine Learning(Umiam ),Umiam,IT
+348,5611,North Eastern Space - Deep Learning/Machine Learning(Umiam ),Umiam,IT
+349,5609,North Eastern Space - Software Development(Umiam ),Umiam,IT
+350,5893,NTPC-Chemical(Dadri),Dadri,Mechanical
+351,5894,NTPC-Mechanical(Dadri),Dadri,Mechanical
+352,5608,"Persistent Systems Ltd.,Verna - Machine Learning(Goa)",Goa,IT
+353,5681,Pilani AtmaNirbhar Resource Center (PARC)- Communication(Pilani),Pilani,Finance and Mgmt
+354,5682,Pilani AtmaNirbhar Resource Center (PARC)- Digital Literacy(Pilani),Pilani,Finance and Mgmt
+355,5683,Pilani AtmaNirbhar Resource Center (PARC)- Photography(Pilani),Pilani,Finance and Mgmt
+356,5684,Pilani AtmaNirbhar Resource Center (PARC)- Spatial mapping(Pilani),Pilani,Finance and Mgmt
+357,5685,Pipe Candy -Business Analytics(Chennai),Chennai,Finance and Mgmt
+358,5686,Pipe Candy -Industrial Research(Chennai),Chennai,Finance and Mgmt
+359,5687,Pipe Candy -Marketing(Chennai),Chennai,Finance and Mgmt
+360,5890,Plastic water lab-Electronics(Bangalore),Bangalore,Mechanical
+361,5891,Plastic water lab-Mechanical(Bangalore),Bangalore,Mechanical
+362,4743,Plastic Water Labs - Actuators and Sensors in IoT(Bangalore),Bangalore,Mechanical
+363,5574,Platifi Solutions - Full Stack Development(Bangalore),Bangalore,IT
+364,5948,Power Grid Corporation - Electrical Power Systems(Nagpur),Nagpur,Electronics
+365,5688,Prakriti Organics - Website Upgradation or enhancement(Bilaspur ),Bilaspur,Finance and Mgmt
+366,5926,Prama Instruments Private Limited - Industrial Control & Automation(Mumbai),Mumbai,Electronics
+367,5689,PreludeSys- analysis of helpdesk tickets(Chennai),Chennai,IT
+368,5607,Preludesys- Data Analytics(Chennai),Chennai,IT
+369,5690,PreludeSys- IT helpdesk analysis(Chennai),Chennai,IT
+370,5691,PreludeSys- marketing and inside sales analytics(Chennai),Chennai,IT
+371,5692,PreludeSys- People analytics dashboard(Chennai),Chennai,IT
+372,5693,PreludeSys- Presales data analytics(Chennai),Chennai,IT
+373,5889,Preto Tooling Systems-Mechanical(Hyderabad ),Hyderabad,Mechanical
+374,5696,Proindia Healthcare LLP- Business Development(Pune),Pune,Finance and Mgmt
+375,5698,Proindia Healthcare LLP- Website enhancement(Pune),Pune,Finance and Mgmt
+376,5603,Purchasing Power - Web Development/UI Development(Chennai),Chennai,IT
+377,5959,Pyrotech Electronics Pvt. Ltd - Embedded Systems/IoT(Udaipur),Udaipur,Electronics
+378,5960,Pyrotech Electronics Pvt. Ltd - Industrial Automation & Control(Udaipur),Udaipur,Electronics
+379,5576,Race2Cloud Technologies - Software Development(Bangalore),Bangalore,IT
+380,3590,Race2Cloud Technologies Pvt. Ltd. - Apps on Zoho Creator(Bangalore),Bangalore,Computer Science
+381,5831,Rajshree Cement-Chemical(Malkhed),Malkhed,Cement
+382,5830,Rajshree Cement-Civil(Malkhed),Malkhed,Cement
+383,5829,Rajshree Cement-Electrical & Electronics(Malkhed),Malkhed,Cement
+384,5832,Rajshree Cement-Mechanical(Malkhed),Malkhed,Cement
+385,5782,Ramco Steels Pvt. Ltd- Manufacturing(Faridabad),Faridabad,Steel
+386,5699,Rashiv Cloud Solutions- Social media and research(Bangalore),Bangalore,IT
+387,5827,Rawan Cement Works-Chemical(raipur),raipur,Cement
+388,5826,Rawan Cement Works-Civil(raipur),raipur,Cement
+389,5825,Rawan Cement Works-Electrical & Electronics(raipur),raipur,Cement
+390,5828,Rawan Cement Works-Mechanical(raipur),raipur,Cement
+391,5578,Rebus Research - Web Development(Mumbai),Mumbai,IT
+392,5700,Rebus Research Financial Services(Stratzy) - Business development(Mumbai),Mumbai,Finance and Mgmt
+393,5701,Rebus Research Financial Services(Stratzy) - Marketing(Mumbai),Mumbai,Finance and Mgmt
+394,2663,Regional Remote Sensing Centre(Jodhpur),Jodhpur,Computer Science
+395,220,Renu Electronics Pvt Ltd(Pune),Pune,Electronics
+396,5991,Roads and Buildings Department - Govt of Telangana(Hyderabad ),Hyderabad,Infrastructure
+397,5786,Rourkela Steel Plant-Chemical(Rourkela ),Rourkela,Steel
+398,5785,Rourkela Steel Plant-Civil(Rourkela ),Rourkela,Steel
+399,5783,Rourkela Steel Plant-EEE/Instrumentation/communication(Rourkela ),Rourkela,Steel
+400,5787,Rourkela Steel Plant-Mechanical(Rourkela ),Rourkela,Steel
+401,5986,SAMIL- Car Trade exchange business(Delhi),Delhi,Finance and Mgmt
+402,5985,SAMIL- Finance(Delhi),Delhi,Finance and Mgmt
+403,5987,SAMIL- Market Research(Delhi),Delhi,Finance and Mgmt
+404,5984,SAMIL- Vehicle recommendation system(Delhi),Delhi,Finance and Mgmt
+405,5601,Sawolabs Technologies - Software Development(Bangalore),Bangalore,IT
+406,5702,Sawolabs Technologies- Market research(Bangalore),Bangalore,IT
+407,5981,Sawolabs- Developer Advocacy(Bangalore),Bangalore,IT
+408,5949,ScoVelo Consulting - App/AR/VR(Chennai),Chennai,Finance and Mgmt
+409,5953,Semi- conductor laboratoty - VLSI Design/Circuit Design(Mohali ),Mohali,Electronics
+410,5925,SenRa Tech Pvt Ltd - Embedded Systems/IoT(Delhi),Delhi,Electronics
+411,5952,Shalaka Connected Devices LLP - App/AR/VR(Pune),Pune,Electronics
+412,5924,Shalaka Connected Devices LLP - Embedded Systems/IoT(Pune),Pune,Electronics
+413,5887,Shalaka Connected Devices-Mechanical/Manufacturing(Pune),Pune,Mechanical
+414,5982,SharedPro Technologies- Community Building(Vadodara ),Vadodara,IT
+415,5988,Shell Group (HSSE) - Civil (Bangalore),Bangalore,Infrastructure
+416,5823,Sidhi Cement Works-Chemical(Sidhi (MP)),Sidhi (MP),Cement
+417,5822,Sidhi Cement Works-Civil(Sidhi (MP)),Sidhi (MP),Cement
+418,5821,Sidhi Cement Works-Electrical & Electronics(Sidhi (MP)),Sidhi (MP),Cement
+419,5824,Sidhi Cement Works-Mechanical(Sidhi (MP)),Sidhi (MP),Cement
+420,3935,Silver Touch Technologies Ltd(Ahmedabad ),Ahmedabad,Computer Science
+421,88,Smartlink Holdings Ltd ( Digisol Systems Ltd )(Goa),Goa,Computer Science
+422,5918,SNS TECHNOSYS LLP - Embedded Systems/IoT(Pune),Pune,Electronics
+423,5760,Solar Energy Corporation of India-Civi(Delhi),Delhi,Infrastructure
+424,5792,Solar Energy Corporation of India-Mechanical(Delhi),Delhi,Mechanical
+425,5917,STAR Engineers India - Embedded Systems/IoT(Pune),Pune,Electronics
+426,5703,STEM4ALL-Mathematics(Usa),Usa,Finance and Mgmt
+427,5730,Sud-Chemie India Pvt.Ltd-Catalysis and carbon capture(Vadodara ),Vadodara,Chemical
+428,5727,Sud-Chemie India Pvt.Ltd-CFD analysis(Vadodara ),Vadodara,Chemical
+429,5731,Sud-Chemie India Pvt.Ltd-Design of extruder and molecular sieves(Vadodara ),Vadodara,Chemical
+430,5729,Sud-Chemie India Pvt.Ltd-Kinetic modeling(Vadodara ),Vadodara,Chemical
+431,5728,Sud-Chemie India Pvt.Ltd-Zeolites(Vadodara ),Vadodara,Chemical
+432,5704,Suzlon Energy- Branding campaigns and strategy(Pune),Pune,Finance and Mgmt
+433,4554,Suzlon Foundation - Documentation and Analysis(Pune),Pune,Finance and Mgmt
+434,5706,"Swami Vivekanand Gujarat Rajya Yuva Board- Research, Policy and Copywriting(Ahmedabad )",Ahmedabad,Finance and Mgmt
+435,5974,Swecha - Shell Programming(Gachibowli ),Gachibowli,IT
+436,5972,Swecha - Web Development(Gachibowli ),Gachibowli,IT
+437,5975,Swecha Machine Learning(Gachibowli ),Gachibowli,IT
+438,5973,Swecha - Speech Recognition(Gachibowli ),Gachibowli,IT
+439,5600,Swiggy - Software Development(Bangalore),Bangalore,IT
+440,5581,Synchrony International - Data Analytics(Hyderabad ),Hyderabad,IT
+441,5427,Synchrony International Services Pvt Ltd(Hyderabad),Hyderabad,Computer Science
+442,4278,Takshila Learning - IT(New delhi),New delhi,IT
+443,5707,Takshila Learning- Business intelligence(New delhi),New delhi,IT
+444,5708,Takshila Learning- Operations(New delhi),New delhi,IT
+445,5709,Takshila learning- Value education(New delhi),New delhi,IT
+446,5358,"Tamil nadu Startup & Innovation Mission(Startuo TN), EDII -TN(Chennai)",Chennai,Finance and Mgmt
+447,5710,Tamil nadu Startup & Innovation Mission- Strategy Consulting(Chennai),Chennai,Finance and Mgmt
+448,5711,TDF The diamond factory (I) Pvt Ltd - Business Development(Mumbai),Mumbai,Finance and Mgmt
+449,5584,Telangana e-governance - Software Development(Hyderabad ),Hyderabad,IT
+450,4298,TNSTC - Digital Content - Astronomy(Chennai),Chennai,Computer Science
+451,5916,TNSTC - Digital Content - Astronomy - App/AR/VR(Chennai),Chennai,Computer Science
+452,5819,Ultratech Cement Limited-Chemical(Jafrabad),Jafrabad,Cement
+453,5818,Ultratech Cement Limited-Civil(Jafrabad),Jafrabad,Cement
+454,5817,Ultratech Cement Limited-Electrical & Electronics(Jafrabad),Jafrabad,Cement
+455,5820,Ultratech Cement Limited-Mechanical(Jafrabad),Jafrabad,Cement
+456,5815,Ultratech Cement Ltd- Electronics & Instrumentation(Kotputli),Kotputli,Cement
+457,5816,Ultratech Cement Ltd-Mechanical(Kotputli),Kotputli,Cement
+458,5712,Urjanet - Data Analytics(Chennai),Chennai,Finance and Mgmt
+459,5585,Urjanet - Software Development(Chennai),Chennai,IT
+460,5713,Urjanet- Quality assurance(Chennai),Chennai,IT
+461,5599,UST Global - Machine Learning(Trivandrum),Trivandrum,IT
+462,5957,UST Global - Machine Learning/DSP/AI(Trivandrum),Trivandrum,Computer Science
+463,5597,UST Global - Research/Blockchain(Trivandrum),Trivandrum,IT
+464,5958,UST Global - VLSI Design/Circuit Design(Trivandrum),Trivandrum,Computer Science
+465,5793,Vasantha Tool Crafts Pvt Limited-Mechanical(Hyderabad ),Hyderabad,Mechanical
+466,5595,VComply - Data Analytics(Kolkata),Kolkata,IT
+467,5594,VComply - Mobile Applications(Kolkata),Kolkata,IT
+468,5592,VComply - Mobile Applications/NLP(Kolkata),Kolkata,IT
+469,5591,VComply - Software Development(Kolkata),Kolkata,IT
+470,5946,Vidcentum R & D Pvt - Machine Learning/DSP/AI(Hyderabad ),Hyderabad,Electronics
+471,5915,Vikram Cement Works - Industrial Automation & Control(Neemuch ),Neemuch,Cement
+472,5808,Vikram cement works- Civil (Inventory management)(Neemuch ),Neemuch,Cement
+473,5804,Vikram cement works-Civil (Resource optimization)(Neemuch ),Neemuch,Cement
+474,5811,Vikram cement works-Electrical & Electronics(Neemuch ),Neemuch,Cement
+475,5812,Vikram cement works-Mechanical (Digitalization)(Neemuch ),Neemuch,Cement
+476,5806,Vikram cement works-Mechanical (Hazard idntification)(Neemuch ),Neemuch,Cement
+477,5805,Vikram cement works-Mechanical (Maintenance)(Neemuch ),Neemuch,Cement
+478,5807,Vikram cement works-Mechanical (Organizational effectiveness)(Neemuch ),Neemuch,Cement
+479,5809,Vikram cement works-Mechanical (Safety and enviornment)(Neemuch ),Neemuch,Cement
+480,5810,Vikram cement works-Mechanical (Training modules)(Neemuch ),Neemuch,Cement
+481,5814,Vikram cement works-Mechanical (Utility)(Neemuch ),Neemuch,Cement
+482,5553,"Village Book Builders,Mapleton, UT, USA-Backend Development(Usa)",Usa,IT
+483,5555,"Village Book Builders,Mapleton, UT, USA-Front End Development(Usa)",Usa,IT
+484,5556,"Village Book Builders,Mapleton, UT, USA-Web Analytics and Optimizatiom(Usa)",Usa,IT
+485,5717,Village book builders- IT networking(Usa),Usa,IT
+486,5718,Village book builders- Operations automation(Usa),Usa,IT
+487,5796,Viram Technologies Enterprises - Mechanical (Automation design)(Pune),Pune,Mechanical
+488,5794,Viram Technologies Enterprises - Mechanical (Finite Element Analysis)(Pune),Pune,Mechanical
+489,5795,Viram Technologies Enterprises - Mechanical (Piping and thermal analysis)(Pune),Pune,Mechanical
+490,5798,Viram Technologies Enterprises - Mechanical (Process equipment design)(Pune),Pune,Mechanical
+491,5797,Viram Technologies Enterprises - Mechanical (structure analysis)(Pune),Pune,Mechanical
+492,5552,VoiceQube - Software Development(Bangalore),Bangalore,IT
+493,5721,WEBiROID Technology & Consultancy Services - Infographics design(Kolkata),Kolkata,Finance and Mgmt
+494,5381,WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Content development(Kolkata),Kolkata,Computer Science
+495,5380,WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Digital Marketing(Kolkata),Kolkata,Computer Science
+496,5379,WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Investment Research(Kolkata),Kolkata,Finance and Mgmt
+497,4565,William O Neil - Data Analytics(Bangalore),Bangalore,Finance and Mgmt
+498,5469,Xarvis Intelligent Systems Lab Pvt Ltd - Non Tech(Pune),Pune,Finance and Mgmt
+499,5548,"Xarvis Intelligent Systems Lab Pvt Ltd - Tech ,Pune - Software Development(Pune)",Pune,IT
+500,5549,"Xarvis Intelligent Systems Lab Pvt Ltd - Tech ,Pune - UI Development(Pune)",Pune,IT
+501,5971,Yashoda Hospitals - Software Development(Hyderabad ),Hyderabad,IT
+502,5724,Yashoda Hospitals- Medical Inclusion in pain department(Hyderabad ),Hyderabad,Health Care
+503,5359,Yazaki India Private Ltd.(Bengaluru ),Bengaluru,Mechanical
+504,,,,

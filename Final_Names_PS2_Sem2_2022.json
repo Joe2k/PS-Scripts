@@ -1,0 +1,3087 @@
+[
+    {
+        "Station Name": "Indus Insights and Analytical Services Pvt Ltd",
+        "City": "Gurugram",
+        "name": "Indus Insights and Analytical Services Pvt Ltd @ Gurugram"
+    },
+    {
+        "Station Name": "Revos - Firmware",
+        "City": "Bengaluru",
+        "name": "Revos - Firmware @ Bengaluru"
+    },
+    {
+        "Station Name": "A.T. Kearney Consulting (India) Private  Limited",
+        "City": "Gurugram",
+        "name": "A.T. Kearney Consulting (India) Private  Limited @ Gurugram"
+    },
+    {
+        "Station Name": "Addverb Technologies Pvt Ltd",
+        "City": "Noida",
+        "name": "Addverb Technologies Pvt Ltd @ Noida"
+    },
+    {
+        "Station Name": "Aditya Birla Capital - Tech",
+        "City": "Mumbai",
+        "name": "Aditya Birla Capital - Tech @ Mumbai"
+    },
+    {
+        "Station Name": "Aditya Birla Science & Technology Company Ltd.",
+        "City": "Mumbai",
+        "name": "Aditya Birla Science & Technology Company Ltd. @ Mumbai"
+    },
+    {
+        "Station Name": "Adobe Systems",
+        "City": "Bengaluru",
+        "name": "Adobe Systems @ Bengaluru"
+    },
+    {
+        "Station Name": "AECOM",
+        "City": "Mumbai",
+        "name": "AECOM @ Mumbai"
+    },
+    {
+        "Station Name": "Aerchain (Tech)",
+        "City": "Bengaluru",
+        "name": "Aerchain (Tech) @ Bengaluru"
+    },
+    {
+        "Station Name": "Aerchain - Non Tech",
+        "City": "Bengaluru",
+        "name": "Aerchain - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "AFour Technologies Pvt. Ltd.",
+        "City": "Pune",
+        "name": "AFour Technologies Pvt. Ltd. @ Pune"
+    },
+    {
+        "Station Name": "AgNext Technologies",
+        "City": "Mohali",
+        "name": "AgNext Technologies @ Mohali"
+    },
+    {
+        "Station Name": "AgNext Technologies (New)",
+        "City": "Mohali",
+        "name": "AgNext Technologies (New) @ Mohali"
+    },
+    {
+        "Station Name": "AI and Robotics Research park- (ART Park, IISC)",
+        "City": "Bengaluru",
+        "name": "AI and Robotics Research park- (ART Park, IISC) @ Bengaluru"
+    },
+    {
+        "Station Name": "Ai Palette",
+        "City": "Bengaluru",
+        "name": "Ai Palette @ Bengaluru"
+    },
+    {
+        "Station Name": "AiDash System India Private  Limited",
+        "City": "Bengaluru",
+        "name": "AiDash System India Private  Limited @ Bengaluru"
+    },
+    {
+        "Station Name": "Airmeet - Account Management Analysis",
+        "City": "Bengaluru",
+        "name": "Airmeet - Account Management Analysis @ Bengaluru"
+    },
+    {
+        "Station Name": "Airmeet - Business Analysis &Strategy",
+        "City": "Bengaluru",
+        "name": "Airmeet - Business Analysis &Strategy @ Bengaluru"
+    },
+    {
+        "Station Name": "Airmeet - Business Development",
+        "City": "Bengaluru",
+        "name": "Airmeet - Business Development @ Bengaluru"
+    },
+    {
+        "Station Name": "Airmeet - Data Analytics",
+        "City": "Bengaluru",
+        "name": "Airmeet - Data Analytics @ Bengaluru"
+    },
+    {
+        "Station Name": "Airmeet - Sales Enablement and Product Marketing",
+        "City": "Bengaluru",
+        "name": "Airmeet - Sales Enablement and Product Marketing @ Bengaluru"
+    },
+    {
+        "Station Name": "All Rounder Cup (Melio)",
+        "City": "Bengaluru",
+        "name": "All Rounder Cup (Melio) @ Bengaluru"
+    },
+    {
+        "Station Name": "All Rounder Cup (Melio) - Non-Tech",
+        "City": "Bengaluru",
+        "name": "All Rounder Cup (Melio) - Non-Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "AlmaConnect",
+        "City": "Gurugram",
+        "name": "AlmaConnect @ Gurugram"
+    },
+    {
+        "Station Name": "Altair",
+        "City": "Pune",
+        "name": "Altair @ Pune"
+    },
+    {
+        "Station Name": "Altair - Software Development",
+        "City": "Bengaluru",
+        "name": "Altair - Software Development @ Bengaluru"
+    },
+    {
+        "Station Name": "AM PROTOTYPING LABS PVT LTD",
+        "City": "Mumbai",
+        "name": "AM PROTOTYPING LABS PVT LTD @ Mumbai"
+    },
+    {
+        "Station Name": "Amazon - Machine Learning",
+        "City": "Bengaluru",
+        "name": "Amazon - Machine Learning @ Bengaluru"
+    },
+    {
+        "Station Name": "Amazon - Machine Learning",
+        "City": "Hyderabad",
+        "name": "Amazon - Machine Learning @ Hyderabad"
+    },
+    {
+        "Station Name": "Amazon Development Center",
+        "City": "New delhi",
+        "name": "Amazon Development Center @ New delhi"
+    },
+    {
+        "Station Name": "Amazon Development Center",
+        "City": "Hyderabad",
+        "name": "Amazon Development Center @ Hyderabad"
+    },
+    {
+        "Station Name": "Amazon Development Center",
+        "City": "Chennai",
+        "name": "Amazon Development Center @ Chennai"
+    },
+    {
+        "Station Name": "Amazon Development Center",
+        "City": "Bengaluru",
+        "name": "Amazon Development Center @ Bengaluru"
+    },
+    {
+        "Station Name": "Amazon Development Center",
+        "City": "Mumbai",
+        "name": "Amazon Development Center @ Mumbai"
+    },
+    {
+        "Station Name": "Amazon Machine Learning",
+        "City": "Chennai",
+        "name": "Amazon Machine Learning @ Chennai"
+    },
+    {
+        "Station Name": "American Express - AI Lab",
+        "City": "Bengaluru",
+        "name": "American Express - AI Lab @ Bengaluru"
+    },
+    {
+        "Station Name": "American Express - AI Labs",
+        "City": "Gurugram",
+        "name": "American Express - AI Labs @ Gurugram"
+    },
+    {
+        "Station Name": "American Express - Credit & Fraud Risk (Capabilities)",
+        "City": "Gurugram",
+        "name": "American Express - Credit & Fraud Risk (Capabilities) @ Gurugram"
+    },
+    {
+        "Station Name": "American Express - Credit & Fraud Risk (Capabilities)",
+        "City": "Bengaluru",
+        "name": "American Express - Credit & Fraud Risk (Capabilities) @ Bengaluru"
+    },
+    {
+        "Station Name": "American Express - Customer Servicing Management (Project 1)",
+        "City": "Gurugram",
+        "name": "American Express - Customer Servicing Management (Project 1) @ Gurugram"
+    },
+    {
+        "Station Name": "American Express - Customer Servicing Management (Project 2)",
+        "City": "Gurugram",
+        "name": "American Express - Customer Servicing Management (Project 2) @ Gurugram"
+    },
+    {
+        "Station Name": "Amica Financial Technologies  Pvt Ltd. (Jupiter)",
+        "City": "Mumbai",
+        "name": "Amica Financial Technologies  Pvt Ltd. (Jupiter) @ Mumbai"
+    },
+    {
+        "Station Name": "Analog Devices India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Analog Devices India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Anand Automotive",
+        "City": "New delhi",
+        "name": "Anand Automotive @ New delhi"
+    },
+    {
+        "Station Name": "ANS Commerce - Business Growth & Product",
+        "City": "Gurugram",
+        "name": "ANS Commerce - Business Growth & Product @ Gurugram"
+    },
+    {
+        "Station Name": "ANS Commerce - Non tech",
+        "City": "Gurugram",
+        "name": "ANS Commerce - Non tech @ Gurugram"
+    },
+    {
+        "Station Name": "ANS Commerce - Tech",
+        "City": "Gurugram",
+        "name": "ANS Commerce - Tech @ Gurugram"
+    },
+    {
+        "Station Name": "ApexPlus Technologies",
+        "City": "Hyderabad",
+        "name": "ApexPlus Technologies @ Hyderabad"
+    },
+    {
+        "Station Name": "AppBroda  Non Tech. FZCO",
+        "City": "UAE",
+        "name": "AppBroda  Non Tech. FZCO @ UAE"
+    },
+    {
+        "Station Name": "AppBroda Tech. FZCO",
+        "City": "UAE",
+        "name": "AppBroda Tech. FZCO @ UAE"
+    },
+    {
+        "Station Name": "Apple India Pvt Limited",
+        "City": "Hyderabad",
+        "name": "Apple India Pvt Limited @ Hyderabad"
+    },
+    {
+        "Station Name": "Appviewx",
+        "City": "Bengaluru",
+        "name": "Appviewx @ Bengaluru"
+    },
+    {
+        "Station Name": "Aptiv Components India Private Limited ( Delphi Automotive Systems Private Limited)",
+        "City": "Bengaluru",
+        "name": "Aptiv Components India Private Limited ( Delphi Automotive Systems Private Limited) @ Bengaluru"
+    },
+    {
+        "Station Name": "Arista Networks India Private Limited",
+        "City": "Bengaluru",
+        "name": "Arista Networks India Private Limited @ Bengaluru"
+    },
+    {
+        "Station Name": "Arm Soft Technologies",
+        "City": "Chennai",
+        "name": "Arm Soft Technologies @ Chennai"
+    },
+    {
+        "Station Name": "Arup India Pvt. Ltd.",
+        "City": "Hyderabad",
+        "name": "Arup India Pvt. Ltd. @ Hyderabad"
+    },
+    {
+        "Station Name": "Asanify Technologies Pvt Ltd-Business Development",
+        "City": "Kolkata",
+        "name": "Asanify Technologies Pvt Ltd-Business Development @ Kolkata"
+    },
+    {
+        "Station Name": "Asanify Technologies Pvt. Ltd. -Marketing Operations and Growth",
+        "City": "Kolkata",
+        "name": "Asanify Technologies Pvt. Ltd. -Marketing Operations and Growth @ Kolkata"
+    },
+    {
+        "Station Name": "Asanify Technologies Pvt. Ltd.-Product Management",
+        "City": "Kolkata",
+        "name": "Asanify Technologies Pvt. Ltd.-Product Management @ Kolkata"
+    },
+    {
+        "Station Name": "Asanify Technologies Pvt. Ltd._Full Stack Software Engineering",
+        "City": "Kolkata",
+        "name": "Asanify Technologies Pvt. Ltd._Full Stack Software Engineering @ Kolkata"
+    },
+    {
+        "Station Name": "Ascendo. AI",
+        "City": "California",
+        "name": "Ascendo. AI @ California"
+    },
+    {
+        "Station Name": "Atkins",
+        "City": "Gurugram",
+        "name": "Atkins @ Gurugram"
+    },
+    {
+        "Station Name": "Atkins",
+        "City": "Bengaluru",
+        "name": "Atkins @ Bengaluru"
+    },
+    {
+        "Station Name": "Atyati Technologies",
+        "City": "Bengaluru",
+        "name": "Atyati Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "Auquan India Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Auquan India Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Avaamo",
+        "City": "Bengaluru",
+        "name": "Avaamo @ Bengaluru"
+    },
+    {
+        "Station Name": "Avail Finance",
+        "City": "Bengaluru",
+        "name": "Avail Finance @ Bengaluru"
+    },
+    {
+        "Station Name": "Avanti Fellows",
+        "City": "New Delhi",
+        "name": "Avanti Fellows @ New Delhi"
+    },
+    {
+        "Station Name": "AwanTunai",
+        "City": "INDONESIA",
+        "name": "AwanTunai @ INDONESIA"
+    },
+    {
+        "Station Name": "Axiado India Pvt. Ltd.",
+        "City": "Hyderabad",
+        "name": "Axiado India Pvt. Ltd. @ Hyderabad"
+    },
+    {
+        "Station Name": "Bajaj Auto",
+        "City": "Pune",
+        "name": "Bajaj Auto @ Pune"
+    },
+    {
+        "Station Name": "Bambinos Learning solutions pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Bambinos Learning solutions pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Bayfront Capital Advisors Pte Ltd",
+        "City": "Singapore",
+        "name": "Bayfront Capital Advisors Pte Ltd @ Singapore"
+    },
+    {
+        "Station Name": "Bharat Forge Ltd",
+        "City": "Pune",
+        "name": "Bharat Forge Ltd @ Pune"
+    },
+    {
+        "Station Name": "Biocon",
+        "City": "Bengaluru",
+        "name": "Biocon @ Bengaluru"
+    },
+    {
+        "Station Name": "Birla Carbon",
+        "City": "Renukoot",
+        "name": "Birla Carbon @ Renukoot"
+    },
+    {
+        "Station Name": "Birla Carbon",
+        "City": "Chennai",
+        "name": "Birla Carbon @ Chennai"
+    },
+    {
+        "Station Name": "BiteSpeed",
+        "City": "Gurugram",
+        "name": "BiteSpeed @ Gurugram"
+    },
+    {
+        "Station Name": "BlackRock Services",
+        "City": "Gurugram",
+        "name": "BlackRock Services @ Gurugram"
+    },
+    {
+        "Station Name": "Bloomreach Technologies Pvt. Ltd",
+        "City": "Bengaluru",
+        "name": "Bloomreach Technologies Pvt. Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Blue Jeans Network India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Blue Jeans Network India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Bright Champs - Non Tech",
+        "City": "Bengaluru",
+        "name": "Bright Champs - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Bright Champs- Tech",
+        "City": "Bengaluru",
+        "name": "Bright Champs- Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Bundl Technologies Private Limited (Swiggy) - Tech",
+        "City": "Bengaluru",
+        "name": "Bundl Technologies Private Limited (Swiggy) - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Burns & McDonnell India",
+        "City": "Mumbai",
+        "name": "Burns & McDonnell India @ Mumbai"
+    },
+    {
+        "Station Name": "Cambium Networks Pvt.Ltd",
+        "City": "Bengaluru",
+        "name": "Cambium Networks Pvt.Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Capillary Technologies",
+        "City": "Bengaluru",
+        "name": "Capillary Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "Capital Float",
+        "City": "Bengaluru",
+        "name": "Capital Float @ Bengaluru"
+    },
+    {
+        "Station Name": "CEG Limited",
+        "City": "Jaipur",
+        "name": "CEG Limited @ Jaipur"
+    },
+    {
+        "Station Name": "Central Electronics Engineering Research Institute",
+        "City": "Chennai",
+        "name": "Central Electronics Engineering Research Institute @ Chennai"
+    },
+    {
+        "Station Name": "Central Electronics Engineering Research Institute",
+        "City": "Pilani",
+        "name": "Central Electronics Engineering Research Institute @ Pilani"
+    },
+    {
+        "Station Name": "Central Leather Research Institute (CLRI)",
+        "City": "Chennai",
+        "name": "Central Leather Research Institute (CLRI) @ Chennai"
+    },
+    {
+        "Station Name": "Central Road Research Institute",
+        "City": "New delhi",
+        "name": "Central Road Research Institute @ New delhi"
+    },
+    {
+        "Station Name": "Centre for Artificial Intelligence & Robotics",
+        "City": "Bengaluru",
+        "name": "Centre for Artificial Intelligence & Robotics @ Bengaluru"
+    },
+    {
+        "Station Name": "Centre for Development of Advanced Computing (C-DAC)",
+        "City": "Pune",
+        "name": "Centre for Development of Advanced Computing (C-DAC) @ Pune"
+    },
+    {
+        "Station Name": "Chambal Fertilizers & Chemicals Limited",
+        "City": "Kota",
+        "name": "Chambal Fertilizers & Chemicals Limited @ Kota"
+    },
+    {
+        "Station Name": "Chara Technologies",
+        "City": "Bengaluru",
+        "name": "Chara Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "CISCO - Business Analyst",
+        "City": "Bengaluru",
+        "name": "CISCO - Business Analyst @ Bengaluru"
+    },
+    {
+        "Station Name": "Cisco Systems (India) Pvt. Ltd - Software Engineering",
+        "City": "Bengaluru",
+        "name": "Cisco Systems (India) Pvt. Ltd - Software Engineering @ Bengaluru"
+    },
+    {
+        "Station Name": "Cisco Systems (India) Pvt. Ltd. - Hardware",
+        "City": "Bengaluru",
+        "name": "Cisco Systems (India) Pvt. Ltd. - Hardware @ Bengaluru"
+    },
+    {
+        "Station Name": "Citec Engineering India Pvt. Ltd",
+        "City": "Mumbai",
+        "name": "Citec Engineering India Pvt. Ltd @ Mumbai"
+    },
+    {
+        "Station Name": "Citrix",
+        "City": "Bengaluru",
+        "name": "Citrix @ Bengaluru"
+    },
+    {
+        "Station Name": "CL Educate Ltd.",
+        "City": "New delhi",
+        "name": "CL Educate Ltd. @ New delhi"
+    },
+    {
+        "Station Name": "Clarivate Analytics",
+        "City": "Bengaluru",
+        "name": "Clarivate Analytics @ Bengaluru"
+    },
+    {
+        "Station Name": "Class Plus (Non-Tech)",
+        "City": "Noida",
+        "name": "Class Plus (Non-Tech) @ Noida"
+    },
+    {
+        "Station Name": "Classplus",
+        "City": "Noida",
+        "name": "Classplus @ Noida"
+    },
+    {
+        "Station Name": "CleverTap Private Limited",
+        "City": "Mumbai",
+        "name": "CleverTap Private Limited @ Mumbai"
+    },
+    {
+        "Station Name": "CloudFiles India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "CloudFiles India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Cohesity Storage Solutions India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Cohesity Storage Solutions India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "CohnReznick Capital, LLC",
+        "City": "Mumbai",
+        "name": "CohnReznick Capital, LLC @ Mumbai"
+    },
+    {
+        "Station Name": "Collabera Technologies",
+        "City": "Bengaluru",
+        "name": "Collabera Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "CommerceIQ",
+        "City": "Bengaluru",
+        "name": "CommerceIQ @ Bengaluru"
+    },
+    {
+        "Station Name": "CommerceIQ - Nontech",
+        "City": "Bengaluru",
+        "name": "CommerceIQ - Nontech @ Bengaluru"
+    },
+    {
+        "Station Name": "Confluent India Pvt Ltd.",
+        "City": "Bengaluru",
+        "name": "Confluent India Pvt Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "ConnectedH",
+        "City": "Gurugram",
+        "name": "ConnectedH @ Gurugram"
+    },
+    {
+        "Station Name": "Couture AI",
+        "City": "Bengaluru",
+        "name": "Couture AI @ Bengaluru"
+    },
+    {
+        "Station Name": "Credit Suisse - Equity Research",
+        "City": "Mumbai",
+        "name": "Credit Suisse - Equity Research @ Mumbai"
+    },
+    {
+        "Station Name": "Credit Suisse - Finance Change",
+        "City": "Pune",
+        "name": "Credit Suisse - Finance Change @ Pune"
+    },
+    {
+        "Station Name": "Credit Suisse - Global Market Risk Management",
+        "City": "Mumbai",
+        "name": "Credit Suisse - Global Market Risk Management @ Mumbai"
+    },
+    {
+        "Station Name": "Credit Suisse - Group Operations",
+        "City": "Pune",
+        "name": "Credit Suisse - Group Operations @ Pune"
+    },
+    {
+        "Station Name": "Credit Suisse - Non-Financial Risk Management",
+        "City": "Mumbai",
+        "name": "Credit Suisse - Non-Financial Risk Management @ Mumbai"
+    },
+    {
+        "Station Name": "Credit Suisse - Prime Services",
+        "City": "Mumbai",
+        "name": "Credit Suisse - Prime Services @ Mumbai"
+    },
+    {
+        "Station Name": "Credit Suisse - Product Control",
+        "City": "Pune",
+        "name": "Credit Suisse - Product Control @ Pune"
+    },
+    {
+        "Station Name": "Credit Suisse - Quantitative Analysis & Technology",
+        "City": "Mumbai",
+        "name": "Credit Suisse - Quantitative Analysis & Technology @ Mumbai"
+    },
+    {
+        "Station Name": "Credit Suisse - Risk & Finance Data Analytics, Reporting",
+        "City": "Pune",
+        "name": "Credit Suisse - Risk & Finance Data Analytics, Reporting @ Pune"
+    },
+    {
+        "Station Name": "Credit Suisse - Risk & Finance Data Analytics, Reporting",
+        "City": "Mumbai",
+        "name": "Credit Suisse - Risk & Finance Data Analytics, Reporting @ Mumbai"
+    },
+    {
+        "Station Name": "Credit Suisse - Sustainability, Research & Investment Solutions (SRI) - IS&P Global Research",
+        "City": "Mumbai",
+        "name": "Credit Suisse - Sustainability, Research & Investment Solutions (SRI) - IS&P Global Research @ Mumbai"
+    },
+    {
+        "Station Name": "Credit Suisse- Investment Banking and Capital Markets",
+        "City": "Mumbai (Worli)",
+        "name": "Credit Suisse- Investment Banking and Capital Markets @ Mumbai (Worli)"
+    },
+    {
+        "Station Name": "Cresen Solutions/Conera Technologies",
+        "City": "Bengaluru",
+        "name": "Cresen Solutions/Conera Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "Crewscale  (Goscale Technologies Pvt. Ltd.) - Digital Marketing",
+        "City": "Bengaluru",
+        "name": "Crewscale  (Goscale Technologies Pvt. Ltd.) - Digital Marketing @ Bengaluru"
+    },
+    {
+        "Station Name": "Cropin Technologies",
+        "City": "Bengaluru",
+        "name": "Cropin Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "CRUBN",
+        "City": "Kanpur",
+        "name": "CRUBN @ Kanpur"
+    },
+    {
+        "Station Name": "CultureMonkey",
+        "City": "Bengaluru",
+        "name": "CultureMonkey @ Bengaluru"
+    },
+    {
+        "Station Name": "Custom furnish",
+        "City": "Pan India",
+        "name": "Custom furnish @ Pan India"
+    },
+    {
+        "Station Name": "Daimler Trucks",
+        "City": "Bengaluru",
+        "name": "Daimler Trucks @ Bengaluru"
+    },
+    {
+        "Station Name": "DataZymes Analytics",
+        "City": "Bengaluru",
+        "name": "DataZymes Analytics @ Bengaluru"
+    },
+    {
+        "Station Name": "DBOI - Business Finance",
+        "City": "Mumbai",
+        "name": "DBOI - Business Finance @ Mumbai"
+    },
+    {
+        "Station Name": "DBOI - Climate Risk Analysis",
+        "City": "Mumbai",
+        "name": "DBOI - Climate Risk Analysis @ Mumbai"
+    },
+    {
+        "Station Name": "DBOI - Counterparty Credit Ratings",
+        "City": "Mumbai",
+        "name": "DBOI - Counterparty Credit Ratings @ Mumbai"
+    },
+    {
+        "Station Name": "DBOI - Credit Risk Data Unit (CRDU)",
+        "City": "Pune",
+        "name": "DBOI - Credit Risk Data Unit (CRDU) @ Pune"
+    },
+    {
+        "Station Name": "DBOI - ERM - Automation",
+        "City": "Mumbai",
+        "name": "DBOI - ERM - Automation @ Mumbai"
+    },
+    {
+        "Station Name": "DBOI - GFSG (Automation)",
+        "City": "Pune",
+        "name": "DBOI - GFSG (Automation) @ Pune"
+    },
+    {
+        "Station Name": "DBOI - Global Reporting",
+        "City": "Mumbai",
+        "name": "DBOI - Global Reporting @ Mumbai"
+    },
+    {
+        "Station Name": "DBOI - MRAC &amp; MDSA",
+        "City": "Mumbai",
+        "name": "DBOI - MRAC &amp; MDSA @ Mumbai"
+    },
+    {
+        "Station Name": "DBOI - Non-Financial Risk Management",
+        "City": "Mumbai",
+        "name": "DBOI - Non-Financial Risk Management @ Mumbai"
+    },
+    {
+        "Station Name": "DBOI - Valuation Control",
+        "City": "Mumbai",
+        "name": "DBOI - Valuation Control @ Mumbai"
+    },
+    {
+        "Station Name": "DBOI -Finance (Global Reporting)",
+        "City": "Pune",
+        "name": "DBOI -Finance (Global Reporting) @ Pune"
+    },
+    {
+        "Station Name": "DBOI- Infra Finance",
+        "City": "Pune",
+        "name": "DBOI- Infra Finance @ Pune"
+    },
+    {
+        "Station Name": "DBOI-Infra Finance (Global Real Estate Planning Optimization | Analytics)",
+        "City": "Pune",
+        "name": "DBOI-Infra Finance (Global Real Estate Planning Optimization | Analytics) @ Pune"
+    },
+    {
+        "Station Name": "Deep Vision Systems Pvt Ltd",
+        "City": "Hyderabad",
+        "name": "Deep Vision Systems Pvt Ltd @ Hyderabad"
+    },
+    {
+        "Station Name": "Delightful Gourmet Pvt Ltd (Licious)",
+        "City": "Bengaluru",
+        "name": "Delightful Gourmet Pvt Ltd (Licious) @ Bengaluru"
+    },
+    {
+        "Station Name": "Dell R&D",
+        "City": "Bengaluru",
+        "name": "Dell R&D @ Bengaluru"
+    },
+    {
+        "Station Name": "Development Consultants  Pvt. Ltd. (DCPL)",
+        "City": "Mumbai",
+        "name": "Development Consultants  Pvt. Ltd. (DCPL) @ Mumbai"
+    },
+    {
+        "Station Name": "Development Consultants  Pvt. Ltd. (DCPL)",
+        "City": "Kolkata",
+        "name": "Development Consultants  Pvt. Ltd. (DCPL) @ Kolkata"
+    },
+    {
+        "Station Name": "Dezerv  Investments Pvt. Ltd.  - Tech",
+        "City": "Mumbai",
+        "name": "Dezerv  Investments Pvt. Ltd.  - Tech @ Mumbai"
+    },
+    {
+        "Station Name": "Dezerv Investments Pvt. Ltd",
+        "City": "Mumbai",
+        "name": "Dezerv Investments Pvt. Ltd @ Mumbai"
+    },
+    {
+        "Station Name": "DigiCert Security India Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "DigiCert Security India Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Dinero (NeoMercury Innovations Pvt. Ltd) - Non Tech",
+        "City": "Hyderabad",
+        "name": "Dinero (NeoMercury Innovations Pvt. Ltd) - Non Tech @ Hyderabad"
+    },
+    {
+        "Station Name": "Dinero (NeoMercury Innovations Pvt. Ltd) - Tech",
+        "City": "Hyderabad",
+        "name": "Dinero (NeoMercury Innovations Pvt. Ltd) - Tech @ Hyderabad"
+    },
+    {
+        "Station Name": "Disney+ Hotstar",
+        "City": "Mumbai",
+        "name": "Disney+ Hotstar @ Mumbai"
+    },
+    {
+        "Station Name": "Divgi TorqTransfer Systems Pvt. Ltd. - Bhosari",
+        "City": "Pune",
+        "name": "Divgi TorqTransfer Systems Pvt. Ltd. - Bhosari @ Pune"
+    },
+    {
+        "Station Name": "Divgi TorqTransfer Systems Pvt. Ltd. - Bhosari",
+        "City": "Sirsi",
+        "name": "Divgi TorqTransfer Systems Pvt. Ltd. - Bhosari @ Sirsi"
+    },
+    {
+        "Station Name": "Dorsch Consult (India) Pvt. Ltd.,",
+        "City": "Mumbai",
+        "name": "Dorsch Consult (India) Pvt. Ltd., @ Mumbai"
+    },
+    {
+        "Station Name": "Dotpe",
+        "City": "Gurugram",
+        "name": "Dotpe @ Gurugram"
+    },
+    {
+        "Station Name": "Doubtnut - Non Tech",
+        "City": "Gurugram",
+        "name": "Doubtnut - Non Tech @ Gurugram"
+    },
+    {
+        "Station Name": "Doubtnut - Tech",
+        "City": "Gurugram",
+        "name": "Doubtnut - Tech @ Gurugram"
+    },
+    {
+        "Station Name": "Dover India Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Dover India Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Dr. Reddys Laboratories",
+        "City": "Hyderabad",
+        "name": "Dr. Reddys Laboratories @ Hyderabad"
+    },
+    {
+        "Station Name": "Dreamplug Technologies",
+        "City": "Bengaluru",
+        "name": "Dreamplug Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "DRIFE Technologies Private Limited",
+        "City": "Bengaluru",
+        "name": "DRIFE Technologies Private Limited @ Bengaluru"
+    },
+    {
+        "Station Name": "Dunzo Digital Pvt.Ltd",
+        "City": "Bengaluru",
+        "name": "Dunzo Digital Pvt.Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "DuPont de Nemours, Inc.",
+        "City": "Mumbai",
+        "name": "DuPont de Nemours, Inc. @ Mumbai"
+    },
+    {
+        "Station Name": "E2open Software India Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "E2open Software India Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Eaglytics Co.",
+        "City": "Gurugram",
+        "name": "Eaglytics Co. @ Gurugram"
+    },
+    {
+        "Station Name": "EDA (Mentor Graphics)",
+        "City": "Noida",
+        "name": "EDA (Mentor Graphics) @ Noida"
+    },
+    {
+        "Station Name": "Eightfold AI India Pvt Ltd",
+        "City": "Noida",
+        "name": "Eightfold AI India Pvt Ltd @ Noida"
+    },
+    {
+        "Station Name": "Eli Lilly and Company (India) Pvt. Ltd.",
+        "City": "Gurugram",
+        "name": "Eli Lilly and Company (India) Pvt. Ltd. @ Gurugram"
+    },
+    {
+        "Station Name": "Eltropy",
+        "City": "Bengaluru",
+        "name": "Eltropy @ Bengaluru"
+    },
+    {
+        "Station Name": "Eltropy -Non Tech",
+        "City": "Bengaluru",
+        "name": "Eltropy -Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Ericsson Global India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Ericsson Global India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Escorts Limited",
+        "City": "Faridabad",
+        "name": "Escorts Limited @ Faridabad"
+    },
+    {
+        "Station Name": "Espressif Systems",
+        "City": "Pune",
+        "name": "Espressif Systems @ Pune"
+    },
+    {
+        "Station Name": "Euphotic Labs",
+        "City": "Bengaluru",
+        "name": "Euphotic Labs @ Bengaluru"
+    },
+    {
+        "Station Name": "Everwell Health Solution",
+        "City": "Bengaluru",
+        "name": "Everwell Health Solution @ Bengaluru"
+    },
+    {
+        "Station Name": "EVQ Technologies Pvt Ltd (Brand Name hopcharge)",
+        "City": "Gurugram",
+        "name": "EVQ Technologies Pvt Ltd (Brand Name hopcharge) @ Gurugram"
+    },
+    {
+        "Station Name": "EWar Games ( GHack Technologies Pvt Ltd)",
+        "City": "Bengaluru",
+        "name": "EWar Games ( GHack Technologies Pvt Ltd) @ Bengaluru"
+    },
+    {
+        "Station Name": "EXL Service Pvt Ltd",
+        "City": "Gurugram",
+        "name": "EXL Service Pvt Ltd @ Gurugram"
+    },
+    {
+        "Station Name": "Express Stores - Business Analytics",
+        "City": "Gurugram",
+        "name": "Express Stores - Business Analytics @ Gurugram"
+    },
+    {
+        "Station Name": "Express Stores - Tech",
+        "City": "Gurugram",
+        "name": "Express Stores - Tech @ Gurugram"
+    },
+    {
+        "Station Name": "Express stores – Nontech",
+        "City": "Gurugram",
+        "name": "Express stores – Nontech @ Gurugram"
+    },
+    {
+        "Station Name": "Faurecia",
+        "City": "Gurugram",
+        "name": "Faurecia @ Gurugram"
+    },
+    {
+        "Station Name": "Filo Edtech INC - Non Tech",
+        "City": "Gurugram",
+        "name": "Filo Edtech INC - Non Tech @ Gurugram"
+    },
+    {
+        "Station Name": "Filo Edtech INC - Tech",
+        "City": "Gurugram",
+        "name": "Filo Edtech INC - Tech @ Gurugram"
+    },
+    {
+        "Station Name": "First Meridian – OnSolve LLC",
+        "City": "Bengaluru",
+        "name": "First Meridian – OnSolve LLC @ Bengaluru"
+    },
+    {
+        "Station Name": "Fitbee Pvt Ltd",
+        "City": "Hyderabad",
+        "name": "Fitbee Pvt Ltd @ Hyderabad"
+    },
+    {
+        "Station Name": "Flexiple Tech - Non Tech",
+        "City": "Delhi",
+        "name": "Flexiple Tech - Non Tech @ Delhi"
+    },
+    {
+        "Station Name": "Flipkart (Software Development)",
+        "City": "Bengaluru",
+        "name": "Flipkart (Software Development) @ Bengaluru"
+    },
+    {
+        "Station Name": "Flipkart Internet Pvt Ltd - Business Analyst",
+        "City": "Bengaluru",
+        "name": "Flipkart Internet Pvt Ltd - Business Analyst @ Bengaluru"
+    },
+    {
+        "Station Name": "Flipkart Internet Pvt Ltd - Business Development",
+        "City": "Bengaluru",
+        "name": "Flipkart Internet Pvt Ltd - Business Development @ Bengaluru"
+    },
+    {
+        "Station Name": "Flipkart Internet Pvt Ltd - Product Management",
+        "City": "Bengaluru",
+        "name": "Flipkart Internet Pvt Ltd - Product Management @ Bengaluru"
+    },
+    {
+        "Station Name": "Florence Capital (Hora.ai)",
+        "City": "Gurugram",
+        "name": "Florence Capital (Hora.ai) @ Gurugram"
+    },
+    {
+        "Station Name": "Fraazo (Freshvnf ideas Pvt ltd ) - Non Tech",
+        "City": "Mumbai",
+        "name": "Fraazo (Freshvnf ideas Pvt ltd ) - Non Tech @ Mumbai"
+    },
+    {
+        "Station Name": "Fraazo (Freshvnf ideas Pvt ltd) - Tech",
+        "City": "Mumbai",
+        "name": "Fraazo (Freshvnf ideas Pvt ltd) - Tech @ Mumbai"
+    },
+    {
+        "Station Name": "Franklin Templeton",
+        "City": "Hyderabad",
+        "name": "Franklin Templeton @ Hyderabad"
+    },
+    {
+        "Station Name": "GE Healthcare",
+        "City": "Bengaluru",
+        "name": "GE Healthcare @ Bengaluru"
+    },
+    {
+        "Station Name": "GE India Technology Centre",
+        "City": "Bengaluru",
+        "name": "GE India Technology Centre @ Bengaluru"
+    },
+    {
+        "Station Name": "Genpact",
+        "City": "Bengaluru",
+        "name": "Genpact @ Bengaluru"
+    },
+    {
+        "Station Name": "Genus Power Infrastructures Ltd",
+        "City": "Jaipur",
+        "name": "Genus Power Infrastructures Ltd @ Jaipur"
+    },
+    {
+        "Station Name": "GenY medium",
+        "City": "Hyderabad",
+        "name": "GenY medium @ Hyderabad"
+    },
+    {
+        "Station Name": "GEP Solutions Pvt. Ltd.",
+        "City": "Navi mumbai",
+        "name": "GEP Solutions Pvt. Ltd. @ Navi mumbai"
+    },
+    {
+        "Station Name": "Get Paz Solutions Pvt Ltd - Non Tech",
+        "City": "Bengaluru",
+        "name": "Get Paz Solutions Pvt Ltd - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Get Paz Solutions Pvt Ltd - Tech",
+        "City": "Bengaluru",
+        "name": "Get Paz Solutions Pvt Ltd - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Gigforce Private Limited",
+        "City": "Gurugram",
+        "name": "Gigforce Private Limited @ Gurugram"
+    },
+    {
+        "Station Name": "Goldman Sachs - Investment Banking",
+        "City": "Bengaluru",
+        "name": "Goldman Sachs - Investment Banking @ Bengaluru"
+    },
+    {
+        "Station Name": "Goldman Sachs India Pvt. Ltd.  - Operations",
+        "City": "Bengaluru",
+        "name": "Goldman Sachs India Pvt. Ltd.  - Operations @ Bengaluru"
+    },
+    {
+        "Station Name": "Goodera - IT (Revised)",
+        "City": "Bengaluru",
+        "name": "Goodera - IT (Revised) @ Bengaluru"
+    },
+    {
+        "Station Name": "Goodera - Product Management",
+        "City": "Bengaluru",
+        "name": "Goodera - Product Management @ Bengaluru"
+    },
+    {
+        "Station Name": "Goodera -IT,Software",
+        "City": "Bengaluru",
+        "name": "Goodera -IT,Software @ Bengaluru"
+    },
+    {
+        "Station Name": "Goodera Growth Strategy,Customer Experience(Business Analyst)",
+        "City": "Bengaluru",
+        "name": "Goodera Growth Strategy,Customer Experience(Business Analyst) @ Bengaluru"
+    },
+    {
+        "Station Name": "Google India",
+        "City": "Bengaluru",
+        "name": "Google India @ Bengaluru"
+    },
+    {
+        "Station Name": "Gradcapital Advisors Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Gradcapital Advisors Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "GradRight Edtech Private Limited",
+        "City": "Hyderabad",
+        "name": "GradRight Edtech Private Limited @ Hyderabad"
+    },
+    {
+        "Station Name": "Grasim Industries Ltd.",
+        "City": "Nagda",
+        "name": "Grasim Industries Ltd. @ Nagda"
+    },
+    {
+        "Station Name": "Grasim Polyfiber",
+        "City": "Harihar",
+        "name": "Grasim Polyfiber @ Harihar"
+    },
+    {
+        "Station Name": "Greenizon Agritech Consultancy  Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Greenizon Agritech Consultancy  Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "GreyOrange Ltd",
+        "City": "Gurugram",
+        "name": "GreyOrange Ltd @ Gurugram"
+    },
+    {
+        "Station Name": "Groupon Shared Services Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Groupon Shared Services Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Groww - Software Development",
+        "City": "Bengaluru",
+        "name": "Groww - Software Development @ Bengaluru"
+    },
+    {
+        "Station Name": "Harness",
+        "City": "Bengaluru",
+        "name": "Harness @ Bengaluru"
+    },
+    {
+        "Station Name": "Head Digital Works - Non Tech",
+        "City": "Hyderabad",
+        "name": "Head Digital Works - Non Tech @ Hyderabad"
+    },
+    {
+        "Station Name": "Head Digital Works - Tech",
+        "City": "Hyderabad",
+        "name": "Head Digital Works - Tech @ Hyderabad"
+    },
+    {
+        "Station Name": "Headout",
+        "City": "Bengaluru",
+        "name": "Headout @ Bengaluru"
+    },
+    {
+        "Station Name": "HealthKart (Brightlifecare Pvt. Ltd.)",
+        "City": "Gurugram",
+        "name": "HealthKart (Brightlifecare Pvt. Ltd.) @ Gurugram"
+    },
+    {
+        "Station Name": "HelloThinkster",
+        "City": "Bengaluru",
+        "name": "HelloThinkster @ Bengaluru"
+    },
+    {
+        "Station Name": "HERE Technologies",
+        "City": "Bengaluru",
+        "name": "HERE Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "HERE Technologies India Pvt. Ltd",
+        "City": "Mumbai",
+        "name": "HERE Technologies India Pvt. Ltd @ Mumbai"
+    },
+    {
+        "Station Name": "Hevo Technologies India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Hevo Technologies India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Hexanika Pvt Ltd",
+        "City": "Pune",
+        "name": "Hexanika Pvt Ltd @ Pune"
+    },
+    {
+        "Station Name": "Hindustan Unilever Research Centre",
+        "City": "Bengaluru",
+        "name": "Hindustan Unilever Research Centre @ Bengaluru"
+    },
+    {
+        "Station Name": "Hourglass Research",
+        "City": "Mumbai",
+        "name": "Hourglass Research @ Mumbai"
+    },
+    {
+        "Station Name": "HSBC",
+        "City": "Bengaluru",
+        "name": "HSBC @ Bengaluru"
+    },
+    {
+        "Station Name": "Hugosave",
+        "City": "Hyderabad",
+        "name": "Hugosave @ Hyderabad"
+    },
+    {
+        "Station Name": "IBM India Software Group",
+        "City": "Bengaluru",
+        "name": "IBM India Software Group @ Bengaluru"
+    },
+    {
+        "Station Name": "iDrive Capital",
+        "City": "Bengaluru",
+        "name": "iDrive Capital @ Bengaluru"
+    },
+    {
+        "Station Name": "iManage LLC",
+        "City": "Bengaluru",
+        "name": "iManage LLC @ Bengaluru"
+    },
+    {
+        "Station Name": "IMarc Services",
+        "City": "Noida",
+        "name": "IMarc Services @ Noida"
+    },
+    {
+        "Station Name": "Indian Institute of Petroleum",
+        "City": "Dehradun",
+        "name": "Indian Institute of Petroleum @ Dehradun"
+    },
+    {
+        "Station Name": "Indian Institute Of Remote Sensing",
+        "City": "Dehradun",
+        "name": "Indian Institute Of Remote Sensing @ Dehradun"
+    },
+    {
+        "Station Name": "Indira Gandhi Centre for Atomic Research",
+        "City": "Kalpakkam",
+        "name": "Indira Gandhi Centre for Atomic Research @ Kalpakkam"
+    },
+    {
+        "Station Name": "INDmoney",
+        "City": "Gurugram",
+        "name": "INDmoney @ Gurugram"
+    },
+    {
+        "Station Name": "Infineon",
+        "City": "Bengaluru",
+        "name": "Infineon @ Bengaluru"
+    },
+    {
+        "Station Name": "InMobi - Software Development",
+        "City": "Bengaluru",
+        "name": "InMobi - Software Development @ Bengaluru"
+    },
+    {
+        "Station Name": "InMobi- Business Analyst",
+        "City": "Bengaluru",
+        "name": "InMobi- Business Analyst @ Bengaluru"
+    },
+    {
+        "Station Name": "Innovium",
+        "City": "Bengaluru",
+        "name": "Innovium @ Bengaluru"
+    },
+    {
+        "Station Name": "Integrated Active Monitoring Pvt. Ltd.",
+        "City": "Pune",
+        "name": "Integrated Active Monitoring Pvt. Ltd. @ Pune"
+    },
+    {
+        "Station Name": "Intel India Technology",
+        "City": "Bengaluru",
+        "name": "Intel India Technology @ Bengaluru"
+    },
+    {
+        "Station Name": "Intercontinental Consultants and Technocrats Pvt. Ltd",
+        "City": "New Delhi",
+        "name": "Intercontinental Consultants and Technocrats Pvt. Ltd @ New Delhi"
+    },
+    {
+        "Station Name": "Interview Kickstart LLP",
+        "City": "Bengaluru",
+        "name": "Interview Kickstart LLP @ Bengaluru"
+    },
+    {
+        "Station Name": "Inzpera Healthsciences Ltd.",
+        "City": "Mumbai",
+        "name": "Inzpera Healthsciences Ltd. @ Mumbai"
+    },
+    {
+        "Station Name": "IQVIA",
+        "City": "Bengaluru",
+        "name": "IQVIA @ Bengaluru"
+    },
+    {
+        "Station Name": "IQVIA",
+        "City": "Gurugram",
+        "name": "IQVIA @ Gurugram"
+    },
+    {
+        "Station Name": "Isgec Heavy Engineering Ltd",
+        "City": "Yamunanagar",
+        "name": "Isgec Heavy Engineering Ltd @ Yamunanagar"
+    },
+    {
+        "Station Name": "IUDX Program Unit, Indian Institute of science - Data Kaveri",
+        "City": "Bengaluru",
+        "name": "IUDX Program Unit, Indian Institute of science - Data Kaveri @ Bengaluru"
+    },
+    {
+        "Station Name": "Jacobs",
+        "City": "Mumbai",
+        "name": "Jacobs @ Mumbai"
+    },
+    {
+        "Station Name": "Jio Platforms Limited",
+        "City": "Hyderabad",
+        "name": "Jio Platforms Limited @ Hyderabad"
+    },
+    {
+        "Station Name": "JIVA Ag",
+        "City": "Bengaluru",
+        "name": "JIVA Ag @ Bengaluru"
+    },
+    {
+        "Station Name": "Johnson Controls",
+        "City": "Pune",
+        "name": "Johnson Controls @ Pune"
+    },
+    {
+        "Station Name": "JPMC - GR&C Model Risk Governance and Review – Quality Assurance",
+        "City": "Mumbai",
+        "name": "JPMC - GR&C Model Risk Governance and Review – Quality Assurance @ Mumbai"
+    },
+    {
+        "Station Name": "JPMC - GR&C Model Risk Governance and Review- COO",
+        "City": "Mumbai",
+        "name": "JPMC - GR&C Model Risk Governance and Review- COO @ Mumbai"
+    },
+    {
+        "Station Name": "JPMC - GR&C WM Risk Analytics",
+        "City": "Bengaluru",
+        "name": "JPMC - GR&C WM Risk Analytics @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMC - Software Engineering Program",
+        "City": "Hyderabad",
+        "name": "JPMC - Software Engineering Program @ Hyderabad"
+    },
+    {
+        "Station Name": "JPMC GR&C - CCB Risk - Auto",
+        "City": "Bengaluru",
+        "name": "JPMC GR&C - CCB Risk - Auto @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMC GR&C - CCB Risk - HL - Originations Risk Strategy",
+        "City": "Bengaluru",
+        "name": "JPMC GR&C - CCB Risk - HL - Originations Risk Strategy @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMC GR&C - CCB Risk - Loss Forecasting 2",
+        "City": "Bengaluru",
+        "name": "JPMC GR&C - CCB Risk - Loss Forecasting 2 @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMC GR&C - CCB Risk -Business Banking",
+        "City": "Bengaluru",
+        "name": "JPMC GR&C - CCB Risk -Business Banking @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMC GR&C - CCB Risk -Cards",
+        "City": "Bengaluru",
+        "name": "JPMC GR&C - CCB Risk -Cards @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMC GR&C - CCB Risk -HL Risk – Data Strategy & Execution",
+        "City": "Bengaluru",
+        "name": "JPMC GR&C - CCB Risk -HL Risk – Data Strategy & Execution @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMC- CIB R&A WP - Global Trade & Loan Products",
+        "City": "Mumbai",
+        "name": "JPMC- CIB R&A WP - Global Trade & Loan Products @ Mumbai"
+    },
+    {
+        "Station Name": "JPMC- GR&C MRGR CCT - Qualitative Modeling",
+        "City": "Bengaluru",
+        "name": "JPMC- GR&C MRGR CCT - Qualitative Modeling @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS (Finance) CIB R&A  Markets - Sales and Structuring",
+        "City": "Mumbai",
+        "name": "JPMS (Finance) CIB R&A  Markets - Sales and Structuring @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS (Finance) CIB R&A Markets - Trading",
+        "City": "Mumbai",
+        "name": "JPMS (Finance) CIB R&A Markets - Trading @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS (Fintech) CIB R&A Banking (CRG)",
+        "City": "Mumbai",
+        "name": "JPMS (Fintech) CIB R&A Banking (CRG) @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS (Technology - IT) GR&C Quantitative Research - Fintech",
+        "City": "Mumbai",
+        "name": "JPMS (Technology - IT) GR&C Quantitative Research - Fintech @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS (Technology - IT) GR&C Wholesale Credit Solutions - Data Science - Fintech",
+        "City": "Mumbai",
+        "name": "JPMS (Technology - IT) GR&C Wholesale Credit Solutions - Data Science - Fintech @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS (Technology-IT) GR&C Model Risk Governance and Review - Ongoing Performance Management",
+        "City": "Mumbai",
+        "name": "JPMS (Technology-IT) GR&C Model Risk Governance and Review - Ongoing Performance Management @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS - Corporate Risk - Country, Principal and Model Risk Reporting",
+        "City": "Bengaluru",
+        "name": "JPMS - Corporate Risk - Country, Principal and Model Risk Reporting @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS - Corporate Risk - LERR & CTC Liquidity Risk Reporting (Finance)",
+        "City": "Bengaluru",
+        "name": "JPMS - Corporate Risk - LERR & CTC Liquidity Risk Reporting (Finance) @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS - Corporate Risk - LERR & CTC Liquidity Risk Reporting (Tech)",
+        "City": "Bengaluru",
+        "name": "JPMS - Corporate Risk - LERR & CTC Liquidity Risk Reporting (Tech) @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS - GR&C CCB Risk - Loss forecasting 1",
+        "City": "Bengaluru",
+        "name": "JPMS - GR&C CCB Risk - Loss forecasting 1 @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS - GR&C Corporate Risk – Chief Data Office",
+        "City": "Bengaluru",
+        "name": "JPMS - GR&C Corporate Risk – Chief Data Office @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS CIB R&A Banking(CRG)-Banking",
+        "City": "Mumbai",
+        "name": "JPMS CIB R&A Banking(CRG)-Banking @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS CIB R&A Data Science",
+        "City": "Mumbai",
+        "name": "JPMS CIB R&A Data Science @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS CIB R&A Data Science",
+        "City": "Bengaluru",
+        "name": "JPMS CIB R&A Data Science @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS CIB R&A Global Research",
+        "City": "Mumbai",
+        "name": "JPMS CIB R&A Global Research @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C - CCB Risk - Cards Strategy",
+        "City": "Mumbai",
+        "name": "JPMS GR&C - CCB Risk - Cards Strategy @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C - CCB Risk - Cards Strategy",
+        "City": "Bengaluru",
+        "name": "JPMS GR&C - CCB Risk - Cards Strategy @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS GR&C AM Risk Analytics – Market Risk",
+        "City": "Bengaluru",
+        "name": "JPMS GR&C AM Risk Analytics – Market Risk @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS GR&C Auto Risk Strategy Analytics",
+        "City": "Mumbai",
+        "name": "JPMS GR&C Auto Risk Strategy Analytics @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C CCB Risk - Risk Decision Engines & Third party Services (Data Analytics &Reporting)",
+        "City": "Mumbai",
+        "name": "JPMS GR&C CCB Risk - Risk Decision Engines & Third party Services (Data Analytics &Reporting) @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C Credit Forecasting Strategy",
+        "City": "Bengaluru",
+        "name": "JPMS GR&C Credit Forecasting Strategy @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS GR&C CTC Market Risk",
+        "City": "Mumbai",
+        "name": "JPMS GR&C CTC Market Risk @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C CTC Risk - Innovation / Automation",
+        "City": "Mumbai",
+        "name": "JPMS GR&C CTC Risk - Innovation / Automation @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C CTC Risk - Interest Rate Risk Management",
+        "City": "Mumbai",
+        "name": "JPMS GR&C CTC Risk - Interest Rate Risk Management @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C CTC Risk - Liquidity Risk - Banking",
+        "City": "Mumbai",
+        "name": "JPMS GR&C CTC Risk - Liquidity Risk - Banking @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C CTC Risk - Liquidity Risk - Markets",
+        "City": "Mumbai",
+        "name": "JPMS GR&C CTC Risk - Liquidity Risk - Markets @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C CTC Risk Credit Risk",
+        "City": "Mumbai",
+        "name": "JPMS GR&C CTC Risk Credit Risk @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS GR&C WCS - Credit Portfolio Analytics",
+        "City": "Mumbai",
+        "name": "JPMS GR&C WCS - Credit Portfolio Analytics @ Mumbai"
+    },
+    {
+        "Station Name": "JPMS Software Engineering Program",
+        "City": "Bengaluru",
+        "name": "JPMS Software Engineering Program @ Bengaluru"
+    },
+    {
+        "Station Name": "JPMS Software Engineering Program",
+        "City": "Mumbai",
+        "name": "JPMS Software Engineering Program @ Mumbai"
+    },
+    {
+        "Station Name": "Jungleworks",
+        "City": "Chandigarh",
+        "name": "Jungleworks @ Chandigarh"
+    },
+    {
+        "Station Name": "Juniper Networks",
+        "City": "Bengaluru",
+        "name": "Juniper Networks @ Bengaluru"
+    },
+    {
+        "Station Name": "Kafqa",
+        "City": "Bengaluru",
+        "name": "Kafqa @ Bengaluru"
+    },
+    {
+        "Station Name": "Ketto Online Ventures  Pvt.Ltd",
+        "City": "Mumbai",
+        "name": "Ketto Online Ventures  Pvt.Ltd @ Mumbai"
+    },
+    {
+        "Station Name": "Kiraak Foods Private Limited",
+        "City": "Hyderabad",
+        "name": "Kiraak Foods Private Limited @ Hyderabad"
+    },
+    {
+        "Station Name": "KitaBeli Pte Ltd",
+        "City": "Jakarta",
+        "name": "KitaBeli Pte Ltd @ Jakarta"
+    },
+    {
+        "Station Name": "Knolskape Solutions Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Knolskape Solutions Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Knowzies Technology Solutions",
+        "City": "Pune",
+        "name": "Knowzies Technology Solutions @ Pune"
+    },
+    {
+        "Station Name": "Komprise India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Komprise India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "KPMG",
+        "City": "Bengaluru",
+        "name": "KPMG @ Bengaluru"
+    },
+    {
+        "Station Name": "LAM Research",
+        "City": "Bengaluru",
+        "name": "LAM Research @ Bengaluru"
+    },
+    {
+        "Station Name": "Larsen & Toubro Infotech",
+        "City": "Bengaluru",
+        "name": "Larsen & Toubro Infotech @ Bengaluru"
+    },
+    {
+        "Station Name": "Larsen & Toubro Infotech",
+        "City": "Pune",
+        "name": "Larsen & Toubro Infotech @ Pune"
+    },
+    {
+        "Station Name": "Larsen & Toubro Infotech",
+        "City": "Chennai",
+        "name": "Larsen & Toubro Infotech @ Chennai"
+    },
+    {
+        "Station Name": "Larsen & Toubro Infotech",
+        "City": "Powai",
+        "name": "Larsen & Toubro Infotech @ Powai"
+    },
+    {
+        "Station Name": "Leapus Technologies Pvt. Ltd (Pyxispm) - Business Development",
+        "City": "Bengaluru",
+        "name": "Leapus Technologies Pvt. Ltd (Pyxispm) - Business Development @ Bengaluru"
+    },
+    {
+        "Station Name": "Legato Health Technologies",
+        "City": "Bengaluru",
+        "name": "Legato Health Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "Lemnisk Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Lemnisk Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "LetsTransport",
+        "City": "Bengaluru",
+        "name": "LetsTransport @ Bengaluru"
+    },
+    {
+        "Station Name": "Linarc India Pvt. Ltd.",
+        "City": "Chennai",
+        "name": "Linarc India Pvt. Ltd. @ Chennai"
+    },
+    {
+        "Station Name": "Localbuy Technologies Pvt. Ltd. (SuperK)",
+        "City": "Kadapa",
+        "name": "Localbuy Technologies Pvt. Ltd. (SuperK) @ Kadapa"
+    },
+    {
+        "Station Name": "LOGIQ LABS Pvt Ltd ( eShipz.com )",
+        "City": "Bengaluru",
+        "name": "LOGIQ LABS Pvt Ltd ( eShipz.com ) @ Bengaluru"
+    },
+    {
+        "Station Name": "Lohum Cleantech Pvt. Ltd (Project 1)",
+        "City": "Greater Noida",
+        "name": "Lohum Cleantech Pvt. Ltd (Project 1) @ Greater Noida"
+    },
+    {
+        "Station Name": "Lohum Cleantech Pvt. Ltd (Project 2)",
+        "City": "Greater Noida",
+        "name": "Lohum Cleantech Pvt. Ltd (Project 2) @ Greater Noida"
+    },
+    {
+        "Station Name": "Loopin HQ",
+        "City": "Bengaluru",
+        "name": "Loopin HQ @ Bengaluru"
+    },
+    {
+        "Station Name": "LS Technologies India LLP",
+        "City": "Hyderabad",
+        "name": "LS Technologies India LLP @ Hyderabad"
+    },
+    {
+        "Station Name": "MAF Technologies Pvt. Ltd. - Non Tech",
+        "City": "Mumbai",
+        "name": "MAF Technologies Pvt. Ltd. - Non Tech @ Mumbai"
+    },
+    {
+        "Station Name": "MAF Technologies Pvt. Ltd. - Tech",
+        "City": "Bengaluru",
+        "name": "MAF Technologies Pvt. Ltd. - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Mailmodo",
+        "City": "Bengaluru",
+        "name": "Mailmodo @ Bengaluru"
+    },
+    {
+        "Station Name": "Mamaearth ( Honasa Pvt.Ltd.)",
+        "City": "Gurugram",
+        "name": "Mamaearth ( Honasa Pvt.Ltd.) @ Gurugram"
+    },
+    {
+        "Station Name": "Markets & Markets",
+        "City": "Pune",
+        "name": "Markets & Markets @ Pune"
+    },
+    {
+        "Station Name": "MatchMove India Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "MatchMove India Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "MathWorks India Private Limited",
+        "City": "Bengaluru",
+        "name": "MathWorks India Private Limited @ Bengaluru"
+    },
+    {
+        "Station Name": "MAVEN WAVE PARTNERS (INDIA) PRIVATE LIMITED",
+        "City": "Chandigarh",
+        "name": "MAVEN WAVE PARTNERS (INDIA) PRIVATE LIMITED @ Chandigarh"
+    },
+    {
+        "Station Name": "Maya Robotics (Dotmaya Private Limited)",
+        "City": "Bengaluru",
+        "name": "Maya Robotics (Dotmaya Private Limited) @ Bengaluru"
+    },
+    {
+        "Station Name": "MBB Labs Private Limited (Maybank)",
+        "City": "Bengaluru",
+        "name": "MBB Labs Private Limited (Maybank) @ Bengaluru"
+    },
+    {
+        "Station Name": "MediaTek Bangalore Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "MediaTek Bangalore Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "MediBuddy - Tech",
+        "City": "Bengaluru",
+        "name": "MediBuddy - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "MediBuddy -CNon-Tech",
+        "City": "Bengaluru",
+        "name": "MediBuddy -CNon-Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Medplus",
+        "City": "Pan India",
+        "name": "Medplus @ Pan India"
+    },
+    {
+        "Station Name": "Mercedes Benz",
+        "City": "Bengaluru",
+        "name": "Mercedes Benz @ Bengaluru"
+    },
+    {
+        "Station Name": "Meritus lntelytics Private Limited (Merilytics)",
+        "City": "Hyderabad",
+        "name": "Meritus lntelytics Private Limited (Merilytics) @ Hyderabad"
+    },
+    {
+        "Station Name": "Mewt",
+        "City": "Bengaluru",
+        "name": "Mewt @ Bengaluru"
+    },
+    {
+        "Station Name": "Microchip",
+        "City": "Nanakaramguda",
+        "name": "Microchip @ Nanakaramguda"
+    },
+    {
+        "Station Name": "Micron Technology India Operations LLP",
+        "City": "Hyderabad",
+        "name": "Micron Technology India Operations LLP @ Hyderabad"
+    },
+    {
+        "Station Name": "Microsoft India Development Center",
+        "City": "Hyderabad",
+        "name": "Microsoft India Development Center @ Hyderabad"
+    },
+    {
+        "Station Name": "Mindzcloud Technologies",
+        "City": "Nagpur",
+        "name": "Mindzcloud Technologies @ Nagpur"
+    },
+    {
+        "Station Name": "Mobile Premier League",
+        "City": "Bengaluru",
+        "name": "Mobile Premier League @ Bengaluru"
+    },
+    {
+        "Station Name": "Mocxa Health Pvt. Ltd - Tech",
+        "City": "Bengaluru",
+        "name": "Mocxa Health Pvt. Ltd - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Morgan Stanley - FID Research",
+        "City": "Mumbai",
+        "name": "Morgan Stanley - FID Research @ Mumbai"
+    },
+    {
+        "Station Name": "Morgan Stanley - Risk Analytics",
+        "City": "Mumbai",
+        "name": "Morgan Stanley - Risk Analytics @ Mumbai"
+    },
+    {
+        "Station Name": "Morgan Stanley - Strats and Quant",
+        "City": "Mumbai",
+        "name": "Morgan Stanley - Strats and Quant @ Mumbai"
+    },
+    {
+        "Station Name": "Morgan Stanley Advantage Services",
+        "City": "Mumbai",
+        "name": "Morgan Stanley Advantage Services @ Mumbai"
+    },
+    {
+        "Station Name": "Morning Star - Index New Product Development",
+        "City": "Mumbai",
+        "name": "Morning Star - Index New Product Development @ Mumbai"
+    },
+    {
+        "Station Name": "Morningstar - Quantitative Research",
+        "City": "Mumbai",
+        "name": "Morningstar - Quantitative Research @ Mumbai"
+    },
+    {
+        "Station Name": "MSCI (IMR)",
+        "City": "Mumbai",
+        "name": "MSCI (IMR) @ Mumbai"
+    },
+    {
+        "Station Name": "MSCI (NPD – Index Research)",
+        "City": "Mumbai",
+        "name": "MSCI (NPD – Index Research) @ Mumbai"
+    },
+    {
+        "Station Name": "MTAB Engineers Pvt Ltd.",
+        "City": "Chennai",
+        "name": "MTAB Engineers Pvt Ltd. @ Chennai"
+    },
+    {
+        "Station Name": "Mtandt  Ltd.",
+        "City": "Ghaziabad",
+        "name": "Mtandt  Ltd. @ Ghaziabad"
+    },
+    {
+        "Station Name": "MVDB Tech Services (OPC) Pvt. Ltd",
+        "City": "Pilani",
+        "name": "MVDB Tech Services (OPC) Pvt. Ltd @ Pilani"
+    },
+    {
+        "Station Name": "Myntra.com",
+        "City": "Bengaluru",
+        "name": "Myntra.com @ Bengaluru"
+    },
+    {
+        "Station Name": "NAMEKART.com",
+        "City": "Noida",
+        "name": "NAMEKART.com @ Noida"
+    },
+    {
+        "Station Name": "National Chemical Laboratory",
+        "City": "Pune",
+        "name": "National Chemical Laboratory @ Pune"
+    },
+    {
+        "Station Name": "National Council for Cement and Building Materials",
+        "City": "Ballabgarh",
+        "name": "National Council for Cement and Building Materials @ Ballabgarh"
+    },
+    {
+        "Station Name": "National Institute of Science and Tech. Dev. Studies (NISTADS)",
+        "City": "New delhi",
+        "name": "National Institute of Science and Tech. Dev. Studies (NISTADS) @ New delhi"
+    },
+    {
+        "Station Name": "National Instruments Systems (India) Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "National Instruments Systems (India) Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "NBC Bearings",
+        "City": "Jaipur",
+        "name": "NBC Bearings @ Jaipur"
+    },
+    {
+        "Station Name": "NCR Corporation",
+        "City": "Hyderabad",
+        "name": "NCR Corporation @ Hyderabad"
+    },
+    {
+        "Station Name": "Netcore Solutions",
+        "City": "Mumbai",
+        "name": "Netcore Solutions @ Mumbai"
+    },
+    {
+        "Station Name": "NetSkope Software India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "NetSkope Software India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Newton School",
+        "City": "Bengaluru",
+        "name": "Newton School @ Bengaluru"
+    },
+    {
+        "Station Name": "Nihon Communication Solutions Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Nihon Communication Solutions Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Nippon Audiotronix Pvt Ltd",
+        "City": "Noida",
+        "name": "Nippon Audiotronix Pvt Ltd @ Noida"
+    },
+    {
+        "Station Name": "Nirmata Technologies",
+        "City": "Bengaluru",
+        "name": "Nirmata Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "Niyo Solutions Inc.",
+        "City": "Bengaluru",
+        "name": "Niyo Solutions Inc. @ Bengaluru"
+    },
+    {
+        "Station Name": "Nomura - Change Management Team",
+        "City": "Mumbai",
+        "name": "Nomura - Change Management Team @ Mumbai"
+    },
+    {
+        "Station Name": "Nomura - FinTech",
+        "City": "Mumbai",
+        "name": "Nomura - FinTech @ Mumbai"
+    },
+    {
+        "Station Name": "Nomura - Wholesale Strategy",
+        "City": "Mumbai",
+        "name": "Nomura - Wholesale Strategy @ Mumbai"
+    },
+    {
+        "Station Name": "Nomura Global Finance",
+        "City": "Mumbai",
+        "name": "Nomura Global Finance @ Mumbai"
+    },
+    {
+        "Station Name": "Nomura Global Markets",
+        "City": "Mumbai",
+        "name": "Nomura Global Markets @ Mumbai"
+    },
+    {
+        "Station Name": "Nomura Global Risk",
+        "City": "Mumbai",
+        "name": "Nomura Global Risk @ Mumbai"
+    },
+    {
+        "Station Name": "Nouveau Labs Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Nouveau Labs Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Novartis Healthcare Pvt. Ltd.",
+        "City": "Hyderabad",
+        "name": "Novartis Healthcare Pvt. Ltd. @ Hyderabad"
+    },
+    {
+        "Station Name": "Nua (Lagom Labs Pvt Ltd)",
+        "City": "Mumbai",
+        "name": "Nua (Lagom Labs Pvt Ltd) @ Mumbai"
+    },
+    {
+        "Station Name": "Nucleus Software Export Ltd",
+        "City": "Noida",
+        "name": "Nucleus Software Export Ltd @ Noida"
+    },
+    {
+        "Station Name": "nurture.farm (A Subisidiary of UPL Ltd.)",
+        "City": "Bengaluru",
+        "name": "nurture.farm (A Subisidiary of UPL Ltd.) @ Bengaluru"
+    },
+    {
+        "Station Name": "Nutanix Technologies India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Nutanix Technologies India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Nvidia - Software",
+        "City": "Pune",
+        "name": "Nvidia - Software @ Pune"
+    },
+    {
+        "Station Name": "Nvidia Graphics - Hardware",
+        "City": "Hyderabad",
+        "name": "Nvidia Graphics - Hardware @ Hyderabad"
+    },
+    {
+        "Station Name": "Nvidia Graphics - Hardware",
+        "City": "Bengaluru",
+        "name": "Nvidia Graphics - Hardware @ Bengaluru"
+    },
+    {
+        "Station Name": "Nvidia Graphics - Software",
+        "City": "Hyderabad",
+        "name": "Nvidia Graphics - Software @ Hyderabad"
+    },
+    {
+        "Station Name": "Nvidia Graphics -Software",
+        "City": "Bengaluru",
+        "name": "Nvidia Graphics -Software @ Bengaluru"
+    },
+    {
+        "Station Name": "NXP Semiconductors",
+        "City": "Noida",
+        "name": "NXP Semiconductors @ Noida"
+    },
+    {
+        "Station Name": "Nymble",
+        "City": "Bengaluru",
+        "name": "Nymble @ Bengaluru"
+    },
+    {
+        "Station Name": "Observe.AI",
+        "City": "Bengaluru",
+        "name": "Observe.AI @ Bengaluru"
+    },
+    {
+        "Station Name": "ODE Holdings, Inc",
+        "City": "Usa",
+        "name": "ODE Holdings, Inc @ Usa"
+    },
+    {
+        "Station Name": "OfBusiness",
+        "City": "Gurugram",
+        "name": "OfBusiness @ Gurugram"
+    },
+    {
+        "Station Name": "Ola Electric",
+        "City": "Bengaluru",
+        "name": "Ola Electric @ Bengaluru"
+    },
+    {
+        "Station Name": "ON Semiconductors",
+        "City": "Bengaluru",
+        "name": "ON Semiconductors @ Bengaluru"
+    },
+    {
+        "Station Name": "OnSolve",
+        "City": "Bengaluru",
+        "name": "OnSolve @ Bengaluru"
+    },
+    {
+        "Station Name": "Ontap Direct Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Ontap Direct Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Openfive - Parent Company Sifive",
+        "City": "Bengaluru",
+        "name": "Openfive - Parent Company Sifive @ Bengaluru"
+    },
+    {
+        "Station Name": "Origin Health",
+        "City": "Bengaluru",
+        "name": "Origin Health @ Bengaluru"
+    },
+    {
+        "Station Name": "Outleap Technologies",
+        "City": "Bengaluru",
+        "name": "Outleap Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "Pandora R&D Labs Pvt Ltd. ( Project 1)",
+        "City": "Hyderabad",
+        "name": "Pandora R&D Labs Pvt Ltd. ( Project 1) @ Hyderabad"
+    },
+    {
+        "Station Name": "Pandora R&D Labs Pvt Ltd. ( Project 2)",
+        "City": "Hyderabad",
+        "name": "Pandora R&D Labs Pvt Ltd. ( Project 2) @ Hyderabad"
+    },
+    {
+        "Station Name": "Parentune.com",
+        "City": "Gurugram",
+        "name": "Parentune.com @ Gurugram"
+    },
+    {
+        "Station Name": "PayPal - Analytics",
+        "City": "Hyderabad",
+        "name": "PayPal - Analytics @ Hyderabad"
+    },
+    {
+        "Station Name": "PayPal - Analytics",
+        "City": "Chennai",
+        "name": "PayPal - Analytics @ Chennai"
+    },
+    {
+        "Station Name": "PayPal - Analytics",
+        "City": "Bengaluru",
+        "name": "PayPal - Analytics @ Bengaluru"
+    },
+    {
+        "Station Name": "PayPal - Product Manager Interns",
+        "City": "Bengaluru",
+        "name": "PayPal - Product Manager Interns @ Bengaluru"
+    },
+    {
+        "Station Name": "PayPal - Software Engineer Intern",
+        "City": "Bengaluru",
+        "name": "PayPal - Software Engineer Intern @ Bengaluru"
+    },
+    {
+        "Station Name": "Paypal - Software Engineer Intern",
+        "City": "Hyderabad",
+        "name": "Paypal - Software Engineer Intern @ Hyderabad"
+    },
+    {
+        "Station Name": "Paypal - Software Engineer Intern",
+        "City": "Chennai",
+        "name": "Paypal - Software Engineer Intern @ Chennai"
+    },
+    {
+        "Station Name": "Payu",
+        "City": "Bengaluru",
+        "name": "Payu @ Bengaluru"
+    },
+    {
+        "Station Name": "Pegasystems",
+        "City": "Hyderabad",
+        "name": "Pegasystems @ Hyderabad"
+    },
+    {
+        "Station Name": "PeopleStrong Technologies Pvt. Ltd.",
+        "City": "Gurugram",
+        "name": "PeopleStrong Technologies Pvt. Ltd. @ Gurugram"
+    },
+    {
+        "Station Name": "Pepper Content Pvt. Ltd.",
+        "City": "Mumbai",
+        "name": "Pepper Content Pvt. Ltd. @ Mumbai"
+    },
+    {
+        "Station Name": "Petasense - Services & App Development",
+        "City": "Bengaluru",
+        "name": "Petasense - Services & App Development @ Bengaluru"
+    },
+    {
+        "Station Name": "Pfizer Ltd.",
+        "City": "Chennai",
+        "name": "Pfizer Ltd. @ Chennai"
+    },
+    {
+        "Station Name": "PharmaACE",
+        "City": "Pune",
+        "name": "PharmaACE @ Pune"
+    },
+    {
+        "Station Name": "PharmEasy",
+        "City": "Bengaluru",
+        "name": "PharmEasy @ Bengaluru"
+    },
+    {
+        "Station Name": "Pilani AtmaNirbhar Resource Center (PARC)",
+        "City": "Pilani",
+        "name": "Pilani AtmaNirbhar Resource Center (PARC) @ Pilani"
+    },
+    {
+        "Station Name": "Piramal Group",
+        "City": "Mumbai",
+        "name": "Piramal Group @ Mumbai"
+    },
+    {
+        "Station Name": "Pitney Bowes India Pvt. Ltd,",
+        "City": "Noida",
+        "name": "Pitney Bowes India Pvt. Ltd, @ Noida"
+    },
+    {
+        "Station Name": "Playment Inc - Non Tech",
+        "City": "Bengaluru",
+        "name": "Playment Inc - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Playment Inc - Tech",
+        "City": "Bengaluru",
+        "name": "Playment Inc - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Pluss Advanced Technologies Pvt. Ltd.",
+        "City": "Gurugram",
+        "name": "Pluss Advanced Technologies Pvt. Ltd. @ Gurugram"
+    },
+    {
+        "Station Name": "Pokarna",
+        "City": "Hyderabad",
+        "name": "Pokarna @ Hyderabad"
+    },
+    {
+        "Station Name": "Porter - Business Analytics",
+        "City": "Bengaluru",
+        "name": "Porter - Business Analytics @ Bengaluru"
+    },
+    {
+        "Station Name": "Porter - Non Tech",
+        "City": "Bengaluru",
+        "name": "Porter - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Porter - Tech",
+        "City": "Bengaluru",
+        "name": "Porter - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Powerhouse91 (Financial & Business Analyst)",
+        "City": "Gurugram",
+        "name": "Powerhouse91 (Financial & Business Analyst) @ Gurugram"
+    },
+    {
+        "Station Name": "PricewaterhouseCoopers (PWC)",
+        "City": "Gurugram",
+        "name": "PricewaterhouseCoopers (PWC) @ Gurugram"
+    },
+    {
+        "Station Name": "Procol Tech Pvt. Ltd.",
+        "City": "Gurugram",
+        "name": "Procol Tech Pvt. Ltd. @ Gurugram"
+    },
+    {
+        "Station Name": "Prodapt  Solutions",
+        "City": "Chennai",
+        "name": "Prodapt  Solutions @ Chennai"
+    },
+    {
+        "Station Name": "Prokens Opesmetrics Private Limited",
+        "City": "Bengaluru",
+        "name": "Prokens Opesmetrics Private Limited @ Bengaluru"
+    },
+    {
+        "Station Name": "ProteanTecs",
+        "City": "Bengaluru",
+        "name": "ProteanTecs @ Bengaluru"
+    },
+    {
+        "Station Name": "Psi Phi Global Solutions Pvt. Ltd., (OkCredit)",
+        "City": "Bengaluru",
+        "name": "Psi Phi Global Solutions Pvt. Ltd., (OkCredit) @ Bengaluru"
+    },
+    {
+        "Station Name": "PsyQuant Research LLP",
+        "City": "Bengaluru",
+        "name": "PsyQuant Research LLP @ Bengaluru"
+    },
+    {
+        "Station Name": "Pushstart Media Network: Pushstart and Troopod",
+        "City": "Mumbai",
+        "name": "Pushstart Media Network: Pushstart and Troopod @ Mumbai"
+    },
+    {
+        "Station Name": "Q2e Banking",
+        "City": "Bengaluru",
+        "name": "Q2e Banking @ Bengaluru"
+    },
+    {
+        "Station Name": "Qualcomm India Pvt Ltd- Bangalore",
+        "City": "Bengaluru",
+        "name": "Qualcomm India Pvt Ltd- Bangalore @ Bengaluru"
+    },
+    {
+        "Station Name": "Qualcomm India Pvt Ltd.",
+        "City": "Hyderabad",
+        "name": "Qualcomm India Pvt Ltd. @ Hyderabad"
+    },
+    {
+        "Station Name": "Questt - Non Tech",
+        "City": "Bengaluru",
+        "name": "Questt - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Questt - Tech",
+        "City": "Bengaluru",
+        "name": "Questt - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Quin Design",
+        "City": "Hyderabad",
+        "name": "Quin Design @ Hyderabad"
+    },
+    {
+        "Station Name": "Quizizz Inc.",
+        "City": "Bengaluru",
+        "name": "Quizizz Inc. @ Bengaluru"
+    },
+    {
+        "Station Name": "Qure.ai",
+        "City": "Mumbai",
+        "name": "Qure.ai @ Mumbai"
+    },
+    {
+        "Station Name": "Qzense labs Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Qzense labs Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "RACEnergy - Non Tech",
+        "City": "Hyderabad",
+        "name": "RACEnergy - Non Tech @ Hyderabad"
+    },
+    {
+        "Station Name": "RACEnergy - Tech",
+        "City": "Hyderabad",
+        "name": "RACEnergy - Tech @ Hyderabad"
+    },
+    {
+        "Station Name": "Radisys",
+        "City": "Bengaluru",
+        "name": "Radisys @ Bengaluru"
+    },
+    {
+        "Station Name": "Rakuten India Enterprise  Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Rakuten India Enterprise  Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Ramboll India Pvt. Ltd.",
+        "City": "Gurugram",
+        "name": "Ramboll India Pvt. Ltd. @ Gurugram"
+    },
+    {
+        "Station Name": "Ramco Steels Pvt. Ltd.",
+        "City": "Faridabad",
+        "name": "Ramco Steels Pvt. Ltd. @ Faridabad"
+    },
+    {
+        "Station Name": "Rane Madras Ltd",
+        "City": "Chennai",
+        "name": "Rane Madras Ltd @ Chennai"
+    },
+    {
+        "Station Name": "Rane TRW Steering Systems Pvt Ltd.",
+        "City": "Guduvanchery",
+        "name": "Rane TRW Steering Systems Pvt Ltd. @ Guduvanchery"
+    },
+    {
+        "Station Name": "Razorpay - IT",
+        "City": "Bengaluru",
+        "name": "Razorpay - IT @ Bengaluru"
+    },
+    {
+        "Station Name": "Razorpay - Non Tech",
+        "City": "Bengaluru",
+        "name": "Razorpay - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Razorpay - Security",
+        "City": "Bengaluru",
+        "name": "Razorpay - Security @ Bengaluru"
+    },
+    {
+        "Station Name": "Razorpay - Tech",
+        "City": "Bengaluru",
+        "name": "Razorpay - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Reevoy",
+        "City": "Mumbai",
+        "name": "Reevoy @ Mumbai"
+    },
+    {
+        "Station Name": "Repos Energy India Pvt. Ltd.",
+        "City": "Pune",
+        "name": "Repos Energy India Pvt. Ltd. @ Pune"
+    },
+    {
+        "Station Name": "Resilinc",
+        "City": "Pune",
+        "name": "Resilinc @ Pune"
+    },
+    {
+        "Station Name": "Resolvity Inc.",
+        "City": "Texas",
+        "name": "Resolvity Inc. @ Texas"
+    },
+    {
+        "Station Name": "Revos - Software",
+        "City": "Bengaluru",
+        "name": "Revos - Software @ Bengaluru"
+    },
+    {
+        "Station Name": "Rivigo Tech",
+        "City": "Gurugram",
+        "name": "Rivigo Tech @ Gurugram"
+    },
+    {
+        "Station Name": "Rubenzo lifestyle Private Limited",
+        "City": "Gurugram",
+        "name": "Rubenzo lifestyle Private Limited @ Gurugram"
+    },
+    {
+        "Station Name": "Rupeek Fintech",
+        "City": "Bengaluru",
+        "name": "Rupeek Fintech @ Bengaluru"
+    },
+    {
+        "Station Name": "Rupeek Fintech (Non-Tech)",
+        "City": "Bengaluru",
+        "name": "Rupeek Fintech (Non-Tech) @ Bengaluru"
+    },
+    {
+        "Station Name": "Rupifi Non Tech",
+        "City": "Bengaluru",
+        "name": "Rupifi Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Rupifi Tech",
+        "City": "Bengaluru",
+        "name": "Rupifi Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Sagacious IP",
+        "City": "Gurugram",
+        "name": "Sagacious IP @ Gurugram"
+    },
+    {
+        "Station Name": "Samsung R & D Institute - Intelligence",
+        "City": "Bengaluru",
+        "name": "Samsung R & D Institute - Intelligence @ Bengaluru"
+    },
+    {
+        "Station Name": "Samsung R & D Institute - IOT",
+        "City": "Bengaluru",
+        "name": "Samsung R & D Institute - IOT @ Bengaluru"
+    },
+    {
+        "Station Name": "Samsung R & D Institute - Modem",
+        "City": "Bengaluru",
+        "name": "Samsung R & D Institute - Modem @ Bengaluru"
+    },
+    {
+        "Station Name": "Samsung R & D Institute - Multimedia",
+        "City": "Bengaluru",
+        "name": "Samsung R & D Institute - Multimedia @ Bengaluru"
+    },
+    {
+        "Station Name": "Samsung R & D Institute - Services",
+        "City": "Bengaluru",
+        "name": "Samsung R & D Institute - Services @ Bengaluru"
+    },
+    {
+        "Station Name": "Samsung Semiconductor India R&D Center-Hardware",
+        "City": "Bengaluru",
+        "name": "Samsung Semiconductor India R&D Center-Hardware @ Bengaluru"
+    },
+    {
+        "Station Name": "Samsung Semiconductor India Research -Software",
+        "City": "Bengaluru",
+        "name": "Samsung Semiconductor India Research -Software @ Bengaluru"
+    },
+    {
+        "Station Name": "Sandvine",
+        "City": "Bengaluru",
+        "name": "Sandvine @ Bengaluru"
+    },
+    {
+        "Station Name": "SAP Labs",
+        "City": "Bengaluru",
+        "name": "SAP Labs @ Bengaluru"
+    },
+    {
+        "Station Name": "Sattva Media & Consulting Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Sattva Media & Consulting Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Sawo Labs",
+        "City": "Mumbai",
+        "name": "Sawo Labs @ Mumbai"
+    },
+    {
+        "Station Name": "Schlumberger",
+        "City": "Pune",
+        "name": "Schlumberger @ Pune"
+    },
+    {
+        "Station Name": "SCIENAPTIC SYSTEMS PRIVATE  LIMITED",
+        "City": "Bengaluru",
+        "name": "SCIENAPTIC SYSTEMS PRIVATE  LIMITED @ Bengaluru"
+    },
+    {
+        "Station Name": "Searce Cosourcing Services Private Limited, (Searce)",
+        "City": "Pune",
+        "name": "Searce Cosourcing Services Private Limited, (Searce) @ Pune"
+    },
+    {
+        "Station Name": "Securework",
+        "City": "Bengaluru",
+        "name": "Securework @ Bengaluru"
+    },
+    {
+        "Station Name": "SEEKIFY TECHNOLOGIES  PVT LTD - Non Tech",
+        "City": "Gurugram",
+        "name": "SEEKIFY TECHNOLOGIES  PVT LTD - Non Tech @ Gurugram"
+    },
+    {
+        "Station Name": "SEEKIFY TECHNOLOGIES  PVT LTD -Tech",
+        "City": "Gurugram",
+        "name": "SEEKIFY TECHNOLOGIES  PVT LTD -Tech @ Gurugram"
+    },
+    {
+        "Station Name": "Sekel Technologies Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Sekel Technologies Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Senso Vision Systems",
+        "City": "Bengaluru",
+        "name": "Senso Vision Systems @ Bengaluru"
+    },
+    {
+        "Station Name": "Sentieo",
+        "City": "New delhi",
+        "name": "Sentieo @ New delhi"
+    },
+    {
+        "Station Name": "Shardings Technologies private limited (Capcount)",
+        "City": "Delhi",
+        "name": "Shardings Technologies private limited (Capcount) @ Delhi"
+    },
+    {
+        "Station Name": "ShortHills Tech Pvt. Ltd",
+        "City": "Gurugram",
+        "name": "ShortHills Tech Pvt. Ltd @ Gurugram"
+    },
+    {
+        "Station Name": "Siemens Healthineers",
+        "City": "Bengaluru",
+        "name": "Siemens Healthineers @ Bengaluru"
+    },
+    {
+        "Station Name": "Siemens Technology",
+        "City": "Bengaluru",
+        "name": "Siemens Technology @ Bengaluru"
+    },
+    {
+        "Station Name": "Sigmoid",
+        "City": "Bengaluru",
+        "name": "Sigmoid @ Bengaluru"
+    },
+    {
+        "Station Name": "Silicon Laboratories, Inc.",
+        "City": "Hyderabad",
+        "name": "Silicon Laboratories, Inc. @ Hyderabad"
+    },
+    {
+        "Station Name": "SImply Vyapar Apps Pvt Ltd - Non Tech (New)",
+        "City": "Bengaluru",
+        "name": "SImply Vyapar Apps Pvt Ltd - Non Tech (New) @ Bengaluru"
+    },
+    {
+        "Station Name": "SImply Vyapar Apps Pvt Ltd - Tech (New)",
+        "City": "Bengaluru",
+        "name": "SImply Vyapar Apps Pvt Ltd - Tech (New) @ Bengaluru"
+    },
+    {
+        "Station Name": "Singularity Ventures",
+        "City": "Mumbai",
+        "name": "Singularity Ventures @ Mumbai"
+    },
+    {
+        "Station Name": "Siply Services Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Siply Services Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Snapdeal - AI Project",
+        "City": "Gurugram",
+        "name": "Snapdeal - AI Project @ Gurugram"
+    },
+    {
+        "Station Name": "Sona Comstar",
+        "City": "Gurugram",
+        "name": "Sona Comstar @ Gurugram"
+    },
+    {
+        "Station Name": "Spectrum Techno Consultants Pvt Ltd.",
+        "City": "Mumbai",
+        "name": "Spectrum Techno Consultants Pvt Ltd. @ Mumbai"
+    },
+    {
+        "Station Name": "Sproutlife Foods Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Sproutlife Foods Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "SqM Technologies (New)",
+        "City": "Pune",
+        "name": "SqM Technologies (New) @ Pune"
+    },
+    {
+        "Station Name": "SS Supply Chain Solutions",
+        "City": "Pune",
+        "name": "SS Supply Chain Solutions @ Pune"
+    },
+    {
+        "Station Name": "ST Microelectronics(I) Pvt.Ltd.",
+        "City": "Greater noida",
+        "name": "ST Microelectronics(I) Pvt.Ltd. @ Greater noida"
+    },
+    {
+        "Station Name": "StateStreet Global Advisors",
+        "City": "Bengaluru",
+        "name": "StateStreet Global Advisors @ Bengaluru"
+    },
+    {
+        "Station Name": "Stellar Alpha Global Markets",
+        "City": "New delhi",
+        "name": "Stellar Alpha Global Markets @ New delhi"
+    },
+    {
+        "Station Name": "Strand Life Sciences Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Strand Life Sciences Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Sugarbox Networks",
+        "City": "Bengaluru",
+        "name": "Sugarbox Networks @ Bengaluru"
+    },
+    {
+        "Station Name": "SunTec Business Solutions Pvt. Ltd.",
+        "City": "Thiruvananthapuram",
+        "name": "SunTec Business Solutions Pvt. Ltd. @ Thiruvananthapuram"
+    },
+    {
+        "Station Name": "Supertails-Petfully Yours Private Limited (New)",
+        "City": "Bengaluru",
+        "name": "Supertails-Petfully Yours Private Limited (New) @ Bengaluru"
+    },
+    {
+        "Station Name": "Synchrony",
+        "City": "Hyderabad",
+        "name": "Synchrony @ Hyderabad"
+    },
+    {
+        "Station Name": "Syneos Health",
+        "City": "Gurugram",
+        "name": "Syneos Health @ Gurugram"
+    },
+    {
+        "Station Name": "TalentServe - Non Tech",
+        "City": "Mumbai",
+        "name": "TalentServe - Non Tech @ Mumbai"
+    },
+    {
+        "Station Name": "TalentServe - Non Tech",
+        "City": "Bengaluru",
+        "name": "TalentServe - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "TalentServe - Tech",
+        "City": "Mumbai",
+        "name": "TalentServe - Tech @ Mumbai"
+    },
+    {
+        "Station Name": "TalentServe - Tech",
+        "City": "Bengaluru",
+        "name": "TalentServe - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Tartan",
+        "City": "Pan India",
+        "name": "Tartan @ Pan India"
+    },
+    {
+        "Station Name": "Tata Digital Health",
+        "City": "Bengaluru",
+        "name": "Tata Digital Health @ Bengaluru"
+    },
+    {
+        "Station Name": "Techture Structures Pvt Ltd.",
+        "City": "Nagpur",
+        "name": "Techture Structures Pvt Ltd. @ Nagpur"
+    },
+    {
+        "Station Name": "Tega Industries",
+        "City": "Kolkata",
+        "name": "Tega Industries @ Kolkata"
+    },
+    {
+        "Station Name": "Tega Industries SEZ Ltd",
+        "City": "Dahej",
+        "name": "Tega Industries SEZ Ltd @ Dahej"
+    },
+    {
+        "Station Name": "Tejas Networks",
+        "City": "Bengaluru",
+        "name": "Tejas Networks @ Bengaluru"
+    },
+    {
+        "Station Name": "Tekion India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Tekion India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Teradata India Pvt. Ltd.",
+        "City": "Hyderabad",
+        "name": "Teradata India Pvt. Ltd. @ Hyderabad"
+    },
+    {
+        "Station Name": "TeraLumen Solutions Pvt.",
+        "City": "Chennai",
+        "name": "TeraLumen Solutions Pvt. @ Chennai"
+    },
+    {
+        "Station Name": "Texas Instruments (I) Pvt. Ltd - Systems",
+        "City": "Bengaluru",
+        "name": "Texas Instruments (I) Pvt. Ltd - Systems @ Bengaluru"
+    },
+    {
+        "Station Name": "Texas Instruments (I) Pvt. Ltd. -Analog",
+        "City": "Bengaluru",
+        "name": "Texas Instruments (I) Pvt. Ltd. -Analog @ Bengaluru"
+    },
+    {
+        "Station Name": "Texas Instruments (I) Pvt. Ltd. -Digital",
+        "City": "Bengaluru",
+        "name": "Texas Instruments (I) Pvt. Ltd. -Digital @ Bengaluru"
+    },
+    {
+        "Station Name": "Texmaco Rail & Engineering Ltd.",
+        "City": "Kolkata",
+        "name": "Texmaco Rail & Engineering Ltd. @ Kolkata"
+    },
+    {
+        "Station Name": "Thornton Tomasetti",
+        "City": "Mumbai",
+        "name": "Thornton Tomasetti @ Mumbai"
+    },
+    {
+        "Station Name": "Thorogood",
+        "City": "Bengaluru",
+        "name": "Thorogood @ Bengaluru"
+    },
+    {
+        "Station Name": "Tibil Computer Solutions Pvt Ltd.",
+        "City": "Bengaluru",
+        "name": "Tibil Computer Solutions Pvt Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Time Tooth",
+        "City": "Noida",
+        "name": "Time Tooth @ Noida"
+    },
+    {
+        "Station Name": "Times Internet Limited",
+        "City": "Gurugram",
+        "name": "Times Internet Limited @ Gurugram"
+    },
+    {
+        "Station Name": "Tomorrow Capital Enterprise Private  Limited",
+        "City": "Mumbai",
+        "name": "Tomorrow Capital Enterprise Private  Limited @ Mumbai"
+    },
+    {
+        "Station Name": "TomTom India Pvt. Ltd.",
+        "City": "Pune",
+        "name": "TomTom India Pvt. Ltd. @ Pune"
+    },
+    {
+        "Station Name": "Toppr",
+        "City": "Hyderabad",
+        "name": "Toppr @ Hyderabad"
+    },
+    {
+        "Station Name": "Trane Technologies",
+        "City": "Bengaluru",
+        "name": "Trane Technologies @ Bengaluru"
+    },
+    {
+        "Station Name": "TravClan",
+        "City": "New Delhi",
+        "name": "TravClan @ New Delhi"
+    },
+    {
+        "Station Name": "Trell Experiences Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Trell Experiences Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Truboard VT Pvt Ltd",
+        "City": "Mumbai",
+        "name": "Truboard VT Pvt Ltd @ Mumbai"
+    },
+    {
+        "Station Name": "Turvo",
+        "City": "Hyderabad",
+        "name": "Turvo @ Hyderabad"
+    },
+    {
+        "Station Name": "U Digital Content Pvt Ltd ( Arre)",
+        "City": "Mumbai",
+        "name": "U Digital Content Pvt Ltd ( Arre) @ Mumbai"
+    },
+    {
+        "Station Name": "UBER",
+        "City": "Hyderabad",
+        "name": "UBER @ Hyderabad"
+    },
+    {
+        "Station Name": "UBS - Global Risk",
+        "City": "Mumbai",
+        "name": "UBS - Global Risk @ Mumbai"
+    },
+    {
+        "Station Name": "UBS - Group Finance",
+        "City": "Mumbai",
+        "name": "UBS - Group Finance @ Mumbai"
+    },
+    {
+        "Station Name": "UBS - Group Finance",
+        "City": "Pune",
+        "name": "UBS - Group Finance @ Pune"
+    },
+    {
+        "Station Name": "UBS Business Solutions (India) Private Limited - Group Operations",
+        "City": "Pune",
+        "name": "UBS Business Solutions (India) Private Limited - Group Operations @ Pune"
+    },
+    {
+        "Station Name": "Udaan",
+        "City": "Bengaluru",
+        "name": "Udaan @ Bengaluru"
+    },
+    {
+        "Station Name": "UnitedLex BPO Private Limited",
+        "City": "Gurugram",
+        "name": "UnitedLex BPO Private Limited @ Gurugram"
+    },
+    {
+        "Station Name": "Uolo EdTech Pvt Ltd",
+        "City": "Gurugram",
+        "name": "Uolo EdTech Pvt Ltd @ Gurugram"
+    },
+    {
+        "Station Name": "Upgrad - Alumni referral Marketing",
+        "City": "Mumbai",
+        "name": "Upgrad - Alumni referral Marketing @ Mumbai"
+    },
+    {
+        "Station Name": "Upgrad - Career Services",
+        "City": "Mumbai",
+        "name": "Upgrad - Career Services @ Mumbai"
+    },
+    {
+        "Station Name": "Upgrad - Content Strategy (Data)",
+        "City": "Mumbai",
+        "name": "Upgrad - Content Strategy (Data) @ Mumbai"
+    },
+    {
+        "Station Name": "Upgrad - Content Strategy (Management)",
+        "City": "Mumbai",
+        "name": "Upgrad - Content Strategy (Management) @ Mumbai"
+    },
+    {
+        "Station Name": "Upgrad - Content Strategy (Tech)",
+        "City": "Mumbai",
+        "name": "Upgrad - Content Strategy (Tech) @ Mumbai"
+    },
+    {
+        "Station Name": "Uplara",
+        "City": "California",
+        "name": "Uplara @ California"
+    },
+    {
+        "Station Name": "Upshot.AI (A Division of [x]cube  LABS)",
+        "City": "Hyderabad",
+        "name": "Upshot.AI (A Division of [x]cube  LABS) @ Hyderabad"
+    },
+    {
+        "Station Name": "Urban Company",
+        "City": "Gurugram",
+        "name": "Urban Company @ Gurugram"
+    },
+    {
+        "Station Name": "Urjanet - Non-Tech",
+        "City": "Chennai",
+        "name": "Urjanet - Non-Tech @ Chennai"
+    },
+    {
+        "Station Name": "Urjanet - Tech",
+        "City": "Chennai",
+        "name": "Urjanet - Tech @ Chennai"
+    },
+    {
+        "Station Name": "UST Global- Trivandrum",
+        "City": "Thiruvananthapuram",
+        "name": "UST Global- Trivandrum @ Thiruvananthapuram"
+    },
+    {
+        "Station Name": "Valerio Electric",
+        "City": "New delhi",
+        "name": "Valerio Electric @ New delhi"
+    },
+    {
+        "Station Name": "Valorem Stack Pvt. Ltd. (FloBiz)",
+        "City": "Bengaluru",
+        "name": "Valorem Stack Pvt. Ltd. (FloBiz) @ Bengaluru"
+    },
+    {
+        "Station Name": "VenueMonk (PurplePatch Online Services Pvt.Ltd.)",
+        "City": "Gurugram",
+        "name": "VenueMonk (PurplePatch Online Services Pvt.Ltd.) @ Gurugram"
+    },
+    {
+        "Station Name": "Viacom18 Media Pvt. Ltd - Corporate Strategy",
+        "City": "Mumbai",
+        "name": "Viacom18 Media Pvt. Ltd - Corporate Strategy @ Mumbai"
+    },
+    {
+        "Station Name": "Viacom18 Media Pvt. Ltd - Digital Ventures",
+        "City": "Mumbai",
+        "name": "Viacom18 Media Pvt. Ltd - Digital Ventures @ Mumbai"
+    },
+    {
+        "Station Name": "Visit Health Pvt. Ltd - Non Tech",
+        "City": "New delhi",
+        "name": "Visit Health Pvt. Ltd - Non Tech @ New delhi"
+    },
+    {
+        "Station Name": "Visit Health Pvt. Ltd. -Tech",
+        "City": "New delhi",
+        "name": "Visit Health Pvt. Ltd. -Tech @ New delhi"
+    },
+    {
+        "Station Name": "Vitrak Technologies Pvt Ltd",
+        "City": "Gurugram",
+        "name": "Vitrak Technologies Pvt Ltd @ Gurugram"
+    },
+    {
+        "Station Name": "VMware Software India Pvt. Ltd.",
+        "City": "Chennai",
+        "name": "VMware Software India Pvt. Ltd. @ Chennai"
+    },
+    {
+        "Station Name": "VMware Software India Pvt. Ltd.",
+        "City": "Pune",
+        "name": "VMware Software India Pvt. Ltd. @ Pune"
+    },
+    {
+        "Station Name": "VMware Software India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "VMware Software India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Vymo",
+        "City": "Bengaluru",
+        "name": "Vymo @ Bengaluru"
+    },
+    {
+        "Station Name": "Walmart Global Technology Services",
+        "City": "Bengaluru",
+        "name": "Walmart Global Technology Services @ Bengaluru"
+    },
+    {
+        "Station Name": "Wealthy",
+        "City": "Bengaluru",
+        "name": "Wealthy @ Bengaluru"
+    },
+    {
+        "Station Name": "Wellness Kitchen Private Limited",
+        "City": "Mumbai",
+        "name": "Wellness Kitchen Private Limited @ Mumbai"
+    },
+    {
+        "Station Name": "Western Digital (SANDISK)",
+        "City": "Bengaluru",
+        "name": "Western Digital (SANDISK) @ Bengaluru"
+    },
+    {
+        "Station Name": "Whirlpool",
+        "City": "Pune",
+        "name": "Whirlpool @ Pune"
+    },
+    {
+        "Station Name": "William O Neil - Algorithm",
+        "City": "Bengaluru",
+        "name": "William O Neil - Algorithm @ Bengaluru"
+    },
+    {
+        "Station Name": "William O Neil - India Research",
+        "City": "Bengaluru",
+        "name": "William O Neil - India Research @ Bengaluru"
+    },
+    {
+        "Station Name": "William O Neil - Market Research",
+        "City": "Bengaluru",
+        "name": "William O Neil - Market Research @ Bengaluru"
+    },
+    {
+        "Station Name": "WILP",
+        "City": "Hyderabad",
+        "name": "WILP @ Hyderabad"
+    },
+    {
+        "Station Name": "Wingman",
+        "City": "Bengaluru",
+        "name": "Wingman @ Bengaluru"
+    },
+    {
+        "Station Name": "Women Development &Child Welfare Department,",
+        "City": "Hyderabad",
+        "name": "Women Development &Child Welfare Department, @ Hyderabad"
+    },
+    {
+        "Station Name": "Xilinx India Technology Services Pvt. Ltd.",
+        "City": "Hyderabad",
+        "name": "Xilinx India Technology Services Pvt. Ltd. @ Hyderabad"
+    },
+    {
+        "Station Name": "Yellowpedal Technologies Pvt Ltd",
+        "City": "Gurugram",
+        "name": "Yellowpedal Technologies Pvt Ltd @ Gurugram"
+    },
+    {
+        "Station Name": "Young Man India",
+        "City": "New delhi",
+        "name": "Young Man India @ New delhi"
+    },
+    {
+        "Station Name": "Yugabyte",
+        "City": "Bengaluru",
+        "name": "Yugabyte @ Bengaluru"
+    },
+    {
+        "Station Name": "Zendrive India Pvt Ltd",
+        "City": "Bengaluru",
+        "name": "Zendrive India Pvt Ltd @ Bengaluru"
+    },
+    {
+        "Station Name": "Zeotap India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Zeotap India Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "Zetwerk Manufacturing Businesses Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Zetwerk Manufacturing Businesses Pvt. Ltd. @ Bengaluru"
+    },
+    {
+        "Station Name": "ZF Wabco",
+        "City": "Chennai",
+        "name": "ZF Wabco @ Chennai"
+    },
+    {
+        "Station Name": "Zinnov (Draup) - Tech",
+        "City": "Bengaluru",
+        "name": "Zinnov (Draup) - Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Zinnov Consulting (Draup) - Non Tech",
+        "City": "Bengaluru",
+        "name": "Zinnov Consulting (Draup) - Non Tech @ Bengaluru"
+    },
+    {
+        "Station Name": "Zinnov Management Consulting Pvt. Ltd (IT Project)",
+        "City": "Bengaluru",
+        "name": "Zinnov Management Consulting Pvt. Ltd (IT Project) @ Bengaluru"
+    },
+    {
+        "Station Name": "Zinnov Management Consulting Pvt. Ltd., (Non-Tech)",
+        "City": "Gurugram",
+        "name": "Zinnov Management Consulting Pvt. Ltd., (Non-Tech) @ Gurugram"
+    },
+    {
+        "Station Name": "Zinnov Management Consulting Pvt. Ltd., (Non-Tech)",
+        "City": "Bengaluru",
+        "name": "Zinnov Management Consulting Pvt. Ltd., (Non-Tech) @ Bengaluru"
+    },
+    {
+        "Station Name": "Zipy Al Private Limited",
+        "City": "Pune",
+        "name": "Zipy Al Private Limited @ Pune"
+    },
+    {
+        "Station Name": "Zluri",
+        "City": "Singapore",
+        "name": "Zluri @ Singapore"
+    },
+    {
+        "Station Name": "Zoomcar India Pvt. Ltd.",
+        "City": "Bengaluru",
+        "name": "Zoomcar India Pvt. Ltd. @ Bengaluru"
+    }
+]

@@ -1,0 +1,5510 @@
+[
+    {
+        "2021": {
+            "CG": [
+                6.88,
+                6.46
+            ],
+            "minCG": 6.46,
+            "maxCG": 6.88,
+            "count": 2,
+            "averageCG": 6.67
+        },
+        "name": "Adani Power-Chemical (Biogas design)"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.47
+            ],
+            "minCG": 6.47,
+            "maxCG": 6.47,
+            "count": 1,
+            "averageCG": 6.47
+        },
+        "name": "Adani Power-Chemical (Lube oil quality)"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.3
+            ],
+            "minCG": 6.3,
+            "maxCG": 6.3,
+            "count": 1,
+            "averageCG": 6.3
+        },
+        "name": "Adani Power-Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.38,
+                7.87
+            ],
+            "minCG": 7.87,
+            "maxCG": 8.38,
+            "count": 2,
+            "averageCG": 8.125
+        },
+        "name": "Adani Power-Computer science"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.64
+            ],
+            "minCG": 7.64,
+            "maxCG": 7.64,
+            "count": 1,
+            "averageCG": 7.64
+        },
+        "name": "Adani Power-Electronics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.1
+            ],
+            "minCG": 8.1,
+            "maxCG": 8.1,
+            "count": 1,
+            "averageCG": 8.1
+        },
+        "name": "Adani Power-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.9,
+                7.88,
+                8.4
+            ],
+            "minCG": 6.9,
+            "maxCG": 8.4,
+            "count": 3,
+            "averageCG": 7.726666666666667
+        },
+        "name": "Adarsh Control & Automation Pvt. Ltd- Industrial Automation"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.63,
+                7.98
+            ],
+            "minCG": 7.63,
+            "maxCG": 7.98,
+            "count": 2,
+            "averageCG": 7.805
+        },
+        "name": "Aditya Birla Insulators"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.14
+            ],
+            "minCG": 7.14,
+            "maxCG": 7.14,
+            "count": 1,
+            "averageCG": 7.14
+        },
+        "name": "Aditya Birla Science & Technology-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.9
+            ],
+            "minCG": 6.9,
+            "maxCG": 6.9,
+            "count": 1,
+            "averageCG": 6.9
+        },
+        "name": "Aditya Cement Works-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.42,
+                7.53,
+                7.04,
+                7.61,
+                7.27,
+                7.75
+            ],
+            "minCG": 7.04,
+            "maxCG": 8.42,
+            "count": 6,
+            "averageCG": 7.603333333333333
+        },
+        "name": "AECOM Infrastructure-Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.47,
+                8.48,
+                8.638,
+                8.7,
+                8.61,
+                8.57
+            ],
+            "minCG": 8.47,
+            "maxCG": 8.7,
+            "count": 6,
+            "averageCG": 8.578
+        },
+        "name": "Afour tech -Mobile App development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.3
+            ],
+            "minCG": 8.3,
+            "maxCG": 8.3,
+            "count": 1,
+            "averageCG": 8.3
+        },
+        "name": "Agile connect - Cloud Appplication Dev"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.97,
+                6.91
+            ],
+            "minCG": 6.91,
+            "maxCG": 6.97,
+            "count": 2,
+            "averageCG": 6.9399999999999995
+        },
+        "name": "Agile connects- Market survey"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.6,
+                8.52
+            ],
+            "minCG": 8.52,
+            "maxCG": 8.6,
+            "count": 2,
+            "averageCG": 8.559999999999999
+        },
+        "name": "Agnext tech- AL/ML"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.5
+            ],
+            "minCG": 8.5,
+            "maxCG": 8.5,
+            "count": 1,
+            "averageCG": 8.5
+        },
+        "name": "Agnext tech-Computer Vision"
+    },
+    {
+        "2021": {
+            "CG": [
+                8,
+                8,
+                8.4
+            ],
+            "minCG": 8,
+            "maxCG": 8.4,
+            "count": 3,
+            "averageCG": 8.133333333333333
+        },
+        "name": "Agnext tech-Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.569,
+                6.61
+            ],
+            "minCG": 6.61,
+            "maxCG": 7.569,
+            "count": 2,
+            "averageCG": 7.0895
+        },
+        "name": "Agrix Agriculture Pvt Ltd"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.75,
+                7.39,
+                7.43
+            ],
+            "minCG": 7.39,
+            "maxCG": 7.75,
+            "count": 3,
+            "averageCG": 7.523333333333333
+        },
+        "name": "Aizant Global Analytics- Software development"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.86
+            ],
+            "minCG": 6.86,
+            "maxCG": 6.86,
+            "count": 1,
+            "averageCG": 6.86
+        },
+        "name": "Akshara Livelihoods Private Limited - Developmental perspectives"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.57
+            ],
+            "minCG": 6.57,
+            "maxCG": 6.57,
+            "count": 1,
+            "averageCG": 6.57
+        },
+        "name": "Akshara Livelihoods Private Limited - Leadership development"
+    },
+    {
+        "2021": {
+            "CG": [
+                6
+            ],
+            "minCG": 6,
+            "maxCG": 6,
+            "count": 1,
+            "averageCG": 6
+        },
+        "name": "Akshara Livelihoods Private Limited - Social Media"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.5,
+                6.86
+            ],
+            "minCG": 6.5,
+            "maxCG": 6.86,
+            "count": 2,
+            "averageCG": 6.68
+        },
+        "name": "Alankaar India- Digital Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.81,
+                6.8,
+                6.68
+            ],
+            "minCG": 6.68,
+            "maxCG": 6.81,
+            "count": 3,
+            "averageCG": 6.763333333333333
+        },
+        "name": "Aliens Developers Pvt. Ltd"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.92
+            ],
+            "minCG": 7.92,
+            "maxCG": 7.92,
+            "count": 1,
+            "averageCG": 7.92
+        },
+        "name": "Almaconnect- General Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.81
+            ],
+            "minCG": 8.81,
+            "maxCG": 8.81,
+            "count": 1,
+            "averageCG": 8.81
+        },
+        "name": "Americana Foods - Digital Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.28,
+                8.05,
+                8.16
+            ],
+            "minCG": 8.05,
+            "maxCG": 8.28,
+            "count": 3,
+            "averageCG": 8.163333333333332
+        },
+        "name": "Americana Foods - Retail Modelling"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.07
+            ],
+            "minCG": 8.07,
+            "maxCG": 8.07,
+            "count": 1,
+            "averageCG": 8.07
+        },
+        "name": "Americana Foods-Actionable KPI Design & communication"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.33
+            ],
+            "minCG": 6.33,
+            "maxCG": 6.33,
+            "count": 1,
+            "averageCG": 6.33
+        },
+        "name": "Amritha Tool Crafts-Computer science"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.53,
+                6.49,
+                7.38,
+                7.11,
+                5.67
+            ],
+            "minCG": 5.67,
+            "maxCG": 7.38,
+            "count": 5,
+            "averageCG": 6.636
+        },
+        "name": "Andhra Pradesh Human Resource Development institute (APHRDI)-Mechanical/Chemical/Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.9,
+                6.86,
+                7.7
+            ],
+            "minCG": 6.86,
+            "maxCG": 7.9,
+            "count": 3,
+            "averageCG": 7.486666666666667
+        },
+        "name": "APS Lifetech"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.79,
+                7.8,
+                7.75,
+                7.9,
+                8.13
+            ],
+            "minCG": 7.75,
+            "maxCG": 8.13,
+            "count": 5,
+            "averageCG": 7.8740000000000006
+        },
+        "name": "Arbunize Digital Media Pvt. Ltd - Information Extraction/NLP"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.65
+            ],
+            "minCG": 7.65,
+            "maxCG": 7.65,
+            "count": 1,
+            "averageCG": 7.65
+        },
+        "name": "Arbunize digital media- Alternate career prediction"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.6,
+                7.34,
+                7.5,
+                8,
+                7.32
+            ],
+            "minCG": 7.32,
+            "maxCG": 8,
+            "count": 5,
+            "averageCG": 7.552
+        },
+        "name": "Army Base Workshop - App/AR/VR"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.15,
+                7.6,
+                7.57,
+                7
+            ],
+            "minCG": 7,
+            "maxCG": 7.6,
+            "count": 4,
+            "averageCG": 7.33
+        },
+        "name": "Army Base Workshop - Electrical Power Systems"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.49,
+                7.4,
+                7.2,
+                7.59,
+                7.3229999999999995,
+                7.36
+            ],
+            "minCG": 7.2,
+            "maxCG": 7.59,
+            "count": 6,
+            "averageCG": 7.393833333333333
+        },
+        "name": "Army Base Workshop - Industrial Automation & Control"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.29,
+                7.9
+            ],
+            "minCG": 7.9,
+            "maxCG": 8.29,
+            "count": 2,
+            "averageCG": 8.094999999999999
+        },
+        "name": "Army Base Workshop - Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.15,
+                8.27,
+                8.18,
+                8.32,
+                8.38,
+                8.31
+            ],
+            "minCG": 8.15,
+            "maxCG": 8.38,
+            "count": 6,
+            "averageCG": 8.268333333333334
+        },
+        "name": "Arocom IT - Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.108
+            ],
+            "minCG": 7.108,
+            "maxCG": 7.108,
+            "count": 1,
+            "averageCG": 7.108
+        },
+        "name": "Asanify Technologies- Social media marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.77
+            ],
+            "minCG": 7.77,
+            "maxCG": 7.77,
+            "count": 1,
+            "averageCG": 7.77
+        },
+        "name": "AURUM Smart Tech-DSP"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.02,
+                7.93,
+                7.85,
+                8.52,
+                8.1,
+                8.24,
+                7.62,
+                7.56,
+                8.02,
+                7.93,
+                8.644
+            ],
+            "minCG": 7.56,
+            "maxCG": 8.644,
+            "count": 11,
+            "averageCG": 8.039454545454545
+        },
+        "name": "Bajaj Auto Limited"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.12,
+                5.28
+            ],
+            "minCG": 5.12,
+            "maxCG": 5.28,
+            "count": 2,
+            "averageCG": 5.2
+        },
+        "name": "Balaji Cement Works-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.05
+            ],
+            "minCG": 7.05,
+            "maxCG": 7.05,
+            "count": 1,
+            "averageCG": 7.05
+        },
+        "name": "Beunlu - Sales and Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.52
+            ],
+            "minCG": 6.52,
+            "maxCG": 6.52,
+            "count": 1,
+            "averageCG": 6.52
+        },
+        "name": "Beunlu- Video editing"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.42,
+                8.36,
+                8.22,
+                8.48,
+                8.69
+            ],
+            "minCG": 8.22,
+            "maxCG": 8.69,
+            "count": 5,
+            "averageCG": 8.434000000000001
+        },
+        "name": "Bharat Electronics Limited"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.17,
+                8.13,
+                8.1,
+                8.16
+            ],
+            "minCG": 8.1,
+            "maxCG": 8.17,
+            "count": 4,
+            "averageCG": 8.14
+        },
+        "name": "Bhaskaracharya Institute For Space Applications And Geoinformatic - Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.06,
+                7.9,
+                8.03,
+                7.92,
+                7.92,
+                6.655,
+                8.677999999999999
+            ],
+            "minCG": 6.655,
+            "maxCG": 8.677999999999999,
+            "count": 7,
+            "averageCG": 7.880428571428572
+        },
+        "name": "Big Scale tech- Mobile and Web Developemet"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.79
+            ],
+            "minCG": 7.79,
+            "maxCG": 7.79,
+            "count": 1,
+            "averageCG": 7.79
+        },
+        "name": "Bill Cloud Pvt Ltd"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.1,
+                7.12
+            ],
+            "minCG": 7.1,
+            "maxCG": 7.12,
+            "count": 2,
+            "averageCG": 7.109999999999999
+        },
+        "name": "Bintix Waste Research Private Limited-Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.41,
+                5.39
+            ],
+            "minCG": 5.39,
+            "maxCG": 5.41,
+            "count": 2,
+            "averageCG": 5.4
+        },
+        "name": "Birla Polyfibers-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.52
+            ],
+            "minCG": 5.52,
+            "maxCG": 5.52,
+            "count": 1,
+            "averageCG": 5.52
+        },
+        "name": "Birla White Cement - Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                6
+            ],
+            "minCG": 6,
+            "maxCG": 6,
+            "count": 1,
+            "averageCG": 6
+        },
+        "name": "Birla White Cement-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.72,
+                8.59,
+                8.56,
+                8.51,
+                8.6,
+                8.54,
+                8.48,
+                8.79
+            ],
+            "minCG": 8.48,
+            "maxCG": 8.79,
+            "count": 8,
+            "averageCG": 8.598749999999999
+        },
+        "name": "BISAG-Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.33,
+                7.36
+            ],
+            "minCG": 7.33,
+            "maxCG": 7.36,
+            "count": 2,
+            "averageCG": 7.345000000000001
+        },
+        "name": "Blue star Limited-Mechanical (Air conditining and commercial refrigeration)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.33,
+                7.09,
+                7.26,
+                7.21,
+                7.53
+            ],
+            "minCG": 7.09,
+            "maxCG": 7.53,
+            "count": 5,
+            "averageCG": 7.284000000000001
+        },
+        "name": "Caliber Interconnect Solutions Pvt Ltd-Industrial Automation & Control"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.73,
+                6.61,
+                7.27
+            ],
+            "minCG": 6.61,
+            "maxCG": 7.27,
+            "count": 3,
+            "averageCG": 6.87
+        },
+        "name": "Carborundum universal Limited-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.25,
+                7.17,
+                7.18,
+                7.61,
+                8.25,
+                8.01,
+                8.31,
+                7.15,
+                7.81
+            ],
+            "minCG": 7.15,
+            "maxCG": 8.31,
+            "count": 9,
+            "averageCG": 7.748888888888889
+        },
+        "name": "Cateina Technologies Pvt. Ltd."
+    },
+    {
+        "2021": {
+            "CG": [
+                6.69,
+                6.46,
+                7.07,
+                6.57
+            ],
+            "minCG": 6.46,
+            "maxCG": 7.07,
+            "count": 4,
+            "averageCG": 6.6975
+        },
+        "name": "CCS STRATEGY SOLUTION - FLEXSIM"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.38
+            ],
+            "minCG": 9.38,
+            "maxCG": 9.38,
+            "count": 1,
+            "averageCG": 9.38
+        },
+        "name": "CDAC- Web Deveopment"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.32,
+                8.02,
+                8.39,
+                8.23,
+                7.93,
+                7.98,
+                8.05,
+                8.03,
+                8.13,
+                8.03,
+                8.03,
+                8.24,
+                8.21,
+                7.98,
+                8.08,
+                8.12,
+                7.88,
+                8.14,
+                8.4,
+                7.88,
+                8.07
+            ],
+            "minCG": 7.88,
+            "maxCG": 8.4,
+            "count": 21,
+            "averageCG": 8.101904761904763
+        },
+        "name": "CEERI Chennai"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.9,
+                9.04,
+                8.85
+            ],
+            "minCG": 8.85,
+            "maxCG": 9.04,
+            "count": 3,
+            "averageCG": 8.93
+        },
+        "name": "CEERI Pilani - App/AR/VR"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.74,
+                8.66,
+                8.47,
+                8.47,
+                9,
+                8.52,
+                9.02,
+                8.38,
+                8.81,
+                8.4,
+                8.65,
+                8.58,
+                8.74
+            ],
+            "minCG": 8.38,
+            "maxCG": 9.02,
+            "count": 13,
+            "averageCG": 8.649230769230769
+        },
+        "name": "CEERI Pilani - Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.5,
+                8.19,
+                8.23,
+                8.29,
+                8.25,
+                8.28
+            ],
+            "minCG": 8.19,
+            "maxCG": 8.5,
+            "count": 6,
+            "averageCG": 8.29
+        },
+        "name": "CEERI Pilani - Industrial Automation and Control"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.6,
+                9.95,
+                9.22,
+                9.22,
+                9.26,
+                9.21,
+                9.29,
+                9.54,
+                9.35,
+                9.63
+            ],
+            "minCG": 9.21,
+            "maxCG": 9.95,
+            "count": 10,
+            "averageCG": 9.426999999999998
+        },
+        "name": "CEERI Pilani - Machine Learning/DSP/AI"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.79,
+                8.508,
+                8.57,
+                8.7,
+                9.35,
+                8.66,
+                9.65,
+                8.75,
+                8.56,
+                8.4,
+                9.25,
+                8.83,
+                9.22,
+                9.16,
+                9.02,
+                9.03,
+                8.47,
+                8.91
+            ],
+            "minCG": 8.4,
+            "maxCG": 9.65,
+            "count": 18,
+            "averageCG": 8.879333333333333
+        },
+        "name": "CEERI Pilani - VLSI Design/Circuit Design"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.23,
+                7.86,
+                8.07,
+                8.39,
+                8.29,
+                8.3,
+                8.46,
+                8,
+                7.84,
+                7.75,
+                8.02,
+                8.03,
+                8.07,
+                7.86,
+                7.79,
+                7.83,
+                7.68,
+                7.77
+            ],
+            "minCG": 7.68,
+            "maxCG": 8.46,
+            "count": 18,
+            "averageCG": 8.013333333333335
+        },
+        "name": "Celebal Technologies Pvt Ltd"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.02,
+                7.04,
+                6.9,
+                7.08,
+                6.97
+            ],
+            "minCG": 6.9,
+            "maxCG": 7.08,
+            "count": 5,
+            "averageCG": 7.002
+        },
+        "name": "Central Leather Research Institute-Chemical (Unit process & operation)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.2,
+                7.38,
+                7.09
+            ],
+            "minCG": 7.09,
+            "maxCG": 7.38,
+            "count": 3,
+            "averageCG": 7.223333333333334
+        },
+        "name": "Central Leather Research Institute-Chemical(Energy Management)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.36,
+                8.05
+            ],
+            "minCG": 8.05,
+            "maxCG": 8.36,
+            "count": 2,
+            "averageCG": 8.205
+        },
+        "name": "Central Leather Research Institute-Electronics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.16,
+                8.21,
+                8.13,
+                8.18
+            ],
+            "minCG": 8.13,
+            "maxCG": 8.21,
+            "count": 4,
+            "averageCG": 8.17
+        },
+        "name": "Centre for Development of Telemetics (CDot)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.56,
+                8.54,
+                8.48,
+                8.63,
+                8.59,
+                8.79,
+                8.54,
+                8.51
+            ],
+            "minCG": 8.48,
+            "maxCG": 8.79,
+            "count": 8,
+            "averageCG": 8.58
+        },
+        "name": "Centre for Railway Information Systems"
+    },
+    {
+        "2021": {
+            "CG": [
+                6,
+                6.9
+            ],
+            "minCG": 6,
+            "maxCG": 6.9,
+            "count": 2,
+            "averageCG": 6.45
+        },
+        "name": "Century Rayon-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.55,
+                5.32
+            ],
+            "minCG": 5.32,
+            "maxCG": 6.55,
+            "count": 2,
+            "averageCG": 5.9350000000000005
+        },
+        "name": "Century Rayon-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.26,
+                6.6
+            ],
+            "minCG": 6.26,
+            "maxCG": 6.6,
+            "count": 2,
+            "averageCG": 6.43
+        },
+        "name": "Chemsys Process Engineering Pvt Limited_Chemical (Process improvement & utility calculations)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.1
+            ],
+            "minCG": 7.1,
+            "maxCG": 7.1,
+            "count": 1,
+            "averageCG": 7.1
+        },
+        "name": "Chemsys Process Engineering Pvt Limited-Chemical (Unit process & operation)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.6,
+                8.53
+            ],
+            "minCG": 8.53,
+            "maxCG": 8.6,
+            "count": 2,
+            "averageCG": 8.565
+        },
+        "name": "Coditation Systems Pvt Ltd - Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.48,
+                8.28,
+                8.54,
+                8.21
+            ],
+            "minCG": 8.21,
+            "maxCG": 8.54,
+            "count": 4,
+            "averageCG": 8.3775
+        },
+        "name": "Coditation Systems Pvt Ltd - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.78,
+                8.77,
+                8.95,
+                8.93
+            ],
+            "minCG": 8.77,
+            "maxCG": 8.95,
+            "count": 4,
+            "averageCG": 8.857499999999998
+        },
+        "name": "Coffee Beans- AI"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.95,
+                8.25,
+                8.1
+            ],
+            "minCG": 7.95,
+            "maxCG": 8.25,
+            "count": 3,
+            "averageCG": 8.1
+        },
+        "name": "Contenterra Software Private Limited - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.63
+            ],
+            "minCG": 7.63,
+            "maxCG": 7.63,
+            "count": 1,
+            "averageCG": 7.63
+        },
+        "name": "Contenterra Software Private Limited-Analytics/IOT"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.29,
+                8.898
+            ],
+            "minCG": 8.29,
+            "maxCG": 8.898,
+            "count": 2,
+            "averageCG": 8.594
+        },
+        "name": "Convergent Technologies (Sequoia Fitness and Sports Technology Pvt Ltd) -Mobile App Development/Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.91,
+                7.71,
+                8.42,
+                7.86,
+                7.79,
+                8.32
+            ],
+            "minCG": 7.71,
+            "maxCG": 8.42,
+            "count": 6,
+            "averageCG": 8.001666666666667
+        },
+        "name": "Core Compete pvt ltd- others ( data Engineering -ETLL)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.7,
+                8.83,
+                8.73,
+                8.85,
+                8.7
+            ],
+            "minCG": 8.7,
+            "maxCG": 8.85,
+            "count": 5,
+            "averageCG": 8.762
+        },
+        "name": "COUTURE AI- Machine Learning/Deep Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.21
+            ],
+            "minCG": 6.21,
+            "maxCG": 6.21,
+            "count": 1,
+            "averageCG": 6.21
+        },
+        "name": "CrossBar-Content Creation"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.42,
+                7.52
+            ],
+            "minCG": 7.42,
+            "maxCG": 7.52,
+            "count": 2,
+            "averageCG": 7.47
+        },
+        "name": "CrossBar-Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.32
+            ],
+            "minCG": 6.32,
+            "maxCG": 6.32,
+            "count": 1,
+            "averageCG": 6.32
+        },
+        "name": "CrossBar-Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.02,
+                8.43,
+                8.95,
+                9.07,
+                8.431000000000001,
+                8.47,
+                8.52,
+                8.93,
+                9.35,
+                7.59
+            ],
+            "minCG": 7.59,
+            "maxCG": 9.35,
+            "count": 10,
+            "averageCG": 8.5761
+        },
+        "name": "CSIR-Institute of Genomics & Integrative Biology"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.47,
+                8.56,
+                8.2,
+                8.23,
+                8.07,
+                8.25,
+                8.33,
+                8.09
+            ],
+            "minCG": 8.07,
+            "maxCG": 8.56,
+            "count": 8,
+            "averageCG": 8.275
+        },
+        "name": "CSIR-National Aerospace Laboratories - VLSI Design/Circuit Design"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.48,
+                8.32
+            ],
+            "minCG": 8.32,
+            "maxCG": 8.48,
+            "count": 2,
+            "averageCG": 8.4
+        },
+        "name": "CSPL - Finance"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.6,
+                7.46,
+                7.93
+            ],
+            "minCG": 7.46,
+            "maxCG": 7.93,
+            "count": 3,
+            "averageCG": 7.663333333333333
+        },
+        "name": "CSPL - Product Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.53,
+                7.14
+            ],
+            "minCG": 7.14,
+            "maxCG": 7.53,
+            "count": 2,
+            "averageCG": 7.335
+        },
+        "name": "CSPL - Testing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.67,
+                8.3,
+                7.6,
+                7.7,
+                7.8,
+                7.93
+            ],
+            "minCG": 7.6,
+            "maxCG": 8.3,
+            "count": 6,
+            "averageCG": 7.833333333333333
+        },
+        "name": "Cuemath- Business development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.28,
+                6.86
+            ],
+            "minCG": 6.86,
+            "maxCG": 7.28,
+            "count": 2,
+            "averageCG": 7.07
+        },
+        "name": "Data M Intelligence-Marketing Research"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.42,
+                7.32,
+                6.53,
+                6.72
+            ],
+            "minCG": 6.42,
+            "maxCG": 7.32,
+            "count": 4,
+            "averageCG": 6.7475
+        },
+        "name": "Department of Agriculture"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.75,
+                7.9
+            ],
+            "minCG": 7.75,
+            "maxCG": 7.9,
+            "count": 2,
+            "averageCG": 7.825
+        },
+        "name": "Department of Posts- Financial inclusion"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.1,
+                6,
+                6.67
+            ],
+            "minCG": 6,
+            "maxCG": 6.67,
+            "count": 3,
+            "averageCG": 6.256666666666667
+        },
+        "name": "Department of Technical Education, Training & Skill Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                6
+            ],
+            "minCG": 6,
+            "maxCG": 6,
+            "count": 1,
+            "averageCG": 6
+        },
+        "name": "Development Consultants Pvt Ltd-Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.27,
+                6.38
+            ],
+            "minCG": 6.27,
+            "maxCG": 6.38,
+            "count": 2,
+            "averageCG": 6.324999999999999
+        },
+        "name": "Development Consultants Pvt Ltd-Mechanical (CEMA Std)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.42,
+                7.21,
+                7.08,
+                7.76,
+                7.53
+            ],
+            "minCG": 7.08,
+            "maxCG": 8.42,
+            "count": 5,
+            "averageCG": 7.6
+        },
+        "name": "DHIO Research"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.27
+            ],
+            "minCG": 8.27,
+            "maxCG": 8.27,
+            "count": 1,
+            "averageCG": 8.27
+        },
+        "name": "Dinero - Full stack Mobile app development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.24,
+                8.066
+            ],
+            "minCG": 8.066,
+            "maxCG": 8.24,
+            "count": 2,
+            "averageCG": 8.153
+        },
+        "name": "Dinero AI- Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.53,
+                7.27
+            ],
+            "minCG": 6.53,
+            "maxCG": 7.27,
+            "count": 2,
+            "averageCG": 6.9
+        },
+        "name": "Divgi TorqTransfer Systems Pvt. Ltd- Manufacturing"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.1
+            ],
+            "minCG": 8.1,
+            "maxCG": 8.1,
+            "count": 1,
+            "averageCG": 8.1
+        },
+        "name": "DomTech Robotics & Automation-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.66,
+                7.05,
+                7.29,
+                7.67
+            ],
+            "minCG": 7.05,
+            "maxCG": 7.67,
+            "count": 4,
+            "averageCG": 7.4175
+        },
+        "name": "Domtech Robotics and Automation - Electrical Power Systems"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.66,
+                7.88,
+                7.98
+            ],
+            "minCG": 7.66,
+            "maxCG": 7.98,
+            "count": 3,
+            "averageCG": 7.84
+        },
+        "name": "Domtech Robotics and Automation - Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.847,
+                7.5,
+                7.72,
+                7.54
+            ],
+            "minCG": 7.5,
+            "maxCG": 7.847,
+            "count": 4,
+            "averageCG": 7.65175
+        },
+        "name": "Domtech Robotics and Automation - VLSI design/Circuit Design"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.35
+            ],
+            "minCG": 7.35,
+            "maxCG": 7.35,
+            "count": 1,
+            "averageCG": 7.35
+        },
+        "name": "Dr.Reddy-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.14,
+                8.3
+            ],
+            "minCG": 8.14,
+            "maxCG": 8.3,
+            "count": 2,
+            "averageCG": 8.22
+        },
+        "name": "Dr.Reddy-Pharmaceutical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.71,
+                7.428999999999999
+            ],
+            "minCG": 7.428999999999999,
+            "maxCG": 7.71,
+            "count": 2,
+            "averageCG": 7.5695
+        },
+        "name": "Dybo"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.83
+            ],
+            "minCG": 6.83,
+            "maxCG": 6.83,
+            "count": 1,
+            "averageCG": 6.83
+        },
+        "name": "Dynamic Elecpower (P) Ltd - Industrial Control & Automation"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.25
+            ],
+            "minCG": 7.25,
+            "maxCG": 7.25,
+            "count": 1,
+            "averageCG": 7.25
+        },
+        "name": "Edutech Learning Solutions Pvt. Ltd."
+    },
+    {
+        "2021": {
+            "CG": [
+                7.827999999999999
+            ],
+            "minCG": 7.827999999999999,
+            "maxCG": 7.827999999999999,
+            "count": 1,
+            "averageCG": 7.827999999999999
+        },
+        "name": "EFY Group,New Delhi - Embedded Systems / IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.83,
+                7.78,
+                7.9,
+                7.68,
+                8.1,
+                8.05,
+                7.83,
+                7.7
+            ],
+            "minCG": 7.68,
+            "maxCG": 8.1,
+            "count": 8,
+            "averageCG": 7.858750000000001
+        },
+        "name": "Electronics Corporation of India Limited - VLSI Design/Circuit Design"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.4,
+                6.98,
+                7.3,
+                7.66,
+                7.36,
+                7.26
+            ],
+            "minCG": 6.98,
+            "maxCG": 7.66,
+            "count": 6,
+            "averageCG": 7.326666666666667
+        },
+        "name": "Electrono Solutions - App/AR/VR"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.61,
+                6.88,
+                6.48,
+                6.45,
+                6.46
+            ],
+            "minCG": 6.45,
+            "maxCG": 6.88,
+            "count": 5,
+            "averageCG": 6.575999999999999
+        },
+        "name": "Electrono Solutions - Electrical Power Systems"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.75,
+                7.53,
+                7.5,
+                7.67,
+                7.85
+            ],
+            "minCG": 7.5,
+            "maxCG": 7.85,
+            "count": 5,
+            "averageCG": 7.660000000000001
+        },
+        "name": "Electrono Solutions - Embedded Systems / IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.85,
+                7.6,
+                6.95,
+                7.07
+            ],
+            "minCG": 6.85,
+            "maxCG": 7.6,
+            "count": 4,
+            "averageCG": 7.1175
+        },
+        "name": "Electrono Solutions - Industrial Control & Automation"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.3
+            ],
+            "minCG": 7.3,
+            "maxCG": 7.3,
+            "count": 1,
+            "averageCG": 7.3
+        },
+        "name": "Engineers India Limited-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.46
+            ],
+            "minCG": 8.46,
+            "maxCG": 8.46,
+            "count": 1,
+            "averageCG": 8.46
+        },
+        "name": "Engineers India Limited-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.62,
+                7.55,
+                7.586,
+                7.33,
+                8.53
+            ],
+            "minCG": 7.33,
+            "maxCG": 8.53,
+            "count": 5,
+            "averageCG": 7.7232
+        },
+        "name": "Erasmith Technologies Pvt. Ltd. , Delhi"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.3,
+                7.3,
+                7.49,
+                7.63,
+                7.38,
+                7.63,
+                7.79,
+                7.09,
+                7.25
+            ],
+            "minCG": 7.09,
+            "maxCG": 7.79,
+            "count": 9,
+            "averageCG": 7.428888888888888
+        },
+        "name": "EUPHEUS LEARNING"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.85,
+                7.93,
+                7.84
+            ],
+            "minCG": 7.84,
+            "maxCG": 7.93,
+            "count": 3,
+            "averageCG": 7.873333333333332
+        },
+        "name": "Expound Technivo Pvt Ltd Tech-Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.26
+            ],
+            "minCG": 7.26,
+            "maxCG": 7.26,
+            "count": 1,
+            "averageCG": 7.26
+        },
+        "name": "Expound Technivo- Strategy and BD"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.61,
+                7.534,
+                7.76,
+                7.59,
+                7.5,
+                7.78,
+                7.5,
+                7.47
+            ],
+            "minCG": 7.47,
+            "maxCG": 7.78,
+            "count": 8,
+            "averageCG": 7.593
+        },
+        "name": "Futures First Info Services Pvt. Ltd.- Content Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.02,
+                7.01
+            ],
+            "minCG": 7.01,
+            "maxCG": 7.02,
+            "count": 2,
+            "averageCG": 7.015
+        },
+        "name": "Gates India Pvt Ltd-Mechanical/Manufacturing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7,
+                6.71,
+                7.84
+            ],
+            "minCG": 6.71,
+            "maxCG": 7.84,
+            "count": 3,
+            "averageCG": 7.183333333333334
+        },
+        "name": "Give India - Social Sector"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.3,
+                6.85,
+                7.7
+            ],
+            "minCG": 6.85,
+            "maxCG": 7.7,
+            "count": 3,
+            "averageCG": 7.283333333333332
+        },
+        "name": "GMR Varalakshmi- General Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.12,
+                7.93,
+                7.97,
+                8.02,
+                7.98,
+                8.02,
+                7.97
+            ],
+            "minCG": 7.93,
+            "maxCG": 8.12,
+            "count": 7,
+            "averageCG": 8.001428571428571
+        },
+        "name": "Goavega-Data Analytics (ML)"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.85,
+                6.26,
+                6.1,
+                6.23
+            ],
+            "minCG": 6.1,
+            "maxCG": 6.85,
+            "count": 4,
+            "averageCG": 6.36
+        },
+        "name": "Grasim Industries Limited-Chemical (Unit process & operation)"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.7,
+                6.07
+            ],
+            "minCG": 6.07,
+            "maxCG": 6.7,
+            "count": 2,
+            "averageCG": 6.385
+        },
+        "name": "Grasim Industries Limited-Mechanical (Energy Management)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.91,
+                7.83,
+                7.34,
+                7.97,
+                7.53
+            ],
+            "minCG": 7.34,
+            "maxCG": 7.97,
+            "count": 5,
+            "averageCG": 7.715999999999999
+        },
+        "name": "Green Gentem - NonTech"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.03,
+                7.94
+            ],
+            "minCG": 7.94,
+            "maxCG": 8.03,
+            "count": 2,
+            "averageCG": 7.984999999999999
+        },
+        "name": "Greendeck Cliff.ai-Data Integration"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.17
+            ],
+            "minCG": 8.17,
+            "maxCG": 8.17,
+            "count": 1,
+            "averageCG": 8.17
+        },
+        "name": "Greendeck Cliff.ai-Data Quality Insurance"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.6,
+                8.48
+            ],
+            "minCG": 8.48,
+            "maxCG": 8.6,
+            "count": 2,
+            "averageCG": 8.54
+        },
+        "name": "Greendeck Cliff.ai-Full Stack Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.07
+            ],
+            "minCG": 7.07,
+            "maxCG": 7.07,
+            "count": 1,
+            "averageCG": 7.07
+        },
+        "name": "Greendeck- content writing"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.2
+            ],
+            "minCG": 5.2,
+            "maxCG": 5.2,
+            "count": 1,
+            "averageCG": 5.2
+        },
+        "name": "Gujarat Cement-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.41,
+                8.32
+            ],
+            "minCG": 8.32,
+            "maxCG": 8.41,
+            "count": 2,
+            "averageCG": 8.365
+        },
+        "name": "Habbit - Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.31
+            ],
+            "minCG": 8.31,
+            "maxCG": 8.31,
+            "count": 1,
+            "averageCG": 8.31
+        },
+        "name": "Habbit - Product Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.52,
+                8.6
+            ],
+            "minCG": 8.52,
+            "maxCG": 8.6,
+            "count": 2,
+            "averageCG": 8.559999999999999
+        },
+        "name": "Habbit - Web Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.29,
+                8.18
+            ],
+            "minCG": 8.18,
+            "maxCG": 8.29,
+            "count": 2,
+            "averageCG": 8.235
+        },
+        "name": "Habbit- Business development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.28
+            ],
+            "minCG": 8.28,
+            "maxCG": 8.28,
+            "count": 1,
+            "averageCG": 8.28
+        },
+        "name": "Habbit- company valuation"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.51
+            ],
+            "minCG": 7.51,
+            "maxCG": 7.51,
+            "count": 1,
+            "averageCG": 7.51
+        },
+        "name": "Habbit- market research"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.91
+            ],
+            "minCG": 6.91,
+            "maxCG": 6.91,
+            "count": 1,
+            "averageCG": 6.91
+        },
+        "name": "Habbit- video production"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.16,
+                9.45,
+                9.2,
+                9.17,
+                9.14,
+                9.2,
+                9.27,
+                9.19,
+                9.23,
+                9.37,
+                9.21,
+                9.4,
+                9.47,
+                9.78,
+                9.22,
+                9.58,
+                9.28
+            ],
+            "minCG": 9.14,
+            "maxCG": 9.78,
+            "count": 17,
+            "averageCG": 9.31294117647059
+        },
+        "name": "Happiest Minds Technologies"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.34
+            ],
+            "minCG": 7.34,
+            "maxCG": 7.34,
+            "count": 1,
+            "averageCG": 7.34
+        },
+        "name": "Helix Techin Info Systems Pvt.Ltd - Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.12,
+                8.41,
+                8.02,
+                8.44
+            ],
+            "minCG": 8.02,
+            "maxCG": 8.44,
+            "count": 4,
+            "averageCG": 8.2475
+        },
+        "name": "Helix Techin Info Systems Pvt.Ltd - Machine Learning/NLP"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.34,
+                7.29,
+                7.74,
+                7.55
+            ],
+            "minCG": 7.29,
+            "maxCG": 7.74,
+            "count": 4,
+            "averageCG": 7.4799999999999995
+        },
+        "name": "Helpage India, Goa-Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7
+            ],
+            "minCG": 7,
+            "maxCG": 7,
+            "count": 1,
+            "averageCG": 7
+        },
+        "name": "Hertztech Solutions Pvt Ltd.-Manufacturing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.61,
+                7.67,
+                7.6,
+                7.49,
+                9.04,
+                8.13,
+                7.9,
+                7.63,
+                7.68
+            ],
+            "minCG": 7.49,
+            "maxCG": 9.04,
+            "count": 9,
+            "averageCG": 7.861111111111111
+        },
+        "name": "Hertztech Solutions Pvt Ltd., - AI/ML"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.93
+            ],
+            "minCG": 8.93,
+            "maxCG": 8.93,
+            "count": 1,
+            "averageCG": 8.93
+        },
+        "name": "Hexacorp - Cloud Services"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.2,
+                8.05,
+                8.23,
+                8.2
+            ],
+            "minCG": 8.05,
+            "maxCG": 8.23,
+            "count": 4,
+            "averageCG": 8.17
+        },
+        "name": "Hexacorp - Full Stack Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.81
+            ],
+            "minCG": 7.81,
+            "maxCG": 7.81,
+            "count": 1,
+            "averageCG": 7.81
+        },
+        "name": "Hexacorp - Product Engineering"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.59,
+                7.85
+            ],
+            "minCG": 7.59,
+            "maxCG": 7.85,
+            "count": 2,
+            "averageCG": 7.72
+        },
+        "name": "Hexanika-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.27,
+                7.17,
+                6.37,
+                6.52,
+                6.83,
+                6.33,
+                6.48,
+                7.32
+            ],
+            "minCG": 6.33,
+            "maxCG": 8.27,
+            "count": 8,
+            "averageCG": 6.91125
+        },
+        "name": "Hindustan Petroleum Corporation Limited"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.46,
+                9.7,
+                9.03,
+                9.85,
+                9.35,
+                8.95,
+                9.32,
+                9.1,
+                9.07,
+                9.22,
+                10
+            ],
+            "minCG": 8.95,
+            "maxCG": 10,
+            "count": 11,
+            "averageCG": 9.368181818181817
+        },
+        "name": "Homi Bhabha Centre For Science Education - IoT - Web Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.2,
+                7.05,
+                6.78,
+                7.39,
+                6.87
+            ],
+            "minCG": 6.78,
+            "maxCG": 7.39,
+            "count": 5,
+            "averageCG": 7.058
+        },
+        "name": "HPCL"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.04
+            ],
+            "minCG": 8.04,
+            "maxCG": 8.04,
+            "count": 1,
+            "averageCG": 8.04
+        },
+        "name": "Hyphen Supply Chain Solutions Pvt Ltd - Coding"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.05,
+                7.8,
+                7.66
+            ],
+            "minCG": 7.66,
+            "maxCG": 8.05,
+            "count": 3,
+            "averageCG": 7.836666666666667
+        },
+        "name": "Hyphen Supply Chain Solutions Pvt Ltd - Financial analysis"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.52
+            ],
+            "minCG": 6.52,
+            "maxCG": 6.52,
+            "count": 1,
+            "averageCG": 6.52
+        },
+        "name": "Hyphen Supply Chain Solutions Pvt Ltd - Social Media"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.27,
+                7.06
+            ],
+            "minCG": 6.27,
+            "maxCG": 7.06,
+            "count": 2,
+            "averageCG": 6.664999999999999
+        },
+        "name": "I Care Foundation,Mexico-Fundraising"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.98,
+                6.45
+            ],
+            "minCG": 6.45,
+            "maxCG": 7.98,
+            "count": 2,
+            "averageCG": 7.215
+        },
+        "name": "I Care Foundation,Mexico-Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.26
+            ],
+            "minCG": 6.26,
+            "maxCG": 6.26,
+            "count": 1,
+            "averageCG": 6.26
+        },
+        "name": "I Care Foundation,Mexico-Marketing for Products with cause"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.23,
+                8.05,
+                8.39
+            ],
+            "minCG": 8.05,
+            "maxCG": 8.39,
+            "count": 3,
+            "averageCG": 8.223333333333334
+        },
+        "name": "i-exceed technology solutions private limited"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.77,
+                6.8
+            ],
+            "minCG": 6.77,
+            "maxCG": 6.8,
+            "count": 2,
+            "averageCG": 6.785
+        },
+        "name": "Icare Foundation NONTECHI Care Foundation,Mexico - Social and environmental analysis"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.75,
+                6.39
+            ],
+            "minCG": 6.39,
+            "maxCG": 6.75,
+            "count": 2,
+            "averageCG": 6.57
+        },
+        "name": "Icare Foundation- Project tracker"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.65,
+                7.67,
+                7.86,
+                8.17
+            ],
+            "minCG": 7.65,
+            "maxCG": 8.17,
+            "count": 4,
+            "averageCG": 7.8375
+        },
+        "name": "IDS Infotech Ltd - Data Science"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.0329999999999995,
+                6.8,
+                7,
+                6.89,
+                6.672000000000001,
+                7.56,
+                6.8,
+                7.28,
+                7.08,
+                6.6,
+                7.12,
+                6.55,
+                6.72
+            ],
+            "minCG": 6.55,
+            "maxCG": 7.56,
+            "count": 13,
+            "averageCG": 6.931153846153846
+        },
+        "name": "IMARC Services-Market Reasearch"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.97
+            ],
+            "minCG": 7.97,
+            "maxCG": 7.97,
+            "count": 1,
+            "averageCG": 7.97
+        },
+        "name": "India Buys - IT"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.24
+            ],
+            "minCG": 7.24,
+            "maxCG": 7.24,
+            "count": 1,
+            "averageCG": 7.24
+        },
+        "name": "India Buys-Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.95,
+                8.41
+            ],
+            "minCG": 7.95,
+            "maxCG": 8.41,
+            "count": 2,
+            "averageCG": 8.18
+        },
+        "name": "Indian Council for Research on International Economic Relations - Electric Mobility Work Program"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.19,
+                8.43,
+                7.89,
+                8.07,
+                8.14
+            ],
+            "minCG": 7.89,
+            "maxCG": 8.43,
+            "count": 5,
+            "averageCG": 8.144
+        },
+        "name": "Indian Council for Research on International Economic Relations - Price forecasting of agricultural commodities"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.61,
+                8.19,
+                7.85
+            ],
+            "minCG": 7.61,
+            "maxCG": 8.19,
+            "count": 3,
+            "averageCG": 7.883333333333333
+        },
+        "name": "Indian Council for Research on International Economic Relations- Climate change"
+    },
+    {
+        "2021": {
+            "CG": [
+                7
+            ],
+            "minCG": 7,
+            "maxCG": 7,
+            "count": 1,
+            "averageCG": 7
+        },
+        "name": "Indian Institute of Petroleum-Chemical (Enviornment Engg)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.04
+            ],
+            "minCG": 7.04,
+            "maxCG": 7.04,
+            "count": 1,
+            "averageCG": 7.04
+        },
+        "name": "Indian Institute of Petroleum-Chemical (Unit process & operation)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.48
+            ],
+            "minCG": 7.48,
+            "maxCG": 7.48,
+            "count": 1,
+            "averageCG": 7.48
+        },
+        "name": "Indian Institute of Petroleum-Mechanical (Energy Management)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.273,
+                8.07,
+                7.29,
+                7.07,
+                7,
+                7.93
+            ],
+            "minCG": 7,
+            "maxCG": 8.07,
+            "count": 6,
+            "averageCG": 7.438833333333334
+        },
+        "name": "Indian Institute of Public Administration - Secondary Research"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.02,
+                9.08,
+                9.12,
+                9.63,
+                9.08,
+                9.09,
+                9.49,
+                8.966000000000001,
+                8.95,
+                9.3,
+                9.28,
+                8.95
+            ],
+            "minCG": 8.95,
+            "maxCG": 9.63,
+            "count": 12,
+            "averageCG": 9.163
+        },
+        "name": "Indian Institute Of Remote Sensing - Machine Learning/DSP/AI"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.66,
+                7.69,
+                7.51
+            ],
+            "minCG": 7.51,
+            "maxCG": 7.69,
+            "count": 3,
+            "averageCG": 7.62
+        },
+        "name": "Indian Oil Corporation Limited-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.74,
+                7.64,
+                7.65
+            ],
+            "minCG": 7.64,
+            "maxCG": 7.74,
+            "count": 3,
+            "averageCG": 7.676666666666667
+        },
+        "name": "Indian Oil Corporation Limited-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.6,
+                6.65,
+                6.1
+            ],
+            "minCG": 6.1,
+            "maxCG": 6.65,
+            "count": 3,
+            "averageCG": 6.45
+        },
+        "name": "Indian Red Cross Society"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.3,
+                6.58,
+                6.8,
+                6.9,
+                6.35
+            ],
+            "minCG": 6.35,
+            "maxCG": 7.3,
+            "count": 5,
+            "averageCG": 6.786
+        },
+        "name": "Indian Red Cross Society - Operations- General Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.78,
+                7.7
+            ],
+            "minCG": 7.7,
+            "maxCG": 7.78,
+            "count": 2,
+            "averageCG": 7.74
+        },
+        "name": "Indian Red Cross Society Blood Bank - App/AR/VR"
+    },
+    {
+        "2021": {
+            "CG": [
+                6,
+                6,
+                6.05,
+                6.67,
+                6.74,
+                6.16
+            ],
+            "minCG": 6,
+            "maxCG": 6.74,
+            "count": 6,
+            "averageCG": 6.2700000000000005
+        },
+        "name": "Indian Red Cross Society Blood Bank - Social Sector"
+    },
+    {
+        "2021": {
+            "CG": [
+                7,
+                7.03
+            ],
+            "minCG": 7,
+            "maxCG": 7.03,
+            "count": 2,
+            "averageCG": 7.015000000000001
+        },
+        "name": "Indian Society for Education and Environment"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.06,
+                8.59,
+                8.77,
+                8.5,
+                8.98,
+                8.23,
+                8.58,
+                9.07,
+                9,
+                9.12,
+                8.86,
+                8.23,
+                9.05,
+                8.27,
+                8.84,
+                8.26,
+                8.31,
+                8.25,
+                9.17,
+                8.81,
+                8.13,
+                8.75,
+                8.98,
+                8.58,
+                8.84,
+                8.26,
+                8.47,
+                9.39,
+                8.32,
+                8.31,
+                8.53,
+                8.35,
+                8.77,
+                8.98,
+                8.63,
+                8.7,
+                8.88
+            ],
+            "minCG": 8.13,
+            "maxCG": 9.39,
+            "count": 37,
+            "averageCG": 8.67081081081081
+        },
+        "name": "Indira Gandhi Centre for Atomic Research (IGCAR)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.07,
+                7.98,
+                7.983,
+                8.33,
+                8.51,
+                8.2,
+                8.29,
+                8.04,
+                8.1,
+                8.23
+            ],
+            "minCG": 7.98,
+            "maxCG": 8.51,
+            "count": 10,
+            "averageCG": 8.1733
+        },
+        "name": "Ineuron Intelligence - Artificial Intelligence"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.2,
+                5.55
+            ],
+            "minCG": 5.55,
+            "maxCG": 7.2,
+            "count": 2,
+            "averageCG": 6.375
+        },
+        "name": "Instrumentation Solution - Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.62
+            ],
+            "minCG": 8.62,
+            "maxCG": 8.62,
+            "count": 1,
+            "averageCG": 8.62
+        },
+        "name": "Integra Design-Online - Real Time Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.068999999999999
+            ],
+            "minCG": 8.068999999999999,
+            "maxCG": 8.068999999999999,
+            "count": 1,
+            "averageCG": 8.068999999999999
+        },
+        "name": "IRCS Delhi General Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.9
+            ],
+            "minCG": 6.9,
+            "maxCG": 6.9,
+            "count": 1,
+            "averageCG": 6.9
+        },
+        "name": "IRCS Delhi wireframe design"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.24
+            ],
+            "minCG": 7.24,
+            "maxCG": 7.24,
+            "count": 1,
+            "averageCG": 7.24
+        },
+        "name": "ISEE- Literature Research"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.9
+            ],
+            "minCG": 6.9,
+            "maxCG": 6.9,
+            "count": 1,
+            "averageCG": 6.9
+        },
+        "name": "JSW Energy-EEE (Control room remote operation)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.27,
+                8.25
+            ],
+            "minCG": 8.25,
+            "maxCG": 8.27,
+            "count": 2,
+            "averageCG": 8.26
+        },
+        "name": "JSW Energy-Mechanical (Turbines)"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.78,
+                7.81
+            ],
+            "minCG": 6.78,
+            "maxCG": 7.81,
+            "count": 2,
+            "averageCG": 7.295
+        },
+        "name": "JSW Steel-Chemical (Carbon technology landscaping)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.02,
+                7.98
+            ],
+            "minCG": 7.02,
+            "maxCG": 7.98,
+            "count": 2,
+            "averageCG": 7.5
+        },
+        "name": "JSW Steel-Chemical (Hydrogen technology landscaping)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.59,
+                7.72
+            ],
+            "minCG": 7.59,
+            "maxCG": 7.72,
+            "count": 2,
+            "averageCG": 7.654999999999999
+        },
+        "name": "JSW Steel-Computer (ANN)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.74,
+                8.23
+            ],
+            "minCG": 7.74,
+            "maxCG": 8.23,
+            "count": 2,
+            "averageCG": 7.985
+        },
+        "name": "JSW Steel-Computer (ML)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.29
+            ],
+            "minCG": 7.29,
+            "maxCG": 7.29,
+            "count": 1,
+            "averageCG": 7.29
+        },
+        "name": "JSW Steel-Computer (Property prediction model)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.18,
+                8.15
+            ],
+            "minCG": 8.15,
+            "maxCG": 8.18,
+            "count": 2,
+            "averageCG": 8.165
+        },
+        "name": "JSW Steel-Mechanical (Ansys simulation model)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.24,
+                6.2,
+                6.43
+            ],
+            "minCG": 6.2,
+            "maxCG": 7.24,
+            "count": 3,
+            "averageCG": 6.623333333333334
+        },
+        "name": "KEC International Ltd-Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.37,
+                8.32,
+                8.42,
+                8.58
+            ],
+            "minCG": 8.32,
+            "maxCG": 8.58,
+            "count": 4,
+            "averageCG": 8.4225
+        },
+        "name": "Kerala Infrastructure and Technogy for Education"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.47
+            ],
+            "minCG": 7.47,
+            "maxCG": 7.47,
+            "count": 1,
+            "averageCG": 7.47
+        },
+        "name": "Knowcross Solutions Pvt Ltd - Non Tech"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.1,
+                7.05
+            ],
+            "minCG": 7.05,
+            "maxCG": 7.1,
+            "count": 2,
+            "averageCG": 7.074999999999999
+        },
+        "name": "Knowcross Solutions Pvt Ltd- Tech"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.93,
+                6.4
+            ],
+            "minCG": 6.4,
+            "maxCG": 6.93,
+            "count": 2,
+            "averageCG": 6.665
+        },
+        "name": "Knowzies Technology Solutions-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.36,
+                8.33,
+                8.18,
+                7.95,
+                7.98,
+                8.05,
+                7.95,
+                7.88,
+                8.16,
+                7.85,
+                8.28,
+                7.855
+            ],
+            "minCG": 7.85,
+            "maxCG": 8.36,
+            "count": 12,
+            "averageCG": 8.06875
+        },
+        "name": "Kotak Education Foundation Tech - Web Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.09,
+                7.05,
+                7.5
+            ],
+            "minCG": 7.05,
+            "maxCG": 7.5,
+            "count": 3,
+            "averageCG": 7.213333333333334
+        },
+        "name": "Kotak education- content writing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.38,
+                7.45
+            ],
+            "minCG": 7.38,
+            "maxCG": 7.45,
+            "count": 2,
+            "averageCG": 7.415
+        },
+        "name": "Kotak education- dashboard development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.77,
+                7.72
+            ],
+            "minCG": 7.72,
+            "maxCG": 7.77,
+            "count": 2,
+            "averageCG": 7.744999999999999
+        },
+        "name": "Kotak education- performance monitoring & evaluation"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.172,
+                8.08,
+                8.1
+            ],
+            "minCG": 8.08,
+            "maxCG": 8.172,
+            "count": 3,
+            "averageCG": 8.117333333333335
+        },
+        "name": "Kotak education- Portfolio analysis"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.6
+            ],
+            "minCG": 8.6,
+            "maxCG": 8.6,
+            "count": 1,
+            "averageCG": 8.6
+        },
+        "name": "L & T Infotech - Business Intelligence"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.78,
+                8.79
+            ],
+            "minCG": 8.78,
+            "maxCG": 8.79,
+            "count": 2,
+            "averageCG": 8.785
+        },
+        "name": "L & T Infotech - Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.36,
+                8.81
+            ],
+            "minCG": 8.81,
+            "maxCG": 9.36,
+            "count": 2,
+            "averageCG": 9.085
+        },
+        "name": "L & T Infotech - Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.38,
+                8.56
+            ],
+            "minCG": 8.38,
+            "maxCG": 8.56,
+            "count": 2,
+            "averageCG": 8.47
+        },
+        "name": "L & T Infotech - Others"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.36,
+                8.54,
+                8.22,
+                8.36
+            ],
+            "minCG": 8.22,
+            "maxCG": 8.54,
+            "count": 4,
+            "averageCG": 8.37
+        },
+        "name": "L & T Infotech - Research"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.69,
+                8.74,
+                8.67,
+                8.78
+            ],
+            "minCG": 8.67,
+            "maxCG": 8.78,
+            "count": 4,
+            "averageCG": 8.72
+        },
+        "name": "L & T Infotech - Web Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.47,
+                8.79
+            ],
+            "minCG": 8.47,
+            "maxCG": 8.79,
+            "count": 2,
+            "averageCG": 8.629999999999999
+        },
+        "name": "L&T Infotech- Business Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.45
+            ],
+            "minCG": 8.45,
+            "maxCG": 8.45,
+            "count": 1,
+            "averageCG": 8.45
+        },
+        "name": "L&T Infotech- Presales"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.6
+            ],
+            "minCG": 8.6,
+            "maxCG": 8.6,
+            "count": 1,
+            "averageCG": 8.6
+        },
+        "name": "L&T Infotech- Research and study on IIOT"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.41
+            ],
+            "minCG": 6.41,
+            "maxCG": 6.41,
+            "count": 1,
+            "averageCG": 6.41
+        },
+        "name": "Lakshyam NGO-General Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.33,
+                7.24
+            ],
+            "minCG": 7.24,
+            "maxCG": 7.33,
+            "count": 2,
+            "averageCG": 7.285
+        },
+        "name": "Learning Mate Solution-Data Analytics on Higehr education"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.15
+            ],
+            "minCG": 7.15,
+            "maxCG": 7.15,
+            "count": 1,
+            "averageCG": 7.15
+        },
+        "name": "Learning Mate- Content Architecture"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.81,
+                6.41
+            ],
+            "minCG": 6.41,
+            "maxCG": 6.81,
+            "count": 2,
+            "averageCG": 6.609999999999999
+        },
+        "name": "Learning Mate- Data Insights for higher education"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.22,
+                7.14,
+                6.49
+            ],
+            "minCG": 6.49,
+            "maxCG": 7.22,
+            "count": 3,
+            "averageCG": 6.95
+        },
+        "name": "Learning Mate- Data Insights on K-12"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.98,
+                7.87,
+                8.49
+            ],
+            "minCG": 7.87,
+            "maxCG": 8.49,
+            "count": 3,
+            "averageCG": 8.113333333333335
+        },
+        "name": "LightSpeed AI Labs Pvt Ltd - Industrial Automation & Control"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.59,
+                9.2,
+                8.58,
+                9.02
+            ],
+            "minCG": 8.58,
+            "maxCG": 9.2,
+            "count": 4,
+            "averageCG": 8.8475
+        },
+        "name": "LightSpeed AI Labs Pvt Ltd - Machine Learning/DSP/AI"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.23,
+                8.61,
+                8.42
+            ],
+            "minCG": 8.23,
+            "maxCG": 8.61,
+            "count": 3,
+            "averageCG": 8.42
+        },
+        "name": "LOGIQ LABS Pvt Ltd - Machine Learning/DSP/AI"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.22,
+                8.23
+            ],
+            "minCG": 8.22,
+            "maxCG": 8.23,
+            "count": 2,
+            "averageCG": 8.225000000000001
+        },
+        "name": "LogiQLabs-Data analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.65
+            ],
+            "minCG": 7.65,
+            "maxCG": 7.65,
+            "count": 1,
+            "averageCG": 7.65
+        },
+        "name": "Madras Mindworks Pvt Ltd -Electronics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7,
+                6.85,
+                7.27
+            ],
+            "minCG": 6.85,
+            "maxCG": 7.27,
+            "count": 3,
+            "averageCG": 7.039999999999999
+        },
+        "name": "Magtapp- content development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.88,
+                6.61,
+                6.75,
+                7,
+                6.95,
+                6.86
+            ],
+            "minCG": 6.61,
+            "maxCG": 7.88,
+            "count": 6,
+            "averageCG": 7.008333333333334
+        },
+        "name": "Magtapp- Digital marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.08
+            ],
+            "minCG": 6.08,
+            "maxCG": 6.08,
+            "count": 1,
+            "averageCG": 6.08
+        },
+        "name": "Manikgarh cement-Electrical & Electronics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.81,
+                8.09
+            ],
+            "minCG": 7.81,
+            "maxCG": 8.09,
+            "count": 2,
+            "averageCG": 7.949999999999999
+        },
+        "name": "MapmyIndia- Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.56,
+                7.31,
+                7.49,
+                8.04,
+                7.31,
+                7.5
+            ],
+            "minCG": 7.31,
+            "maxCG": 8.04,
+            "count": 6,
+            "averageCG": 7.535
+        },
+        "name": "Mazo solutions- Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.05
+            ],
+            "minCG": 8.05,
+            "maxCG": 8.05,
+            "count": 1,
+            "averageCG": 8.05
+        },
+        "name": "Medcords- Business Analysis"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.44,
+                6.97,
+                7.33,
+                7.09
+            ],
+            "minCG": 6.97,
+            "maxCG": 7.44,
+            "count": 4,
+            "averageCG": 7.2075000000000005
+        },
+        "name": "Medcords- Quality Analysis"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.29,
+                7.22
+            ],
+            "minCG": 7.22,
+            "maxCG": 7.29,
+            "count": 2,
+            "averageCG": 7.255
+        },
+        "name": "Medcords- Research in finance"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.6
+            ],
+            "minCG": 7.6,
+            "maxCG": 7.6,
+            "count": 1,
+            "averageCG": 7.6
+        },
+        "name": "Medsupervision Pvt. Ltd - App/AR/VR"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.02,
+                8.07
+            ],
+            "minCG": 8.02,
+            "maxCG": 8.07,
+            "count": 2,
+            "averageCG": 8.045
+        },
+        "name": "Medsupervision-Mobile Appl Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.37,
+                7.16
+            ],
+            "minCG": 7.16,
+            "maxCG": 7.37,
+            "count": 2,
+            "averageCG": 7.265000000000001
+        },
+        "name": "MELSS - Industrial Automation & Control"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.5,
+                8.11,
+                8.53,
+                8.78,
+                7.66,
+                8.08,
+                7.72,
+                7.53,
+                7.25,
+                7.35,
+                7.25,
+                7.56,
+                7.5,
+                7.55,
+                7.73
+            ],
+            "minCG": 7.25,
+            "maxCG": 8.78,
+            "count": 15,
+            "averageCG": 7.739999999999999
+        },
+        "name": "Military College of Electronics and Mechanical Engineering"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.28
+            ],
+            "minCG": 6.28,
+            "maxCG": 6.28,
+            "count": 1,
+            "averageCG": 6.28
+        },
+        "name": "Million Sparks Foundation -social media Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.66,
+                7.92
+            ],
+            "minCG": 6.66,
+            "maxCG": 7.92,
+            "count": 2,
+            "averageCG": 7.29
+        },
+        "name": "Million Sparks Foundation content creation"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.42,
+                8.31,
+                7.92
+            ],
+            "minCG": 7.42,
+            "maxCG": 8.31,
+            "count": 3,
+            "averageCG": 7.883333333333333
+        },
+        "name": "MSys Technologies - Tech"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.23,
+                7.18,
+                8
+            ],
+            "minCG": 7.18,
+            "maxCG": 8,
+            "count": 3,
+            "averageCG": 7.47
+        },
+        "name": "MSys Technologies- General Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.73
+            ],
+            "minCG": 7.73,
+            "maxCG": 7.73,
+            "count": 1,
+            "averageCG": 7.73
+        },
+        "name": "Multigraphics - ERP"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.46,
+                8.224
+            ],
+            "minCG": 7.46,
+            "maxCG": 8.224,
+            "count": 2,
+            "averageCG": 7.8420000000000005
+        },
+        "name": "Multigraphics Group- Digital marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.14
+            ],
+            "minCG": 8.14,
+            "maxCG": 8.14,
+            "count": 1,
+            "averageCG": 8.14
+        },
+        "name": "Multigraphics Group- Market Research"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.3,
+                7.33
+            ],
+            "minCG": 7.3,
+            "maxCG": 7.33,
+            "count": 2,
+            "averageCG": 7.3149999999999995
+        },
+        "name": "Multigraphics Group- Project management"
+    },
+    {
+        "2021": {
+            "CG": [
+                6,
+                5.76
+            ],
+            "minCG": 5.76,
+            "maxCG": 6,
+            "count": 2,
+            "averageCG": 5.88
+        },
+        "name": "Nandi Group ( Sujala Pipe Pvt. Ltd )-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.393
+            ],
+            "minCG": 5.393,
+            "maxCG": 5.393,
+            "count": 1,
+            "averageCG": 5.393
+        },
+        "name": "Nathdwara Cement Works-Electrical & Electronics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.9,
+                8.66,
+                8.68,
+                8.95,
+                8.91,
+                9.21
+            ],
+            "minCG": 8.66,
+            "maxCG": 9.21,
+            "count": 6,
+            "averageCG": 8.885
+        },
+        "name": "National Centre For Polar And Ocean Research- Data Analytics, Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.12
+            ],
+            "minCG": 8.12,
+            "maxCG": 8.12,
+            "count": 1,
+            "averageCG": 8.12
+        },
+        "name": "National Chemical Laboratory-Chemical (Bioinformatics)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.89,
+                7.71,
+                8.47,
+                7.6,
+                8.43,
+                8.05,
+                8.31,
+                8.07,
+                7.76,
+                8.724
+            ],
+            "minCG": 7.6,
+            "maxCG": 8.89,
+            "count": 10,
+            "averageCG": 8.201400000000001
+        },
+        "name": "National Chemical Laboratory-Chemical (Process modeling)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.86
+            ],
+            "minCG": 8.86,
+            "maxCG": 8.86,
+            "count": 1,
+            "averageCG": 8.86
+        },
+        "name": "National Chemical Laboratory-Computer science"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.17,
+                8.12,
+                8.19
+            ],
+            "minCG": 8.12,
+            "maxCG": 8.19,
+            "count": 3,
+            "averageCG": 8.159999999999998
+        },
+        "name": "National Institute of Oceanography - Industrial Automation & Control"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.16,
+                8.58
+            ],
+            "minCG": 8.58,
+            "maxCG": 9.16,
+            "count": 2,
+            "averageCG": 8.870000000000001
+        },
+        "name": "National Institute of Oceanography -Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.61,
+                8.63
+            ],
+            "minCG": 8.61,
+            "maxCG": 8.63,
+            "count": 2,
+            "averageCG": 8.620000000000001
+        },
+        "name": "National Institute of Oceanography -Machine Learning/DSP/AI"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.08,
+                9.19
+            ],
+            "minCG": 9.08,
+            "maxCG": 9.19,
+            "count": 2,
+            "averageCG": 9.135
+        },
+        "name": "National Stock Exchange"
+    },
+    {
+        "2021": {
+            "CG": [
+                4.98
+            ],
+            "minCG": 4.98,
+            "maxCG": 4.98,
+            "count": 1,
+            "averageCG": 4.98
+        },
+        "name": "NCCBM-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.01,
+                8.39
+            ],
+            "minCG": 8.01,
+            "maxCG": 8.39,
+            "count": 2,
+            "averageCG": 8.2
+        },
+        "name": "NCCBM-Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.935,
+                6.13,
+                6.78
+            ],
+            "minCG": 5.935,
+            "maxCG": 6.78,
+            "count": 3,
+            "averageCG": 6.281666666666666
+        },
+        "name": "NCCBM-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.05,
+                9.17
+            ],
+            "minCG": 9.05,
+            "maxCG": 9.17,
+            "count": 2,
+            "averageCG": 9.11
+        },
+        "name": "NetApp"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.75,
+                8.63,
+                8.76
+            ],
+            "minCG": 8.63,
+            "maxCG": 8.76,
+            "count": 3,
+            "averageCG": 8.713333333333333
+        },
+        "name": "NIC- Mobile App development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.55,
+                8.52,
+                8.43
+            ],
+            "minCG": 8.43,
+            "maxCG": 8.55,
+            "count": 3,
+            "averageCG": 8.5
+        },
+        "name": "NIC- Public Distribution System Operations"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.82
+            ],
+            "minCG": 8.82,
+            "maxCG": 8.82,
+            "count": 1,
+            "averageCG": 8.82
+        },
+        "name": "NIC-Web development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.75
+            ],
+            "minCG": 7.75,
+            "maxCG": 7.75,
+            "count": 1,
+            "averageCG": 7.75
+        },
+        "name": "Nihon Communication Solutions Pvt. Ltd - Embebdded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.86,
+                7.52,
+                6.04,
+                6.2,
+                5.91,
+                6.2,
+                5.9,
+                6.03
+            ],
+            "minCG": 5.86,
+            "maxCG": 7.52,
+            "count": 8,
+            "averageCG": 6.2075
+        },
+        "name": "NIRDPM- Analytics and IT Management"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.9
+            ],
+            "minCG": 8.9,
+            "maxCG": 8.9,
+            "count": 1,
+            "averageCG": 8.9
+        },
+        "name": "North Eastern Space - Compiler Design/Geo Processing/Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.97,
+                8.92,
+                9.12,
+                8.95,
+                9.03
+            ],
+            "minCG": 8.92,
+            "maxCG": 9.12,
+            "count": 5,
+            "averageCG": 8.998
+        },
+        "name": "North Eastern Space - Deep Learning/Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.97,
+                8.7
+            ],
+            "minCG": 8.7,
+            "maxCG": 8.97,
+            "count": 2,
+            "averageCG": 8.835
+        },
+        "name": "North Eastern Space - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.75,
+                6.88,
+                7.22,
+                7.2170000000000005
+            ],
+            "minCG": 6.75,
+            "maxCG": 7.22,
+            "count": 4,
+            "averageCG": 7.01675
+        },
+        "name": "NPBridge Solutions Private Limited"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.23,
+                7.53
+            ],
+            "minCG": 7.23,
+            "maxCG": 7.53,
+            "count": 2,
+            "averageCG": 7.380000000000001
+        },
+        "name": "NTPC-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.593,
+                8.66,
+                7.92,
+                8.068
+            ],
+            "minCG": 7.593,
+            "maxCG": 8.66,
+            "count": 4,
+            "averageCG": 8.06025
+        },
+        "name": "NTPC-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.36
+            ],
+            "minCG": 8.36,
+            "maxCG": 8.36,
+            "count": 1,
+            "averageCG": 8.36
+        },
+        "name": "Pacify Medical Technology Pvt. Ltd - Mechatronics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.78,
+                8.88,
+                8.78,
+                8.81,
+                8.793,
+                8.68,
+                8.64
+            ],
+            "minCG": 8.64,
+            "maxCG": 8.88,
+            "count": 7,
+            "averageCG": 8.766142857142857
+        },
+        "name": "Persistent Systems Ltd.,Verna - Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.25,
+                8.19
+            ],
+            "minCG": 8.19,
+            "maxCG": 8.25,
+            "count": 2,
+            "averageCG": 8.219999999999999
+        },
+        "name": "Petasense Technologies Pvt. Ltd."
+    },
+    {
+        "2021": {
+            "CG": [
+                6.3
+            ],
+            "minCG": 6.3,
+            "maxCG": 6.3,
+            "count": 1,
+            "averageCG": 6.3
+        },
+        "name": "Pilani AtmaNirbhar Resource Center (PARC)- Photography"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.63
+            ],
+            "minCG": 7.63,
+            "maxCG": 7.63,
+            "count": 1,
+            "averageCG": 7.63
+        },
+        "name": "Pilani AtmaNirbhar Resource Center (PARC)- Spatial mapping"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.35,
+                8.66
+            ],
+            "minCG": 8.35,
+            "maxCG": 8.66,
+            "count": 2,
+            "averageCG": 8.504999999999999
+        },
+        "name": "Pipe Candy -Business Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.86
+            ],
+            "minCG": 7.86,
+            "maxCG": 7.86,
+            "count": 1,
+            "averageCG": 7.86
+        },
+        "name": "Pipe Candy -Industrial Research"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.57
+            ],
+            "minCG": 7.57,
+            "maxCG": 7.57,
+            "count": 1,
+            "averageCG": 7.57
+        },
+        "name": "Pipe Candy -Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.28,
+                7.36,
+                7.3,
+                7
+            ],
+            "minCG": 7,
+            "maxCG": 7.36,
+            "count": 4,
+            "averageCG": 7.235
+        },
+        "name": "Plastic water lab-Electronics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7,
+                6.97
+            ],
+            "minCG": 6.97,
+            "maxCG": 7,
+            "count": 2,
+            "averageCG": 6.984999999999999
+        },
+        "name": "Plastic water lab-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.44
+            ],
+            "minCG": 7.44,
+            "maxCG": 7.44,
+            "count": 1,
+            "averageCG": 7.44
+        },
+        "name": "Plastic Water Labs - Actuators and Sensors in IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.93,
+                7.95,
+                8.21
+            ],
+            "minCG": 7.93,
+            "maxCG": 8.21,
+            "count": 3,
+            "averageCG": 8.03
+        },
+        "name": "Platifi Solutions - Full Stack Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.48,
+                6,
+                6.082999999999999,
+                6.96,
+                7.377000000000001,
+                6.33,
+                6.88,
+                5.88,
+                6.28,
+                6.44,
+                7.7,
+                6.33,
+                6.3
+            ],
+            "minCG": 5.88,
+            "maxCG": 7.7,
+            "count": 13,
+            "averageCG": 6.618461538461539
+        },
+        "name": "Power Grid Corporation - Electrical Power Systems"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.29,
+                6.93,
+                7.02,
+                6.96,
+                7.78
+            ],
+            "minCG": 6.93,
+            "maxCG": 7.78,
+            "count": 5,
+            "averageCG": 7.196
+        },
+        "name": "Prakriti Organics - Website Upgradation or enhancement"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.62
+            ],
+            "minCG": 6.62,
+            "maxCG": 6.62,
+            "count": 1,
+            "averageCG": 6.62
+        },
+        "name": "Prama Instruments Private Limited - Industrial Control & Automation"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.75,
+                7.9,
+                7.75,
+                7.83,
+                7.85,
+                7.63,
+                7.95,
+                7.92,
+                8.03
+            ],
+            "minCG": 7.63,
+            "maxCG": 8.03,
+            "count": 9,
+            "averageCG": 7.845555555555555
+        },
+        "name": "Preludesys- Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.3,
+                7.54
+            ],
+            "minCG": 7.3,
+            "maxCG": 7.54,
+            "count": 2,
+            "averageCG": 7.42
+        },
+        "name": "PreludeSys- IT helpdesk analysis"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.2,
+                7.58
+            ],
+            "minCG": 7.2,
+            "maxCG": 7.58,
+            "count": 2,
+            "averageCG": 7.390000000000001
+        },
+        "name": "PreludeSys- marketing and inside sales analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.49,
+                7.129
+            ],
+            "minCG": 7.129,
+            "maxCG": 7.49,
+            "count": 2,
+            "averageCG": 7.3095
+        },
+        "name": "PreludeSys- People analytics dashboard"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.59,
+                7.76
+            ],
+            "minCG": 7.59,
+            "maxCG": 7.76,
+            "count": 2,
+            "averageCG": 7.675
+        },
+        "name": "PreludeSys- Presales data analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.27,
+                6,
+                6.9
+            ],
+            "minCG": 6,
+            "maxCG": 6.9,
+            "count": 3,
+            "averageCG": 6.390000000000001
+        },
+        "name": "Preto Tooling Systems-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.73,
+                7.53,
+                7.77,
+                9.1,
+                6.95,
+                6.7,
+                6.83,
+                7.43,
+                8.03,
+                6.8,
+                7.84,
+                8.55,
+                8.18
+            ],
+            "minCG": 6.7,
+            "maxCG": 9.1,
+            "count": 13,
+            "averageCG": 7.649230769230769
+        },
+        "name": "Prodapt"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.08,
+                7.53
+            ],
+            "minCG": 7.53,
+            "maxCG": 8.08,
+            "count": 2,
+            "averageCG": 7.805
+        },
+        "name": "Proindia Healthcare LLP- Business Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.56,
+                7.25,
+                7.6,
+                7.38
+            ],
+            "minCG": 7.25,
+            "maxCG": 7.6,
+            "count": 4,
+            "averageCG": 7.447499999999999
+        },
+        "name": "Pyrotech Electronics Pvt. Ltd - Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.25,
+                7.14,
+                7
+            ],
+            "minCG": 7,
+            "maxCG": 7.25,
+            "count": 3,
+            "averageCG": 7.13
+        },
+        "name": "Pyrotech Electronics Pvt. Ltd - Industrial Automation & Control"
+    },
+    {
+        "2021": {
+            "CG": [
+                8
+            ],
+            "minCG": 8,
+            "maxCG": 8,
+            "count": 1,
+            "averageCG": 8
+        },
+        "name": "Race2Cloud Technologies - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.74,
+                7.7
+            ],
+            "minCG": 7.7,
+            "maxCG": 7.74,
+            "count": 2,
+            "averageCG": 7.720000000000001
+        },
+        "name": "Race2Cloud Technologies Pvt. Ltd. - Apps on Zoho Creator"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.88
+            ],
+            "minCG": 5.88,
+            "maxCG": 5.88,
+            "count": 1,
+            "averageCG": 5.88
+        },
+        "name": "Rajshree Cement-Chemical"
+    },
+    {
+        "2021": {
+            "CG": [
+                4
+            ],
+            "minCG": 4,
+            "maxCG": 4,
+            "count": 1,
+            "averageCG": 4
+        },
+        "name": "Rajshree Cement-Civil"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.814
+            ],
+            "minCG": 5.814,
+            "maxCG": 5.814,
+            "count": 1,
+            "averageCG": 5.814
+        },
+        "name": "Ramco Steels Pvt. Ltd- Manufacturing"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.65,
+                8.57,
+                8.6
+            ],
+            "minCG": 8.57,
+            "maxCG": 8.65,
+            "count": 3,
+            "averageCG": 8.606666666666667
+        },
+        "name": "Rebus Research - Web Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.258
+            ],
+            "minCG": 8.258,
+            "maxCG": 8.258,
+            "count": 1,
+            "averageCG": 8.258
+        },
+        "name": "Rebus Research Financial Services(Stratzy) - Business development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.3
+            ],
+            "minCG": 7.3,
+            "maxCG": 7.3,
+            "count": 1,
+            "averageCG": 7.3
+        },
+        "name": "Rebus Research Financial Services(Stratzy) - Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.8,
+                7.95,
+                7.83,
+                7.54
+            ],
+            "minCG": 7.54,
+            "maxCG": 7.95,
+            "count": 4,
+            "averageCG": 7.779999999999999
+        },
+        "name": "Redpine Signals India Pvt. Ltd. DBA Ceremorphic India Pvt. Ltd."
+    },
+    {
+        "2021": {
+            "CG": [
+                8.7,
+                8.9,
+                8.72,
+                8.69,
+                8.79,
+                8.71
+            ],
+            "minCG": 8.69,
+            "maxCG": 8.9,
+            "count": 6,
+            "averageCG": 8.751666666666667
+        },
+        "name": "Regional Remote Sensing Centre"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.9
+            ],
+            "minCG": 6.9,
+            "maxCG": 6.9,
+            "count": 1,
+            "averageCG": 6.9
+        },
+        "name": "Roads and Buildings Department - Govt of Telangana"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.15,
+                7.43
+            ],
+            "minCG": 7.15,
+            "maxCG": 7.43,
+            "count": 2,
+            "averageCG": 7.29
+        },
+        "name": "SAMIL- Car Trade exchange business"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.55
+            ],
+            "minCG": 7.55,
+            "maxCG": 7.55,
+            "count": 1,
+            "averageCG": 7.55
+        },
+        "name": "SAMIL- Finance"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.49,
+                8.1
+            ],
+            "minCG": 6.49,
+            "maxCG": 8.1,
+            "count": 2,
+            "averageCG": 7.295
+        },
+        "name": "SAMIL- Vehicle recommendation system"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.97,
+                8.39,
+                8.07
+            ],
+            "minCG": 7.97,
+            "maxCG": 8.39,
+            "count": 3,
+            "averageCG": 8.143333333333333
+        },
+        "name": "Sawolabs Technologies - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.29,
+                7.51
+            ],
+            "minCG": 7.29,
+            "maxCG": 7.51,
+            "count": 2,
+            "averageCG": 7.4
+        },
+        "name": "Sawolabs Technologies- Market research"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.36
+            ],
+            "minCG": 7.36,
+            "maxCG": 7.36,
+            "count": 1,
+            "averageCG": 7.36
+        },
+        "name": "Sawolabs- Developer Advocacy"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.84
+            ],
+            "minCG": 7.84,
+            "maxCG": 7.84,
+            "count": 1,
+            "averageCG": 7.84
+        },
+        "name": "ScoVelo Consulting - App/AR/VR"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.97
+            ],
+            "minCG": 8.97,
+            "maxCG": 8.97,
+            "count": 1,
+            "averageCG": 8.97
+        },
+        "name": "Semi- conductor laboratoty - VLSI Design/Circuit Design"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.9
+            ],
+            "minCG": 7.9,
+            "maxCG": 7.9,
+            "count": 1,
+            "averageCG": 7.9
+        },
+        "name": "SenRa Tech Pvt Ltd - Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.71,
+                7.75,
+                7.75,
+                7.44,
+                6.77,
+                7.65,
+                7.14,
+                7.48,
+                7.33,
+                7.33,
+                7.6,
+                7.76,
+                6.6,
+                6.3,
+                6.49
+            ],
+            "minCG": 6.3,
+            "maxCG": 7.76,
+            "count": 15,
+            "averageCG": 7.206666666666665
+        },
+        "name": "Shalaka Connected Devices LLP - App/AR/VR"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.88,
+                7.54,
+                7.86,
+                7.2,
+                7.2,
+                7.44,
+                7.16,
+                7.46
+            ],
+            "minCG": 7.16,
+            "maxCG": 7.88,
+            "count": 8,
+            "averageCG": 7.4675
+        },
+        "name": "Shalaka Connected Devices LLP - Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.76,
+                7.2,
+                6.9,
+                7.27,
+                6.64,
+                7,
+                6.95,
+                6.88
+            ],
+            "minCG": 6.64,
+            "maxCG": 7.27,
+            "count": 8,
+            "averageCG": 6.95
+        },
+        "name": "Shalaka Connected Devices-Mechanical/Manufacturing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.15
+            ],
+            "minCG": 7.15,
+            "maxCG": 7.15,
+            "count": 1,
+            "averageCG": 7.15
+        },
+        "name": "SharedPro Technologies- Community Building"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.09,
+                6.7,
+                7.33,
+                7.62,
+                6.95,
+                7.33,
+                7.1,
+                6.74,
+                7.51
+            ],
+            "minCG": 6.7,
+            "maxCG": 7.62,
+            "count": 9,
+            "averageCG": 7.152222222222223
+        },
+        "name": "Shris Infotech Services Pvt Ltd"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.57,
+                8.09,
+                8.16,
+                8.6,
+                8.6,
+                8.18,
+                8.22,
+                8.35,
+                8.07
+            ],
+            "minCG": 8.07,
+            "maxCG": 8.6,
+            "count": 9,
+            "averageCG": 8.315555555555555
+        },
+        "name": "Silver Touch Technologies Ltd"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.94,
+                8.46,
+                7.87,
+                7.25,
+                7.23,
+                7.14,
+                8.14,
+                8.39
+            ],
+            "minCG": 7.14,
+            "maxCG": 8.46,
+            "count": 8,
+            "averageCG": 7.8025
+        },
+        "name": "Sirius Motorsports"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.87,
+                8.1,
+                6.97,
+                8.2
+            ],
+            "minCG": 6.87,
+            "maxCG": 8.2,
+            "count": 4,
+            "averageCG": 7.534999999999999
+        },
+        "name": "Smartlink Holdings Ltd ( Digisol Systems Ltd )"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.1,
+                7.22
+            ],
+            "minCG": 7.1,
+            "maxCG": 7.22,
+            "count": 2,
+            "averageCG": 7.16
+        },
+        "name": "SNS TECHNOSYS LLP - Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.8,
+                7.6,
+                7.12
+            ],
+            "minCG": 7.12,
+            "maxCG": 7.8,
+            "count": 3,
+            "averageCG": 7.506666666666667
+        },
+        "name": "Solar Energy Corporation of India-Civi"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.327999999999999,
+                7.23
+            ],
+            "minCG": 7.23,
+            "maxCG": 7.327999999999999,
+            "count": 2,
+            "averageCG": 7.279
+        },
+        "name": "Solar Energy Corporation of India-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7,
+                7.46,
+                7.3870000000000005,
+                7.03
+            ],
+            "minCG": 7,
+            "maxCG": 7.46,
+            "count": 4,
+            "averageCG": 7.219250000000001
+        },
+        "name": "STAR Engineers India - Embedded Systems/IoT"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.07,
+                7.51,
+                7.52,
+                7.3
+            ],
+            "minCG": 7.3,
+            "maxCG": 8.07,
+            "count": 4,
+            "averageCG": 7.6000000000000005
+        },
+        "name": "STEM4ALL-Mathematics"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.43
+            ],
+            "minCG": 6.43,
+            "maxCG": 6.43,
+            "count": 1,
+            "averageCG": 6.43
+        },
+        "name": "Sud-Chemie India Pvt.Ltd-CFD analysis"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.1,
+                7.24,
+                6.84,
+                7.47,
+                7.19,
+                8.1,
+                7.35
+            ],
+            "minCG": 6.84,
+            "maxCG": 8.1,
+            "count": 7,
+            "averageCG": 7.327142857142857
+        },
+        "name": "Suzlon Energy- Branding campaigns and strategy"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.81,
+                6.78,
+                6.98,
+                6.85,
+                6.83
+            ],
+            "minCG": 6.78,
+            "maxCG": 7.81,
+            "count": 5,
+            "averageCG": 7.05
+        },
+        "name": "Suzlon Foundation - Documentation and Analysis"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.78
+            ],
+            "minCG": 6.78,
+            "maxCG": 6.78,
+            "count": 1,
+            "averageCG": 6.78
+        },
+        "name": "Swami Vivekanand Gujarat Rajya Yuva Board- Research, Policy and Copywriting"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.53,
+                7.15,
+                7.26,
+                7.29,
+                7.43,
+                7.25,
+                7.59
+            ],
+            "minCG": 7.15,
+            "maxCG": 7.59,
+            "count": 7,
+            "averageCG": 7.357142857142857
+        },
+        "name": "Swecha - Shell Programming"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.12,
+                8.11,
+                8.06,
+                8.35,
+                8.05,
+                7.98,
+                8.47
+            ],
+            "minCG": 7.98,
+            "maxCG": 8.47,
+            "count": 7,
+            "averageCG": 8.162857142857144
+        },
+        "name": "Swecha - Speech Recognition"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.8,
+                7.67,
+                7.63,
+                7.2,
+                7.77,
+                7.8,
+                7.61,
+                7.75,
+                7.66,
+                7.74,
+                7.66,
+                7.66,
+                7.88,
+                8.26,
+                8.26,
+                7.72,
+                7.76,
+                7.12,
+                7.8,
+                7.71,
+                7.78,
+                8.11,
+                8.03
+            ],
+            "minCG": 7.12,
+            "maxCG": 8.26,
+            "count": 23,
+            "averageCG": 7.755652173913044
+        },
+        "name": "Swecha - Web Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.52,
+                8.58,
+                8.98,
+                8.7
+            ],
+            "minCG": 8.52,
+            "maxCG": 8.98,
+            "count": 4,
+            "averageCG": 8.695
+        },
+        "name": "Swecha Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                9.38,
+                9.21,
+                9.28,
+                9.59,
+                9.23,
+                9.67,
+                9.88,
+                9.38
+            ],
+            "minCG": 9.21,
+            "maxCG": 9.88,
+            "count": 8,
+            "averageCG": 9.4525
+        },
+        "name": "Swiggy - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.95,
+                7.6
+            ],
+            "minCG": 7.6,
+            "maxCG": 7.95,
+            "count": 2,
+            "averageCG": 7.775
+        },
+        "name": "Synchrony International - Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.27,
+                7.25
+            ],
+            "minCG": 7.25,
+            "maxCG": 8.27,
+            "count": 2,
+            "averageCG": 7.76
+        },
+        "name": "Tamil nadu Startup & Innovation Mission- Strategy Consulting"
+    },
+    {
+        "2021": {
+            "CG": [
+                7,
+                7.03
+            ],
+            "minCG": 7,
+            "maxCG": 7.03,
+            "count": 2,
+            "averageCG": 7.015000000000001
+        },
+        "name": "TDF The diamond factory (I) Pvt Ltd - Business Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.22,
+                8.15,
+                8.45,
+                8.28
+            ],
+            "minCG": 8.15,
+            "maxCG": 8.45,
+            "count": 4,
+            "averageCG": 8.275
+        },
+        "name": "Telangana e-governance - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.72,
+                7.79,
+                7.54,
+                7.55
+            ],
+            "minCG": 7.54,
+            "maxCG": 7.79,
+            "count": 4,
+            "averageCG": 7.65
+        },
+        "name": "TNSTC - Digital Content - Astronomy - App/AR/VR"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.72
+            ],
+            "minCG": 6.72,
+            "maxCG": 6.72,
+            "count": 1,
+            "averageCG": 6.72
+        },
+        "name": "Ultratech Cement Limited-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.49
+            ],
+            "minCG": 6.49,
+            "maxCG": 6.49,
+            "count": 1,
+            "averageCG": 6.49
+        },
+        "name": "Ultratech Cement Ltd- Electronics & Instrumentation"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.2
+            ],
+            "minCG": 6.2,
+            "maxCG": 6.2,
+            "count": 1,
+            "averageCG": 6.2
+        },
+        "name": "Ultratech Cement Ltd-Mechanical"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.8,
+                7.55,
+                7.62,
+                7.53,
+                7.76,
+                7.63
+            ],
+            "minCG": 7.53,
+            "maxCG": 7.8,
+            "count": 6,
+            "averageCG": 7.648333333333333
+        },
+        "name": "Urjanet - Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.19,
+                8.51
+            ],
+            "minCG": 8.19,
+            "maxCG": 8.51,
+            "count": 2,
+            "averageCG": 8.35
+        },
+        "name": "Urjanet - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.05
+            ],
+            "minCG": 8.05,
+            "maxCG": 8.05,
+            "count": 1,
+            "averageCG": 8.05
+        },
+        "name": "Urjanet- Quality assurance"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.9,
+                8.75,
+                8.86,
+                8.78,
+                8.87,
+                9
+            ],
+            "minCG": 8.75,
+            "maxCG": 9,
+            "count": 6,
+            "averageCG": 8.86
+        },
+        "name": "UST Global - Machine Learning"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.86,
+                9.15
+            ],
+            "minCG": 8.86,
+            "maxCG": 9.15,
+            "count": 2,
+            "averageCG": 9.004999999999999
+        },
+        "name": "UST Global - Machine Learning/DSP/AI"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.7,
+                8.74,
+                8.97,
+                9.09
+            ],
+            "minCG": 8.7,
+            "maxCG": 9.09,
+            "count": 4,
+            "averageCG": 8.875
+        },
+        "name": "UST Global - Research/Blockchain"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.04,
+                8.13
+            ],
+            "minCG": 8.04,
+            "maxCG": 8.13,
+            "count": 2,
+            "averageCG": 8.085
+        },
+        "name": "UST Global - VLSI Design/Circuit Design"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.32,
+                8.59,
+                7.88
+            ],
+            "minCG": 7.88,
+            "maxCG": 8.59,
+            "count": 3,
+            "averageCG": 8.263333333333334
+        },
+        "name": "VComply - Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.15,
+                8.3,
+                7.99
+            ],
+            "minCG": 7.99,
+            "maxCG": 8.3,
+            "count": 3,
+            "averageCG": 8.146666666666668
+        },
+        "name": "VComply - Mobile Applications"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.22,
+                7.97
+            ],
+            "minCG": 7.97,
+            "maxCG": 8.22,
+            "count": 2,
+            "averageCG": 8.095
+        },
+        "name": "VComply - Mobile Applications/NLP"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.05,
+                8.45,
+                8.07,
+                8.47,
+                8.02
+            ],
+            "minCG": 8.02,
+            "maxCG": 8.47,
+            "count": 5,
+            "averageCG": 8.212
+        },
+        "name": "VComply - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.09
+            ],
+            "minCG": 8.09,
+            "maxCG": 8.09,
+            "count": 1,
+            "averageCG": 8.09
+        },
+        "name": "Vidcentum R & D Pvt - Machine Learning/DSP/AI"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.14
+            ],
+            "minCG": 6.14,
+            "maxCG": 6.14,
+            "count": 1,
+            "averageCG": 6.14
+        },
+        "name": "Vikram cement works- Civil (Inventory management)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.16,
+                8.16,
+                8.5,
+                8.16
+            ],
+            "minCG": 8.16,
+            "maxCG": 8.5,
+            "count": 4,
+            "averageCG": 8.245000000000001
+        },
+        "name": "Village book builders- IT networking"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.03,
+                6.8,
+                6.75,
+                6.63
+            ],
+            "minCG": 6.63,
+            "maxCG": 7.03,
+            "count": 4,
+            "averageCG": 6.802499999999999
+        },
+        "name": "Village book builders- Operations automation"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.4,
+                8.24,
+                8.3,
+                8.5,
+                8.56
+            ],
+            "minCG": 8.24,
+            "maxCG": 8.56,
+            "count": 5,
+            "averageCG": 8.4
+        },
+        "name": "Village Book Builders,Mapleton, UT, USA-Backend Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.42,
+                8.28
+            ],
+            "minCG": 8.28,
+            "maxCG": 8.42,
+            "count": 2,
+            "averageCG": 8.35
+        },
+        "name": "Village Book Builders,Mapleton, UT, USA-Front End Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.38
+            ],
+            "minCG": 8.38,
+            "maxCG": 8.38,
+            "count": 1,
+            "averageCG": 8.38
+        },
+        "name": "Village Book Builders,Mapleton, UT, USA-Web Analytics and Optimizatiom"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.86,
+                7.38
+            ],
+            "minCG": 7.38,
+            "maxCG": 7.86,
+            "count": 2,
+            "averageCG": 7.62
+        },
+        "name": "Viram Technologies Enterprises - Mechanical (Automation design)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.86,
+                7.97,
+                8.15
+            ],
+            "minCG": 7.86,
+            "maxCG": 8.15,
+            "count": 3,
+            "averageCG": 7.993333333333333
+        },
+        "name": "Viram Technologies Enterprises - Mechanical (Finite Element Analysis)"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.14
+            ],
+            "minCG": 7.14,
+            "maxCG": 7.14,
+            "count": 1,
+            "averageCG": 7.14
+        },
+        "name": "Viram Technologies Enterprises - Mechanical (Piping and thermal analysis)"
+    },
+    {
+        "2021": {
+            "CG": [
+                8.41,
+                8.58,
+                8.4,
+                7.81,
+                7.55,
+                7.58,
+                7.45,
+                7.8,
+                7.94,
+                7.37,
+                7.37,
+                8.55,
+                8.36,
+                7.44,
+                8.33,
+                7.91,
+                8.07,
+                8.39,
+                7.56,
+                7.79,
+                7.95,
+                7.75,
+                7.65,
+                7.81,
+                7.4,
+                8.33,
+                7.65
+            ],
+            "minCG": 7.37,
+            "maxCG": 8.58,
+            "count": 27,
+            "averageCG": 7.896296296296297
+        },
+        "name": "VoiceQube - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                5.67,
+                7.27,
+                7.5,
+                7
+            ],
+            "minCG": 5.67,
+            "maxCG": 7.5,
+            "count": 4,
+            "averageCG": 6.859999999999999
+        },
+        "name": "Wadia Institute Of Himalayan Geology"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.54
+            ],
+            "minCG": 6.54,
+            "maxCG": 6.54,
+            "count": 1,
+            "averageCG": 6.54
+        },
+        "name": "WEBiROID Technology & Consultancy Services - Infographics design"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.98
+            ],
+            "minCG": 6.98,
+            "maxCG": 6.98,
+            "count": 1,
+            "averageCG": 6.98
+        },
+        "name": "WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Content development"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.98
+            ],
+            "minCG": 6.98,
+            "maxCG": 6.98,
+            "count": 1,
+            "averageCG": 6.98
+        },
+        "name": "WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Digital Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.22,
+                7.02,
+                6.71,
+                6.8
+            ],
+            "minCG": 6.71,
+            "maxCG": 7.22,
+            "count": 4,
+            "averageCG": 6.9375
+        },
+        "name": "WEBiROID Technology & Consultancy Services Pvt. Ltd.Kolkata-Investment Research"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.8,
+                6.48,
+                6.72
+            ],
+            "minCG": 6.48,
+            "maxCG": 6.8,
+            "count": 3,
+            "averageCG": 6.666666666666667
+        },
+        "name": "WeSwap Mobility Solutions - Electronics"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.38
+            ],
+            "minCG": 6.38,
+            "maxCG": 6.38,
+            "count": 1,
+            "averageCG": 6.38
+        },
+        "name": "WeSwap Mobility Solutions - Marketing"
+    },
+    {
+        "2021": {
+            "CG": [
+                9,
+                8.9,
+                8.9,
+                9.12
+            ],
+            "minCG": 8.9,
+            "maxCG": 9.12,
+            "count": 4,
+            "averageCG": 8.979999999999999
+        },
+        "name": "William O Neil - Data Analytics"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.57,
+                7.82,
+                7.46,
+                7.51,
+                7.441
+            ],
+            "minCG": 7.441,
+            "maxCG": 7.82,
+            "count": 5,
+            "averageCG": 7.5602
+        },
+        "name": "Xarvis Intelligent Systems Lab Pvt Ltd"
+    },
+    {
+        "2021": {
+            "CG": [
+                7.83,
+                7.85
+            ],
+            "minCG": 7.83,
+            "maxCG": 7.85,
+            "count": 2,
+            "averageCG": 7.84
+        },
+        "name": "Yashoda Hospitals - Software Development"
+    },
+    {
+        "2021": {
+            "CG": [
+                6.74,
+                6.26,
+                6.9
+            ],
+            "minCG": 6.26,
+            "maxCG": 6.9,
+            "count": 3,
+            "averageCG": 6.633333333333333
+        },
+        "name": "Yashoda Hospitals, Surgery Rostering"
+    }
+]

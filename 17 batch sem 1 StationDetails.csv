@@ -1,0 +1,259 @@
+Station ID,Company Name,Location,Industry Domain,Preferred Branches,Stipend (UG),Stipend (PG),Have Accommodation?
+328,"Aditya Birla Science & Technology Company Ltd., Mumbai",Mumbai,Chemical,Unavailable,Unavailable,Unavailable,No
+4876,AltMat,Ahmedabad,Chemical,"A1 , A4 , AB",10000,0,No
+672,Central Leather Research Institute (CLRI),Chennai,Chemical,"A3 , A7 , A8 , AA",0,0,No
+445,Grasim Industries Ltd.,Nagda,Chemical,"A1 , A4 , A8",8500,8500,No
+466,Indian Institute of Petroleum,Dehradun,Chemical,A1,0,0,No
+612,"SRF Ltd., Gurgaon",Gurgaon,Chemical,Unavailable,Unavailable,Unavailable,No
+4887,Zwende Design Tech Pvt Ltd,Bangalore,Chemical,"A2 , B4 , B5",15000,0,No
+4907,COVIAM Technologies,Bangalore,,A1,26000,0,No
+3880,ABB Global Industries and Services Private Limited,Bangalore,Electronics  ,"A4 , A7 , AB",25000,0,No
+4898,ALW Lighting India Pvt Ltd,Ludhiana,Electronics  ,Any,26000,0,No
+4899,ALW Lighting India Pvt Ltd- Nontech,Ludhiana,Electronics  ,"A3 , A4 , A8 , AA , AB , B5",24000,0,No
+674,Central Electronics Engineering Research Institute,Pilani,Electronics  ,"A3 , A7 , A8 , AA",0,0,No
+3953,Cisco Systems (India) Pvt. Ltd. - Hardware ,Bangalore,Electronics  ,"A3 , A8 , AA , AnyA3 , AnyA8 , AnyAA",70000,90000,No
+3803,Door Sabha Nigam Ltd.,Chennai,Electronics  ,"A4 , AB",25000,0,No
+455,Hourglass Research,Mumbai,Electronics  ,"A3 , A8",20000,0,No
+4886,Integrated Active Monitoring Pvt. Ltd. - Product & Business Dev.,Pune,Electronics  ,"A1 , A4 , B3",6000,0,No
+4885,Integrated Active Monitoring Pvt. Ltd.,Pune,Electronics  ,"A3 , A7 , A8 , AA",8000,0,No
+3225,Intel India Technology ,Bangalore,Electronics  ,"AnyA3 , AnyA7 , AnyA8 , AnyAA , AnyC6",30000,0,No
+3964,Micron Technology India Operations,Hyderabad,Electronics  ,"A3 , A7 , A8 , AA",0,0,No
+536,National Instruments Systems (India) Pvt. Ltd.,Bangalore,Electronics  ,A7,30000,0,No
+19,Nvidia Graphics - Hardware,Bangalore,Electronics  ,"A3 , A8 , AA , AnyA3 , AnyA7 , AnyA8 , AnyAA",35000,35000,No
+552,Nvidia Graphics - Hardware,Hyderabad,Electronics  ,"A3 , AA",35000,0,No
+2655,Pyrotech Electronics Pvt. Ltd.,Udaipur,Electronics  ,"A3 , A7 , A8 , AA",0,0,No
+4848,Qzense labs Pvt. Ltd.,Bangalore,Electronics  ,A3,20000,0,No
+2998,Samsung Semiconductor India R&D Center-Hardware,Bangalore,Electronics  ,"B4A3 , B5A3 , B4A8 , B5A8",50000,50000,No
+4001,Samsung Semiconductor India Research -Software,Bangalore,Electronics  ,"B4A3 , B5A3 , B4A7 , B5A7 , B4A8 , B5A8",50000,50000,No
+4817,Sleepiz (India) Pvt. Ltd.,Pune,Electronics  ,"A7 , AA",40000,0,No
+2942,Synopsys India Pvt. Ltd.,Hyderabad,Electronics  ,"A3 , A7 , A8 , AA",30000,0,No
+3310,Texas Instruments (I) Pvt. Ltd,Bangalore,Electronics,Unavailable,Unavailable,Unavailable,No
+2912,Texas Instruments (I) Pvt. Ltd. -Analog,Bangalore,Electronics  ,"A8 , AA , H123 , B5A8 , B5AA , C6AA",45000,45000,No
+2819,Xilinx India Technology Services Pvt. Ltd.,Hyderabad,Electronics  ,"A3 , A7 , A8 , AA , Any , AAAA",0,0,No
+4916,Express Stores - Non tech,Gurgaon,,"A1 , A2 , A3 , A4 , A5 , A7 , A8",20000,0,No
+4915,Express Stores - Tech,Gurgaon,,"A1 , A2 , A3 , A4 , A5 , A7 , A8",30000,0,No
+4905,Eyenetlabs,Trivandrum,,"A3 , A7 , A8 , C6",10000,0,No
+3617,AlmaConnect,Gurgaon,Finance and Mgmt,Any,20000,0,No
+4081,BNY Mellon Technology,Chennai,Finance and Mgmt,"A3 , A4 , A7 , A8 , AA , AB",60000,0,No
+4082,BNY Mellon Technology,Pune,Finance and Mgmt,"A3 , A4 , A7 , A8 , AA , AB , Any , B4",60000,0,No
+4859,Bunch Microtechnologies Pvt Ltd,Noida,Finance and Mgmt,Any,20000,0,No
+3993,DBOI - AC,Pune,Finance and Mgmt,AnyB3,30000,0,No
+4831,DBOI - Automation,Pune,Finance and Mgmt,AnyA7,30000,0,No
+3829,DBOI - Business Finance,Mumbai,Finance and Mgmt,Any,30000,0,No
+3827,DBOI - Counterparty Credit Ratings,Mumbai,Finance and Mgmt,Any,30000,0,No
+4830,DBOI - Financial Analytics,Pune,Finance and Mgmt,"A7 , B3 , C7",30000,0,No
+3825,DBOI - Market Risk Analysis & Control,Mumbai,Finance and Mgmt,Any,30000,0,No
+3989,DBOI - Risk Metrics Analytics ,Pune,Finance and Mgmt,AnyB3,30000,0,No
+3327,DMI Finance Private Limited ,New delhi,Finance and Mgmt,-,35000,0,No
+3898,Dunzo Digital Pvt. Ltd.,Bangalore,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA",30000,0,No
+4075,Ecom Express - Business Analysis,Delhi,Finance and Mgmt,-,0,0,No
+4878,Emptycup Innovation Pvt. Ltd. - Non tech,Bangalore,Finance and Mgmt,Any,20000,0,No
+4893,FamPay Pvt. Ltd. - Marketing,Bangalore,Finance and Mgmt,Any,10000,0,No
+4894,FamPay Pvt. Ltd. - Product,Bangalore,Finance and Mgmt,Any,15000,0,No
+3874,GenY medium,Hyderabad,Finance and Mgmt,Any,12000,0,No
+4902,IMarc Services,Noida,Finance and Mgmt,Any,12000,0,No
+3797,"IndiaBuys (Shopero Retail Technologies Pvt. Ltd.),",Hyderabad,Finance and Mgmt,A7,20000,0,No
+4865,IndiaBuys - Nontech,Hyderabad,Finance and Mgmt,Any,15000,0,No
+468,IndustryARC,Hyderabad ,Finance and Mgmt,"A7 , H103 , H112",25000,25000,No
+4829,Invento Markerspaces Pvt. Ltd. (Non tech),Bangalore,Finance and Mgmt,"B3 , D2",15000,0,No
+4828,Invento Markerspaces Pvt. Ltd.,Bangalore,Finance and Mgmt,"A3 , A4 , A7 , H103 , H106 , H141 , H313",20000,0,No
+3922,JPMS (Fintech) CIB R&A Banking (CRG),Mumbai,Finance and Mgmt,A7,50000,0,No
+3925,JPMS (Technology - IT) GR&C Wholesale Credit Solutions - Data Science - Fintech,Mumbai,Finance and Mgmt,"A3 , A7 , AA",100000,0,No
+4870,JPMS - GR&C AM Investment Market & Principle Risk,Bangalore,Finance and Mgmt,"B3 , B4",75000,0,No
+4884,JPMS CIB R&A - Markets (Derivatives Analyst Group,Mumbai,Finance and Mgmt,"A7 , B3 , B4 , B5",75000,0,No
+4837,JPMS CIB R&A Data Science,Mumbai,Finance and Mgmt,"A7 , B3A7 , B4A7 , B5A7",100000,0,No
+4832,JPMS CIB R&A Global Research,Mumbai,Finance and Mgmt,"AnyB3 , AnyB4",75000,0,No
+4845,JPMS CIB R&A Markets– Equity Derivatives Trading & Structuring,Mumbai,Finance and Mgmt,"A3 , A7 , A8 , AA",75000,0,No
+4841,JPMS GR&C Auto Risk Strategy Analytics,Bangalore,Finance and Mgmt,"AnyB3 , AnyB4",75000,0,No
+4840,JPMS GR&C Cards Risk Strategy Analytics,Bangalore,Finance and Mgmt,"AnyB3 , AnyB4",75000,0,No
+4844,JPMS GR&C CCB Business Banking Reporting Strategy,Bangalore,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB",75000,0,No
+4843,JPMS GR&C CCB Chase 360 Strategy,Bangalore,Finance and Mgmt,"AnyB3 , AnyB4 , AnyB5",75000,0,No
+4833,JPMS GR&C Corporate Risk - Control Automation,Bangalore,Finance and Mgmt,"A1 , A2 , A4 , AB",50000,0,No
+4834,JPMS GR&C Corporate Risk - Risk Project Solutions,Bangalore,Finance and Mgmt,"A1 , A2 , A4 , AB",50000,0,No
+4835,JPMS GR&C Corporate Risk - Risk Project Solutions,Mumbai,Finance and Mgmt,"A1 , A2 , A4 , AB",50000,0,No
+4836,JPMS GR&C Corporate Risk – Firm wide Risk Reporting,Bangalore,Finance and Mgmt,"A3 , A4 , A7 , A8 , AA",50000,0,No
+4842,JPMS GR&C Credit Forecasting Strategy,Bangalore,Finance and Mgmt,"AnyB3 , AnyB4 , AnyB5",75000,0,No
+4847,JPMS GR&C Credit Risk – Counterparty Credit Infrastructure & Capital,Mumbai,Finance and Mgmt,"B3 , B4",75000,0,No
+4839,JPMS GR&C Quantitative Research – Fintech,Mumbai,Finance and Mgmt,"A3 , A7 , A8 , AA",100000,0,No
+4846,JPMS GR&C WCS - Credit Portfolio Analytics,Mumbai,Finance and Mgmt,"A3 , A7 , A8 , AA , B3 , B4",75000,0,No
+4838,JPMS GR&C Wealth Management  – Data Science – Credit Risk,Mumbai,Finance and Mgmt,"A3 , A7 , A8 , AA",100000,0,No
+3339,Lowe Services India Pvt.Ltd,Bangalore,Finance and Mgmt,Any,40250,0,No
+3838,Morning Star - Index Management and Analytics,Mumbai,Finance and Mgmt,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , B3",40000,0,No
+4862,Morningstar - Index data calculation,Mumbai,Finance and Mgmt,A7,40000,0,No
+4855,Morningstar - Indexes - Data and Content,Navi mumbai,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB",40000,0,No
+4861,Morningstar - Indexes Product and Sales Operations (IPSO),Mumbai,Finance and Mgmt,Any,40000,0,No
+4851,MSCI - Application of Data Science in Investment Management ,Mumbai,Finance and Mgmt,"A7 , B4 , C7",60000,0,No
+525,MSCI Index and Research,Mumbai,Finance and Mgmt,"A7 , C7",60000,60000,No
+4880,My Smart Price - Non Tech,Hyderabad,Finance and Mgmt,Any,22000,0,No
+3909,myHQ & (JustWork Technologies Pvt. Ltd.) Non Tech,New Delhi,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB",20000,0,No
+3793,myHQ & (JustWork Technologies Pvt. Ltd.) Tech,New Delhi,Finance and Mgmt,"A3 , A7 , A8 , AA",37500,0,No
+4877,News Cape Consulting,Pune,Finance and Mgmt,Any,25000,0,No
+4863,Nomura - Change Management Team,Mumbai,Finance and Mgmt,"B3 , B4 , C7",75000,0,No
+3065,Nomura - FinTech,Mumbai,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , B3 , B4 , C7 , AnyB3 , AnyB4 , AnyC7",75000,0,No
+3064,Nomura - Wholesale Strategy,Mumbai,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , B3 , B4 , C7 , AnyB3 , AnyB4 , AnyC7",75000,0,No
+1138,Nomura Global Markets,Mumbai,Finance and Mgmt,"B3 , B4 , C7 , AnyB3 , AnyB4 , AnyC7",75000,0,No
+2823,Nomura Global Risk,Mumbai,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB , B3 , B4 , C7 , AnyB3 , AnyB4 , AnyC7",75000,0,No
+4027,"Pepper Content Pvt. Ltd., Mumbai",Mumbai,Finance and Mgmt,Unavailable,Unavailable,Unavailable,No
+4115,Rupeek Fintech,Bangalore,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB",25000,0,No
+4219,Rupifi Non Tech,Bangalore,Finance and Mgmt,Any,15000,0,No
+4900,Saras Analytics - Nontech,Hyderabad,Finance and Mgmt,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB , B1 , B2 , B3 , B4 , B5 , C6 , C7",20000,0,No
+593,Sattva Media & Consulting Pvt Ltd,Bangalore,Finance and Mgmt,"B3 , H149",14000,0,No
+4874,Sensum Research ,Mumbai,Finance and Mgmt,Any,10000,0,No
+4864,ShortHills Tech Pvt Ltd(Nontech),Gurgaon,Finance and Mgmt,A7,20000,0,No
+4896,Spenny Pte. Ltd.,Bangalore,Finance and Mgmt,Any,15000,0,No
+4823,Takshila Learning Pvt. Ltd. (Non tech),Delhi,Finance and Mgmt,Any,12000,0,No
+3226,Thorogood,Bangalore,Finance and Mgmt,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB",32000,0,No
+4819,Trell Experiences Pvt Ltd (Non tech),Bangalore,Finance and Mgmt,"A3 , A7 , A8 , B3 , B4 , B5",20000,0,No
+4092,UBS - Group Compliance,Pune,Finance and Mgmt,Any,25000,0,No
+4850,UBS Business Solutions (India) Ltd. - SOX/CFOA/BCBS– Risk based control testing,Pune,Finance and Mgmt,"B3 , C7",25000,0,No
+3487,UBS Business Solutions (India) Private Limited - Finance Group,Mumbai,Finance and Mgmt,Any,25000,0,No
+3486,UBS Business Solutions (India) Private Limited - Finance Group,Pune,Finance and Mgmt,Any,25000,0,No
+3272,UBS Business Solutions (India) Private Limited - Group Operations,Hyderabad,Finance and Mgmt,Any,25000,0,No
+3268,UBS Business Solutions (India) Private Limited - Group Operations,Pune,Finance and Mgmt,Any,25000,0,No
+3267,UBS Business Solutions (India) Private Limited - RAS FINANCE,Pune,Finance and Mgmt,Any,25000,0,No
+3270,UBS Business Solutions(India)PrivateLimited-Group Operations,Mumbai,Finance and Mgmt,Any,25000,0,No
+3446,Udaan,Bangalore,Finance and Mgmt,"A7 , Any",35000,0,No
+3949,VCTIP Pvt. Ltd. (Market Data Forecast) Business Development,Hyderabad,Finance and Mgmt,Any,18000,0,No
+3944,VCTIP Pvt. Ltd. (Market Data Forecast) Software Development,Hyderabad,Finance and Mgmt,Any,25000,0,No
+3970,Viacom 18 Media Pvt. Ltd.,Bangalore,Finance and Mgmt,Unavailable,Unavailable,Unavailable,No
+3097,Viacom18 Media Pvt. Ltd,Mumbai,Finance and Mgmt,Unavailable,Unavailable,Unavailable,No
+4881,VSD Eduventures Pvt. Ltd.,Gurgaon,Finance and Mgmt,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB",32000,0,No
+833,"Zinnov Management Consulting Pvt. Ltd.,",Bangalore,Finance and Mgmt,"A1 , A3 , A7 , A8 , AA",18000,0,No
+1473,"Zinnov Management Consulting Pvt. Ltd.,",Gurgaon,Finance and Mgmt,"A1 , A3 , A7 , A8 , AA",18000,0,No
+4868,Zomentum (Pactora India Pvt Ltd) Nontech,Bangalore,Finance and Mgmt,Any,20000,0,No
+670,ZS Associates,Bangalore,Finance and Mgmt,A7,45000,0,No
+308,National Chemical Laboratory,Pune,Govt Research Lab,"A1 , A5",0,0,No
+3544,"Ascent Health and Wellness Solutions Private Limited, Mumbai, Mumbai",Mumbai,Health Care,Unavailable,Unavailable,Unavailable,No
+531,"National Centre for Biological Sciences, Bangalore",Bangalore,Health Care,Unavailable,Unavailable,Unavailable,No
+1234,"Novartis Healthcare Pvt. Ltd., Hyderabad",Hyderabad,Health Care,Unavailable,Unavailable,Unavailable,No
+4866,PharmEasy,Bangalore,Health Care,"A7 , A8 , AA",25000,0,No
+4221,"The Center for Disease Dynamics, Economics and Policy India Pvt. Ltd.",New Delhi,Health Care,B1,35000,0,No
+4910,Holy Cow Productions,Bangalore,,Any,15000,0,No
+4042,"AECOM, Mumbai",Mumbai,Infrastructure,Unavailable,Unavailable,Unavailable,No
+4882,Alien Developers,Hyderabad,Infrastructure,A2,0,0,No
+4114,"BuroHappold Engineering, Mumbai",Mumbai,Infrastructure,Unavailable,Unavailable,Unavailable,No
+3742,Linarc India Pvt. Ltd.,Chennai,Infrastructure,A7,20000,0,No
+3391,National Council for Cement and Building Materials,Ballabgarh,Infrastructure,"A1 , A2 , A4 , A8 , B2",0,0,No
+616,"Structural Engineering Research Centre, Chennai",Chennai,Infrastructure,Unavailable,Unavailable,Unavailable,No
+196,Techture Structures Pvt Ltd.,Nagpur,Infrastructure,A7,25000,0,No
+665,Worley Parsons India,Mumbai,Infrastructure,"A7 , C6",0,0,No
+4854,Abhyaas Edu Technologies Pvt. Ltd.,Hyderabad,IT,"A7 , Any",7000,0,No
+785,Access Livelihoods Consulting India (Formerly Chitika),Hyderabad,IT,A7,15000,0,No
+3253,Aditya Birla Group,Bangalore,IT,Unavailable,Unavailable,Unavailable,No
+762,"Adobe Systems, Bangalore",Bangalore,IT,Unavailable,Unavailable,Unavailable,No
+2767,AFour Technologies Pvt. Ltd.,Pune,IT,Any,30000,0,No
+335,Altair Engineering India Pvt. Ltd.,Bangalore,IT,Unavailable,Unavailable,Unavailable,No
+4035,Amazon - Machine Learning,Bangalore,IT,AnyA7,60000,0,No
+4036,Amazon,Hyderabad,IT,Unavailable,Unavailable,Unavailable,No
+339,Amazon Development Center,Bangalore,IT,"A7 , AnyA7",60000,0,No
+338,Amazon Development Center,Chennai,IT,"A7 , C6",60000,0,No
+337,Amazon Development Center,Hyderabad,IT,"A7 , C6 , AnyA7",60000,0,No
+4826,Amazon Professional Services,Delhi,IT,"A7 , C6",60000,0,No
+3255,Apple India Pvt Limited,Hyderabad,IT,"A7 , C6 , AnyA7",45000,0,No
+4849,Asanify Technologies Pvt. Ltd.,Kolkata,IT,A7,25000,0,No
+4803,Asteria Aerospace Pvt. Ltd.,Bangalore,IT,"A3 , A7 , A8 , AA",18000,0,No
+3539,Avaamo,Bangalore,IT,A7,75000,75000,No
+364,Blue Jeans Network India Pvt. Ltd.,Bangalore,IT,A7,50000,0,No
+488,Blue Yonder (JDA),Bangalore,IT,Any,25000,0,No
+489,Blue Yonder (JDA),Hyderabad,IT,"A3 , A7 , A8 , AA , Any",25000,0,No
+3352,Bosch Research and Technology center,Bangalore,IT,A7,30000,0,No
+4897,Bridge Your Network Inc,Bangalore,IT,A7,700,0,No
+4869,Calypso Technology India Pvt Ltd,Mumbai,IT,A7,21000,0,No
+378,Centre for Development of Advanced Computing,Pune,IT,A7,0,0,No
+243,Centre For Development Of Imaging Technology,Trivandrum,IT,A7,10000,0,No
+4024,Cityflo (Komorebi Tech Solutions Pvt. Ltd.),Mumbai,IT,Any,50000,0,No
+3426,Classplus,Noida,IT,"A3 , A7",30000,0,No
+2975,ClearTax,Bangalore,IT,"A7 , H103 , H313",25000,0,No
+4030,COGOS Technologies Pvt Ltd.,Bangalore,IT,"A3 , A7 , A8 , AA , AnyA3 , AnyA7 , AnyA8 , AnyAA",20000,0,No
+3430,Couture AI,Bangalore,IT,"A7 , B4A7",50000,0,No
+4813,CueMath Learn Pvt. Ltd,Bangalore,IT,"Any , AnyB4",18000,0,No
+4814,Curious Bee Innovations Pvt. Ltd. (Askation),Bangalore,IT,"A7 , B4 , B5",40000,0,No
+4088,Dreamplug Technologies,Bangalore,IT,"B4A4 , B3A7 , B2A8",12000,12000,No
+4857,Eatgood Technologies Pvt Ltd,Bangalore,IT,Any,40000,0,No
+2561,Ecom Express Pvt. Ltd.,New delhi,IT,Unavailable,Unavailable,Unavailable,No
+3384,eGovernments Foundation,Bangalore,IT,"A3 , A7 , C6",30000,0,No
+3919,Emptycup Innovation Pvt. Ltd. - Tech (Nedo Software),Bangalore,IT,A7,35000,0,No
+4025,Energy Exemplar,Pune,IT,"A3 , A7 , B3 , B4",40000,0,No
+4078,Everwell Health Solution,Bangalore,IT,A7,40000,0,No
+4895,FamPay Pvt. Ltd. - IT,Bangalore,IT,"A7 , Any",20000,0,No
+3800,Goscale Technologies Pvt. Ltd. - IT,Bangalore,IT,"A7 , Any",25000,0,No
+3833,Groww - Software Development,Bangalore,IT,"A7 , H103 , AnyA7",51000,51000,No
+4858,HealthRx by Bajaj Finserv Health Ltd.,Pune,IT,"A3 , A7 , AA",50000,0,No
+4827,Heraizen Technologies Pvt Ltd,Bangalore,IT,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB",10000,0,No
+4223,i-exceed Technology Solutions,Bangalore,IT,"A3 , A7 , A8 , AA , B4",24000,0,No
+4890,Jupiter,Mumbai,IT,"A3 , A4 , A7 , A8 , B4 , C7 , B4A7",50000,0,No
+3251,Kristal.AI,Bangalore,IT,"A3 , A7 , A8",50000,0,No
+4821,LOGIQ LABS Pvt Ltd ( eShipz.com ),Bangalore,IT,"A3 , A7",20000,0,No
+4217,MBB Labs Pvt. Ltd.,Bangalore,IT,"A1 , A2 , A3 , A4 , A7 , A8 , AA , AB",35000,35000,No
+2559,"Merilytics, Hyderabad",Hyderabad,IT,Unavailable,Unavailable,Unavailable,No
+514,"MiQ Digital India Pvt. Ltd., Bangalore",Bangalore,IT,Unavailable,Unavailable,Unavailable,No
+4891,Mobileum,Bangalore,IT,A7,30000,0,No
+4872,Molde Analytics India Pvt. Ltd.,Hyderabad,IT,A7,35000,0,No
+518,Morgan Stanley Advantage Services,Mumbai,IT,"A3 , A7 , A8 , AA , B3 , B4 , B5 , AnyA3 , AnyA7 , AnyA8 , AnyAA , AnyB3 , AnyB4 , AnyB5",80000,0,No
+539,NetApp,Bangalore,IT,A7,35000,0,No
+4089,Nobroker,Bangalore,IT,-,40000,0,No
+548,"Nucleus Software Export Ltd, Noida",Noida,IT,Unavailable,Unavailable,Unavailable,No
+1472,Nvidia Graphics -Software,Bangalore,IT,"A3 , A7 , A8 , AA",35000,35000,No
+3367,OfBusiness,Gurgaon,IT,"A3 , A7 , A8 , AA , AnyA3 , AnyA7 , AnyA8 , AnyAA",30000,0,No
+559,Oracle India Pvt Ltd.,Bangalore,IT,"A7 , C6",50000,0,No
+557,Oracle India Pvt Ltd.,Hyderabad,IT,"A7 , C6",50000,0,No
+4889,Perfios Software Solutions Pvt. Ltd. ,Bangalore,IT,A7,15000,0,No
+2864,Petasense - Services & App Development,Bangalore,IT,"A1 , A2 , A3 , A4 , A7 , A8 , AA , H103 , H112 , H140 , AnyA3 , AnyA4 , AnyA7 , AnyA8",42000,42000,No
+3911,Petasense Technologies Pvt. Ltd,Hyderabad,IT,"A1 , A2 , A3 , A4 , A7 , A8 , AA",42000,0,No
+4825,Pixxel (Syzygy Space Technologies Pvt. Ltd.) Tech,Bangalore,IT,A7,50000,0,No
+4824,Pixxel (Syzygy Space Technologies Pvt. Ltd.),Bangalore,IT,"A3 , A4 , A7 , A8",30000,0,No
+4815,Praktice.ai,Bangalore,IT,"A1 , A2 , A3 , A4 , A7 , AA",10000,0,No
+4816,"Psi Phi Global Solutions Pvt. Ltd., (OkCredit)",Bangalore,IT,"A7 , AA",50000,0,No
+722,Qubole,Bangalore,IT,A7,90000,0,No
+581,Reflexis Systems India Pvt Ltd.,Pune,IT,AnyA8,30000,30000,No
+4218,Rupifi Tech,Bangalore,IT,Any,30000,0,No
+592,SAP Labs,Bangalore,IT,-,50000,0,No
+4901,Saras Analytics - Tech,Hyderabad,IT,A7,35000,0,No
+4860,SequelOne Solutions Pvt Ltd,Gurgaon,IT,Any,25000,0,No
+3790,ShortHills Tech Pvt. Ltd,Gurgaon,IT,A7,30000,0,No
+4237,SmartHelio Sarl.,NOIDA,IT,"A3 , A7 , AA",20000,0,No
+3332,Sun Mobility,Bangalore,IT,"A3 , A8 , AA",20000,0,No
+4873,Symphony Concerto India Pvt. Ltd.,Bangalore,IT,A7,40000,0,No
+3950,Synchrony,Hyderabad,IT,"A3 , A7 , A8 , AA",35000,0,No
+4822,Takshila Learning Pvt. Ltd.,Delhi,IT,A7,20000,0,No
+3954,Tata Digital Health,Bangalore,IT,"A1 , A2 , A3 , A4 , A5 , A7 , A8 , AA , AB",45000,0,No
+3861,"Techture Structures (IT), Nagpur",Nagpur,IT,Unavailable,Unavailable,Unavailable,No
+4879,TNSTC,Chennai,IT,Any,0,0,No
+4818,Trell Experiences Pvt Ltd,Bangalore,IT,"A3 , A7 , A8",50000,0,No
+4820,Trifacta Inc,Bangalore,IT,A7,60000,0,No
+1196,UPGRAD,Mumbai,IT,"A1 , A2 , A3 , A4 , A7 , A8 , AA , B1 , B2 , B3 , B4 , B5 , AnyA3 , AnyA4 , AnyA7 , AnyA8 , AnyAA",25000,0,No
+3323,UST Global,Trivandrum,IT,Unavailable,Unavailable,Unavailable,No
+659,VMware Software India Pvt. Ltd.,Bangalore,IT,"A7 , A7B1 , A7B2 , A7B4 , A7B5",50000,50000,No
+3530,Western Digital (SANDISK),Bangalore,IT,"A3 , A8 , AA",35000,0,No
+4888,Yulu Bike,Bangalore,IT,"A7 , B4A7",40000,0,No
+1558,Zeotap India Pvt. Ltd.,Bangalore,IT,A7,65000,0,No
+3287,Zinnov Management Consulting Pvt. Ltd (IT Project),Bangalore,IT,"A1 , A3 , A4 , A7 , A8 , AA",30000,0,No
+4867,Zomentum (Pactora India Pvt Ltd),Bangalore,IT,A7,40000,0,No
+4909,Kubric,Bangalore,,A7,30000,0,No
+4908,Lemnisk Pvt. Ltd.,Bangalore,,A7,50000,0,No
+4118,Adani Power,Ahmedabad,Mechanical,"A3 , A4 , A7 , A8 , AA",0,0,No
+678,"Aditya Birla Insulators, Halol",Halol,Mechanical,Unavailable,Unavailable,Unavailable,No
+3831,ASA Industries,Noida,Mechanical,"A4 , AB",20000,0,No
+212,"Bharat Forge Ltd, Pune",Pune,Mechanical,Unavailable,Unavailable,Unavailable,No
+2897,"Divgi TorqTransfer Systems Pvt. Ltd, Shivare, Pune",Pune,Mechanical,Unavailable,Unavailable,Unavailable,No
+215,Divgi TorqTransfer Systems Pvt. Ltd.,Pune,Mechanical,Unavailable,Unavailable,Unavailable,No
+461,"IFB Industries, Goa",Goa,Mechanical,Unavailable,Unavailable,Unavailable,No
+436,"John F Welch Technology Center (GE), Bangalore",Bangalore,Mechanical,Unavailable,Unavailable,Unavailable,No
+3895,Maritime Research Centre,Pune,Mechanical,"A3 , A4 , A7 , AA",0,0,No
+538,NBC Bearings,Jaipur,Mechanical,A4,4000,0,No
+149,"Tega Industries, Kolkata",Kolkata,Mechanical,Unavailable,Unavailable,Unavailable,No
+3350,"Texmaco Rail & Engineering Ltd., Kolkata",Kolkata,Mechanical,Unavailable,Unavailable,Unavailable,No
+4107,Time Tooth,Noida,Mechanical,"A3 , H140",15000,15000,No
+4913,MedCords - Nontech,Kota,,Any,15000,0,No
+4912,MedCords,Kota,,A7,20000,0,No
+4875,Filmboard Movies Pvt. Ltd.,Mumbai,Others,Any,15000,0,No
+4871,Give Foundation,Bangalore,Others,Any,12000,0,No
+4255,Kerala Infrastructure and Technogy for Education,Trivandrum,Others,A7,25000,0,No
+529,My smart price - Tech,Hyderabad,Others,Any,22000,0,No
+535,National Institute of Science and Tech. Dev. Studies (NISTADS),New delhi,Others,Any,0,0,No
+4229,Pilani AtmaNirbhar Resource Center (PARC),Pilani,Others,Any,15000,0,No
+1446,VCTIP Pvt. Ltd. (Market Data Forecast) Research Associate,Hyderabad,Others,"A5 , Any",15000,0,No
+4903,ReferralYogi Technologies Pvt. Ltd.,Chennai,,Any,25000,0,No
+4906,Samyojya,Bangalore,,"A3 , A7 , Any",20000,0,No
+4911,Weir Minerals India Pvt Ltd,Bangalore,,AB,20000,0,No
+4914,Zaggle Prepaid Ocean Services Pvt. Ltd,Hyderabad,,"A7 , AA",30000,0,No

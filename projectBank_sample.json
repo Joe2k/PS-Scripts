@@ -1,0 +1,52 @@
+[
+	{
+		"Station ID": 4959.0,
+		"Company Name": "10dem Education",
+		"Location": "Delhi",
+		"Industry Domain": "nan",
+		"Preferred Branches": "Any",
+		"Stipend (UG)": 15000.0,
+		"Stipend (PG)": 0.0,
+		"Projects": "Project: 0\nTitle: Solar thermal calcination of phospho Gypsum for cement manufacture.\nDescription: Solar thermal calcination of phospho Gypsum for cement manufacture (Chemical/Chemistry)\nProcess design and integration of RDF Gasification in cement manufacturing process (ChemicalChemistry)\nInvestigation for Standardization of High Magnesia (MgO) Clinker for the Manufacture of Blended Cement such as PPC and PSC (Chemical/ Chemistry)\nInvestigations on Development of Portland Composite Cements Based on Fly Ash and Limestone (Chemical/ Chemistry)\nInvestigations on multi component blended cements using limestone, calcined clay and other mineral additives (Chemical/ Chemistry)\nImproving the Performance of Composite Cement By Separate Grinding of Constituents (Chemical/ Chemistry)\nImprovement of Fly ash quality, through chemical / mineral doping in coal during its generation in thermal power plant, and study its effects in cement and concrete (Chemical/ Chemistry)\nDevelopment of new clinker system using industrial by products and low limestone content (Chemical/ Chemistry)\nSox, NOx reduction technology in cement industry (Chemical)\n\n\n\nSkills:  - \nStudents Required: 4\nMin CGPA: 0\nMax CGPA: 0\n\nProject: 1\nTitle: Experimental Study on Shear & Compression Design of High Strength Concrete including effect of Fibre on enhanced ductility & fire resistance  (Civil) Fresh, Hardened and Durability Performance Evaluation of Concrete made with Portland Limestone Cement (PLC) (Civil)\nDescription: Experimental Study on Shear & Compression Design of High Strength Concrete including effect of Fibre on enhanced ductility & fire resistance  (Civil)\nFresh, Hardened and Durability Performance Evaluation of Concrete made with Portland Limestone Cement (PLC) (Civil)\n\nSkills:  - \nStudents Required: 2\nMin CGPA: 0\nMax CGPA: 0\n\nProject: 2\nTitle: Design and Development of Transfer Chute to Handle Alternate Fuels and Their Mix in Indian Cement Plants\nDescription: Design and Development of Transfer Chute to Handle Alternate Fuels and Their Mix in Indian Cement Plants (Mechanical)\nImproving the Performance of Composite Cement By Separate Grinding of Constituents (Mechanical)\nProcess design and integration of RDF Gasification in cement manufacturing process (Mechanical)\nSolar thermal calcination of phospho Gypsum for cement manufacture (Mechanical)\nSkills:  - \nStudents Required: 2\nMin CGPA: 0\nMax CGPA: 0\n\nProject: 3\nTitle: Use of Advanced Electronics in construction and condition assessment of concrete structures \nDescription: Use of Advanced Electronics in construction and condition assessment of concrete structures (Electronics & Instrumentation)\nSkills:  - \nStudents Required: 2\nMin CGPA: 0\nMax CGPA: 0\n\n"
+	},
+	{
+		"Station ID": 3880.0,
+		"Company Name": "ABB Global Industries and Services Private Limited",
+		"Location": "Bangalore",
+		"Industry Domain": "Electronics",
+		"Preferred Branches": "A4 , A7 , AB",
+		"Stipend (UG)": 25000.0,
+		"Stipend (PG)": 0.0,
+		"Projects": "Project: 0\nTitle: modeling, simulation\nDescription: chemical process mathematical modeling, simulation, pharmaco-chemistry, computer analysis involved in pharma operations. \nSkills:  - \nStudents Required: 8\nMin CGPA: 0\nMax CGPA: 0\n\n"
+	},
+	{
+		"Station ID": 4854.0,
+		"Company Name": "Abhyaas Edu Technologies Pvt. Ltd.",
+		"Location": "Hyderabad",
+		"Industry Domain": "IT",
+		"Preferred Branches": "A7 , Any",
+		"Stipend (UG)": 7000.0,
+		"Stipend (PG)": 0.0,
+		"Projects": "Project: 0\nTitle: RISC-V CPU Design and Verification\nDescription: The team aims to verify the next generation RISC-V based CPU’s being designed at Western Digital. The team plans to verify important aspects of the CPU like Caches, Memory Translation and Coherency in the CPU.\nProject domain:\tVLSI Domain – CPU Design and Verification.\n Background in Computer Architecture/Processors, Digital Design, Programming Skills ( Verilog/VHDL, Perl, C/C++, Assembly,  )\nStrong Problem Solving skills, Strong communication skills , Team Player.\nPrefer students who may have taken courses in Computer Organization/Architecture, MicroProcessors/Microcontrollers, Digital Design, Operating Systems.\nAbility to well articulate ideas and good problem solving skills.\n•\tCPU Architecture and Microarchitecture details.\n•\tIndustry relevant Verification approaches and concepts.\n•\tVLSI related programming languages.\n\nSkills:  - \nStudents Required: 1\nMin CGPA: 0\nMax CGPA: 0\n\n"
+	},
+	{
+		"Station ID": 785.0,
+		"Company Name": "Access Livelihoods Consulting India (Formerly Chitika)",
+		"Location": "Hyderabad",
+		"Industry Domain": "IT",
+		"Preferred Branches": "A7",
+		"Stipend (UG)": 15000.0,
+		"Stipend (PG)": 0.0,
+		"Projects": "Project: 0\nTitle: RGBD processing, and learning algorithms\nDescription: We are developing a novel RGBD camera; work will involve developing the interface for camera, processing the RGBD data and learning using the RGBD data\nSkills: DSP, Image Processing, Machine Learning\nSkills:  - \nStudents Required: 1\nMin CGPA: 0\nMax CGPA: 0\n\n"
+	},
+	{
+		"Station ID": 4971.0,
+		"Company Name": "ActiveBuildings",
+		"Location": "Mumbai",
+		"Industry Domain": "nan",
+		"Preferred Branches": "A4",
+		"Stipend (UG)": 10000.0,
+		"Stipend (PG)": 0.0,
+		"Projects": "Project: 0\nTitle: RISC-V CPU Design and Verification\nDescription: The team aims to verify the next generation RISC-V based CPU’s being designed at Western Digital. The team plans to verify important aspects of the CPU like Caches, Memory Translation and Coherency in the CPU.\nProject domain:\tVLSI Domain – CPU Design and Verification.\n Background in Computer Architecture/Processors, Digital Design, Programming Skills ( Verilog/VHDL, Perl, C/C++, Assembly,  )\nStrong Problem Solving skills, Strong communication skills , Team Player.\nPrefer students who may have taken courses in Computer Organization/Architecture, MicroProcessors/Microcontrollers, Digital Design, Operating Systems.\nAbility to well articulate ideas and good problem solving skills.\n•\tCPU Architecture and Microarchitecture details.\n•\tIndustry relevant Verification approaches and concepts.\n•\tVLSI related programming languages.\n\nSkills:  - \nStudents Required: 1\nMin CGPA: 0\nMax CGPA: 0\n\n"
+	}
+]
